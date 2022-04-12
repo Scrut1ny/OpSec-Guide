@@ -79,5 +79,37 @@ Useful Windows Shortcuts
 
 # 5 - MISC
 ```
+Free Games
+- steamunlocked > https://steamunlocked.net/
+- crohasit   > https://crohasit.net/
+- igg-games  > https://igg-games.com/
 
+Torrenting
+- Pirate Bay > https://thepiratebay.org/index.html
+	* Tor V3 > http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion/
+
+Random
+- SteamAchievementManager > https://github.com/gibbed/SteamAchievementManager/releases/latest
+
+Game Mod Menu's
+- Call of Duty: Black Ops
+	* Multiplayer  > 
+	============
+	* Zombies      > https://cabconmodding.com/attachments/cabconmodding-com-encorev8-zombie-edition-0-9-rar.59/
+	
+- Call of Duty: Black Ops 2
+	* Multiplayer  > https://cabconmodding.com/attachments/cabconmodding-com-jiggy-4-3-compiled-pc-rar.1296/
+	============
+	* Zombies      > https://www.mediafire.com/?28un6sdd1wsdad6
+	* Zombies      > https://cabconmodding.com/attachments/encore_9-7_beta_by_cabcon-rar.249/
+	
+- Call of Duty: Black Ops 3
+	* Multiplayer  > 
+	============
+	* Zombies      > 
+	
+- Call of Duty: Black Ops 4
+	* Multiplayer  > 
+	============
+	* Zombies      > 
 ```
