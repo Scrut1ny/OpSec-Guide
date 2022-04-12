@@ -7,6 +7,7 @@
 ```
 - Sophia-Script-for-Windows    > https://github.com/farag2/Sophia-Script-for-Windows/releases/latest
 - O&O ShutUp10++               > https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe
+- privacy.sexy                 > https://privacy.sexy/
 - Autoruns                     > https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 - 
 ```
