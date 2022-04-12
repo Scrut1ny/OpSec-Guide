@@ -16,6 +16,8 @@
 ```
 Websites
 - haveibeenpwned               > https://haveibeenpwned.com/
+- VirusTotal                   > https://www.virustotal.com/gui/home/upload
+- 
 
 Extentions
 - uBlock Origin
