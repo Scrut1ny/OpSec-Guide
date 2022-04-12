@@ -107,9 +107,4 @@ Game Mod Menu's
 	* Multiplayer  > 
 	============
 	* Zombies      > 
-	
-- Call of Duty: Black Ops 4
-	* Multiplayer  > 
-	============
-	* Zombies      > 
 ```
