@@ -6,7 +6,7 @@
 # 2 - DEBLOAT
 ```
 - Sophia-Script-for-Windows    > https://github.com/farag2/Sophia-Script-for-Windows/releases/latest
-- O&O ShutUp10++               > https://www.oo-software.com/en/shutup10
+- O&O ShutUp10++               > https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe
 - Autoruns                     > https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 - 
 ```
@@ -32,7 +32,8 @@ VPN's
 - 
 
 Spoofing
-- Windows-Spoofer              > https://github.com/Scrut1ny/Windows-Spoofer
+- Windows-Spoofer              > https://github.com/Scrut1ny/Windows-Spoofer/releases/latest
+- Windows-MAC-Address-Spoofer  > https://github.com/Scrut1ny/Windows-MAC-Address-Spoofer/releases/latest
 - TMAC                         > https://download.technitium.com/tmac/TMACv6.0.7_Setup.zip
 - VolumeID v2.1                > https://download.sysinternals.com/files/VolumeId.zip
 ```
