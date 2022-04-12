@@ -13,14 +13,28 @@
 
 # 3 - SECURITY
 ```
-* Websites
+Websites
 - haveibeenpwned               > https://haveibeenpwned.com/
-* AV's
+
+AV's
 - Malwarebytes                 > https://www.malwarebytes.com/mwb-download/thankyou
 - webroot                      > https://anywhere.webrootcloudav.com/zerol/wsainstall.exe
 - ESET                         > 
 - 
-* 
+
+Mail Services
+- tutanota                     > https://tutanota.com/
+- 
+- 
+
+VPN's
+- NordVPN                      > https://nordvpn.com/
+- 
+
+Spoofing
+- Windows-Spoofer              > https://github.com/Scrut1ny/Windows-Spoofer
+- TMAC                         > https://download.technitium.com/tmac/TMACv6.0.7_Setup.zip
+- VolumeID v2.1                > https://download.sysinternals.com/files/VolumeId.zip
 ```
 
 # 4 - SYSTEM
