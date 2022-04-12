@@ -11,7 +11,7 @@
 - 
 ```
 
-# 3 - SECURITY
+# 3 - PRIVACY & SECURITY
 ```
 Websites
 - haveibeenpwned               > https://haveibeenpwned.com/
