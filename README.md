@@ -70,7 +70,11 @@ Spoofing
 
 # 4 - SYSTEM
 ```
-
+Useful Windows Shortcuts
+- System Properties Performance > SystemPropertiesPerformance.exe
+- Group Policy Editor           > gpedit.msc
+- Services                      > services.msc
+- NIC                           > ncpa.cpl
 ```
 
 # 5 - MISC
