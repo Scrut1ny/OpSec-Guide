@@ -95,12 +95,17 @@ Random
 - SteamAchievementManager > https://github.com/gibbed/SteamAchievementManager/releases/latest
 
 Game Mod Menu's
+
+- Black Ops 2 GSC Studio > https://mega.nz/file/hDoGwAbR#j-9i3oIZyiAz13FULRTaxAiKQcSCOXo-44Lr977YfcQ
+
 - Call of Duty: Black Ops
 	* Multiplayer  > 
 	============
 	* Zombies      > https://cabconmodding.com/attachments/cabconmodding-com-encorev8-zombie-edition-0-9-rar.59/
 	
 - Call of Duty: Black Ops 2
+	- Black Ops 2 GSC Studio > https://mega.nz/file/hDoGwAbR#j-9i3oIZyiAz13FULRTaxAiKQcSCOXo-44Lr977YfcQ
+
 	* Multiplayer  > https://cabconmodding.com/attachments/cabconmodding-com-jiggy-4-3-compiled-pc-rar.1296/
 	============
 	* Zombies      > https://www.mediafire.com/?28un6sdd1wsdad6
