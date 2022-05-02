@@ -23,9 +23,10 @@ Extentions
 - uBlock Origin
 	FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
 	CHOME   > https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/
+
 - Decentraleyes
-FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
-CHOME   > https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj/
+	FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
+	CHOME   > https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj/
 
 - User-Agent Switcher and Manager
 	FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/
