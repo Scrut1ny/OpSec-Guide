@@ -21,27 +21,27 @@ Websites
 
 Extentions
 - uBlock Origin
-      FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
-      CHOME   > https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/
+	FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+	CHOME   > https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/
 - Decentraleyes
-	    FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
-	    CHOME   > https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj/
+FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
+CHOME   > https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj/
 
 - User-Agent Switcher and Manager
-	    FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/
-	    CHOME   > https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg/
+	FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/
+	CHOME   > https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg/
 
 - HTTPS Everywhere
-	    FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/
-	    CHOME   > https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/
+	FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/
+	CHOME   > https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/
 
 - CanvasBlocker
-	    FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/
-	    CHOME   > https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd/
+	FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/
+	CHOME   > https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd/
 
 - Tampermonkey
- 	    FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
-	    CHOME   > https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/
+ 	FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
+	CHOME   > https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/
 
 School Extentions
 - School Cheats   > https://chrome.google.com/webstore/detail/school-cheats/dcecjjjnjecoiehclollekjmfgblkkha
