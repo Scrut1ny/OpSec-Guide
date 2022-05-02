@@ -1,0 +1,133 @@
+>> Favorite Programs
+
+ - GeForce® Experience™ > https://www.nvidia.com/en-us/geforce/geforce-experience/
+
+ - .NET 5.0             > https://dotnet.microsoft.com/download/dotnet/5.0
+
+ - DirectX              > https://www.microsoft.com/en-us/download/details.aspx?id=35
+
+ - Java                 > https://www.java.com/
+
+ - Glary Utilities 5 > https://www.glarysoft.com/
+	License codes:
+	3788-6167-9582-6222-6668
+	X788-6167-958X-NL5P-UZJB
+	8788-6167-9588-7Y0E-2K7W
+
+ - MSI Afterburner   > https://www.msi.com/Landing/afterburner/graphics-cards
+
+ - 7zip              > https://www.7-zip.org/
+
+ - ImageGlass        > https://github.com/d2phap/ImageGlass
+
+ - VLC media player > https://www.videolan.org/
+
+ - Phototshop > https://www.gimp.org/downloads/
+
+ - Video Editing > https://www.blackmagicdesign.com/uk/products/davinciresolve/
+
+ - Process Hacker > https://processhacker.sourceforge.io/nightly.php
+
+ - Notepad++      > https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest
+ 
+ - KeePassXC      > https://github.com/keepassxreboot/keepassxc/releases/latest
+
+ - TranslucentTB  > https://github.com/TranslucentTB/TranslucentTB/releases/latest
+
+ - qBittorrent > https://www.qbittorrent.org/download.php (SAFE)
+
+ - OpenVPN > https://openvpn.net/vpn-client/
+
+ - Courvix Network > https://courvix.com/vpn
+
+ - Discord > https://discord.com/
+
+ - Steam > https://store.steampowered.com/
+
+ - Spotify > https://www.spotify.com/us/download/windows/
+
+ - Wireshark > https://www.wireshark.org/
+
+ - Python > https://www.python.org/downloads/
+
+ - yt-dlp > https://github.com/yt-dlp/yt-dlp/releases/latest
+
+ - superf4 > https://github.com/stefansundin/superf4/releases/download/v1.4/SuperF4-1.4.exe
+
+>> MAIN DRIVERS >
+
+ - GeForce® Experience™ > https://www.nvidia.com/en-us/geforce/geforce-experience/
+
+ - .NET 5.0             > https://dotnet.microsoft.com/download/dotnet/5.0
+
+ - DirectX              > https://www.microsoft.com/en-us/download/details.aspx?id=35
+
+ - Java                 > https://www.java.com/
+
+>> ESSENTIAL PROGRAMS >
+
+ - Glary Utilities 5 > https://www.glarysoft.com/
+	License codes:
+	3788-6167-9582-6222-6668
+	X788-6167-958X-NL5P-UZJB
+	8788-6167-9588-7Y0E-2K7W
+
+ - MSI Afterburner   > https://www.msi.com/Landing/afterburner/graphics-cards
+
+ - WEBROOT           > https://www.webroot.com/
+
+ - 7zip              > https://www.7-zip.org/
+
+>> EDITING, PHOTOSHOP, VIDEO EDITING, THUMBNAILS ETC >
+
+ - Phototshop > https://www.gimp.org/downloads/
+
+ - Video Editing > https://www.blackmagicdesign.com/uk/products/davinciresolve/
+
+>> SOMEWHAT-ESSENTIAL PROGRAMS >
+
+ - Process Hacker > https://processhacker.sourceforge.io/nightly.php
+
+ - Notepad++      > https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest
+ 
+ - KeePassXC      > https://github.com/keepassxreboot/keepassxc/releases/latest
+
+ - ShutUp10       > https://www.oo-software.com/en/shutup10
+
+ - HWIDinfo       > https://www.hwinfo.com/download/
+
+ - TranslucentTB  > https://github.com/TranslucentTB/TranslucentTB/releases/latest
+
+>> NON-ESSENTIAL PROGRAMS >
+
+ - VMware PRO > https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
+	* Pro Licence Key: ZF3R0-FHED2-M80TY-8QYGC-NPKYF
+
+ - qBittorrent > https://www.qbittorrent.org/download.php (SAFE)
+
+ - Discord > https://discord.com/
+
+ - Steam > https://store.steampowered.com/
+
+ - Spotify > https://www.spotify.com/us/download/windows/
+ 
+ - Etcher > https://github.com/balena-io/etcher/releases/latest
+
+ - Wireshark > https://www.wireshark.org/
+
+ - Advanced IP Scanner > https://www.advanced-ip-scanner.com/
+
+ - Python > https://www.python.org/downloads/
+
+ - WeMod > https://www.wemod.com/
+ 
+ - VLC media player > https://www.videolan.org/
+ 
+ - yt-dlp > https://github.com/yt-dlp/yt-dlp/releases/latest
+
+ - FFmpeg > https://ffmpeg.org/
+
+>> FREE MOVIE SERVICE >
+ 
+ - Nox > https://www.bignox.com/
+	* https://cinemaapk.net/
