@@ -78,10 +78,80 @@ Useful Windows Shortcuts
 - Group Policy Editor           > gpedit.msc
 - Services                      > services.msc
 - NIC                           > ncpa.cpl
+
+WIN+R - SystemPropertiesPerformance.exe
+
+Custom:
+
+☐  Animate controls and elements inside windows
+☐  Animate widnows when minimzing and maximizing
+☐  Animations in the taskbar
+☐  Enable Peek
+☐  Fade or slide menus into view
+☐  Fade or slide ToolTips into view
+☐  Fade out menu items after clicking
+☐  Save taskbar thumbnail previews
+☐  Show shadows under mouse pointer
+☐  Show shadows under windows
+☐  Show thumbnails instead of icons
+☑ Show translucent selection rectangle
+☑ Show window contents while dragging
+☐  Slide open combo boxes
+☑ Smooth edges of screen fonts
+☐  Smooth-scroll list boxes
+☐  Use drop shadows for icons labels on the desktop
+
+WIN+R - ncpa.cpl
+
+Custom:
+
+☐  Client for Microsoft Networks
+☐  File and Printer Sharing for Microsoft Networks
+☐  Npcap Packet Driver (NPCAP)
+☐  QoS Packet Scheduler
+☑ Internet Protocol Version 4 (TCP/IPv4)
+☐  Microsoft Network Adapter Multiplexor Protocol
+☐  Microsoft LLDP Protocol Driver
+☑ Internet Protocol Version 6 (TCP/IPv6)
+☐  Link-Layer Topology Discovery Responder
+☐  Link-Layer Topology Discovery Mapper I/O Driver
+
+WIN+R - mmsys.cpl
+
+Playback/Recording Tabs
+- Disable all unused.
+☐ Show Disabled Devices
+☐ Show Disconnected Devices
+
+Sounds Tab
+Sound Scheme:
+- No Sounds
+
+Communications Tab
+☐ Do nothing
 ```
 
 # 5 - MISC
 ```
+BIOS Keys by Manufacturer
+
+ASRock: F2 or DEL
+ASUS:   F2 for all PCs, F2 or DEL for Motherboards
+Acer:   F2 or DEL
+Dell:   F2 or F12
+ECS:    DEL
+Gigabyte / Aorus: F2 or DEL
+HP: F10
+Lenovo (Consumer Laptops): F2 or Fn + F2
+Lenovo (Desktops): F1
+Lenovo (ThinkPads): Enter then F1.
+MSI: DEL for motherboards and PCs
+Microsoft Surface Tablets: Press and hold volume up button.
+Origin PC: F2
+Samsung: F2
+Toshiba: F2
+Zotac: DEL
+
 Free Games
 - steamunlocked > https://steamunlocked.net/
 - crohasit   > https://crohasit.net/
