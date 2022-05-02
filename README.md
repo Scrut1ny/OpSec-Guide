@@ -82,7 +82,6 @@ Useful Windows Shortcuts
 WIN+R - SystemPropertiesPerformance.exe
 
 Custom:
-
 ☐  Animate controls and elements inside windows
 ☐  Animate widnows when minimzing and maximizing
 ☐  Animations in the taskbar
@@ -104,7 +103,6 @@ Custom:
 WIN+R - ncpa.cpl
 
 Custom:
-
 ☐  Client for Microsoft Networks
 ☐  File and Printer Sharing for Microsoft Networks
 ☐  Npcap Packet Driver (NPCAP)
