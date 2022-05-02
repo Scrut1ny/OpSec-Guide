@@ -93,10 +93,10 @@ Custom:
 ☐  Show shadows under mouse pointer
 ☐  Show shadows under windows
 ☐  Show thumbnails instead of icons
-☑ Show translucent selection rectangle
-☑ Show window contents while dragging
+☑  Show translucent selection rectangle
+☑  Show window contents while dragging
 ☐  Slide open combo boxes
-☑ Smooth edges of screen fonts
+☑  Smooth edges of screen fonts
 ☐  Smooth-scroll list boxes
 ☐  Use drop shadows for icons labels on the desktop
 
@@ -107,10 +107,10 @@ Custom:
 ☐  File and Printer Sharing for Microsoft Networks
 ☐  Npcap Packet Driver (NPCAP)
 ☐  QoS Packet Scheduler
-☑ Internet Protocol Version 4 (TCP/IPv4)
+☑  Internet Protocol Version 4 (TCP/IPv4)
 ☐  Microsoft Network Adapter Multiplexor Protocol
 ☐  Microsoft LLDP Protocol Driver
-☑ Internet Protocol Version 6 (TCP/IPv6)
+☑  Internet Protocol Version 6 (TCP/IPv6)
 ☐  Link-Layer Topology Discovery Responder
 ☐  Link-Layer Topology Discovery Mapper I/O Driver
 
