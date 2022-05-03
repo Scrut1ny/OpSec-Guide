@@ -128,6 +128,26 @@ Sound Scheme:
 
 Communications Tab
 ☐ Do nothing
+
+Installation Error Code 2502 & 2503 FIX
+
+Open CMD as admin then paste these commands in.
+===============================================
+takeown /f “%systemroot%\Temp” /R /A /D Y
+icacls “%systemroot%\Temp” /inheritance:r /grant:r Users:(OI)(CI)F /T
+icacls “%systemroot%\Temp” /inheritance:r /grant:r Everyone:(OI)(CI)F /T
+icacls “%systemroot%\Temp” /grant Administrators:F /T
+icacls “%systemroot%\Temp” /grant Users:F /T
+icacls “%systemroot%\Temp” /grant SYSTEM:F /T
+icacls “%systemroot%\Temp” /grant Everyone:F /T
+takeown /f “%temp%” /R /A /D Y
+icacls “%temp%” /inheritance:r /grant:r Users:(OI)(CI)F /T
+icacls “%temp%” /inheritance:r /grant:r Everyone:(OI)(CI)F /T
+icacls “%temp%” /grant Administrators:F /T
+icacls “%temp%” /grant Users:F /T
+icacls “%temp%” /grant SYSTEM:F /T
+icacls “%temp%” /grant Everyone:F /T
+===============================================
 ```
 
 # 5 - MISC
