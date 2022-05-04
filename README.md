@@ -72,9 +72,26 @@ Recommended Instant Messengers
 - Briar                        > https://briarproject.org/
 - Jami                         > https://jami.net/
 
+Privacy oriented DNS
+- NextDNS                      > https://nextdns.io
+- Quad9                        > https://www.quad9.net
+- AdGuard                      > https://adguard.com/en/adguard-dns/overview.html
+
+Recommended search engines
+- Brave Search
+- DuckDuckGo (censoring stuff / https://www.youtube.com/watch?v=ZQC28Is_k2k)
+- SearX
+- Startpage
+
 VPN
 - OpenVPN                      > https://openvpn.net/vpn-client/
 - Courvix                      > https://courvix.com/vpn
+
+Browser tests
+- https://browserleaks.com
+- https://privacytests.org
+- https://ipleak.net
+- https://d3ward.github.io/toolz/adblock.html
 
 Spoofing
 - Windows-Spoofer              > https://github.com/Scrut1ny/Windows-Spoofer/releases/latest
