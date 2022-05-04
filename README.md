@@ -98,6 +98,18 @@ Spoofing
 - Windows-MAC-Address-Spoofer  > https://github.com/Scrut1ny/Windows-MAC-Address-Spoofer/releases/latest
 - TMAC                         > https://download.technitium.com/tmac/TMACv6.0.7_Setup.zip
 - VolumeID v2.1                > https://download.sysinternals.com/files/VolumeId.zip
+
+Resources
+- https://www.privacytools.io
+- https://ssd.eff.org
+- https://haveibeenpwned.com
+- https://stallman.org/facebook.html
+- https://madaidans-insecurities.github.io
+- https://sizeof.cat/links
+- https://ryf.fsf.org/products
+- https://privacyspy.org
+- https://techlore.tech
+- https://thenewoil.org
 ```
 
 # 4 - SYSTEM
