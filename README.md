@@ -53,17 +53,28 @@ School Extentions
 AV's
 - Malwarebytes                 > https://www.malwarebytes.com/mwb-download/thankyou
 - webroot                      > https://anywhere.webrootcloudav.com/zerol/wsainstall.exe
-- ESET                         > 
+- ESET                         > https://proxy.eset.com/li-handler/?transaction_id=odcm_download|esetgwsprod|us|oksgz9g0y9mica4ayzpw5dbixf3p53kaudw5tpwz1pff0un8lw096ozitly6heexp8wid&branch=us&prod=essp
 - 
 
 Mail Services
 - tutanota                     > https://tutanota.com/
-- 
-- 
+- Disroot
+- ProtonMail
+- mailbox.org
+- CTemplar
+- StartMail
+- Cock.li
+- RiseUp (invite only)
 
-VPN's
-- NordVPN                      > https://nordvpn.com/
-- 
+Recommended Instant Messengers
+- XMPP
+- Session
+- Briar
+- Jami
+
+VPN
+- OpenVPN                      > https://openvpn.net/vpn-client/
+- Courvix                      > https://courvix.com/vpn
 
 Spoofing
 - Windows-Spoofer              > https://github.com/Scrut1ny/Windows-Spoofer/releases/latest
