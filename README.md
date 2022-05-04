@@ -58,19 +58,19 @@ AV's
 
 Mail Services
 - tutanota                     > https://tutanota.com/
-- Disroot
-- ProtonMail
-- mailbox.org
-- CTemplar
-- StartMail
-- Cock.li
-- RiseUp (invite only)
+- Disroot                      > https://cloud.disroot.org/login
+- ProtonMail                   > https://protonmail.com/
+- mailbox.org                  > https://mailbox.org/
+- CTemplar                     > https://ctemplar.com/
+- StartMail                    > https://www.startmail.com/
+- Cock.li                      > https://cock.li/
+- RiseUp (invite only)         > https://riseup.net/
 
 Recommended Instant Messengers
-- XMPP
-- Session
-- Briar
-- Jami
+- XMPP                         > https://xmpp.org/
+- Session                      > https://getsession.org/
+- Briar                        > https://briarproject.org/
+- Jami                         > https://jami.net/
 
 VPN
 - OpenVPN                      > https://openvpn.net/vpn-client/
