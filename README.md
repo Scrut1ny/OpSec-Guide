@@ -78,10 +78,10 @@ Privacy oriented DNS
 - AdGuard                      > https://adguard.com/en/adguard-dns/overview.html
 
 Recommended search engines
-- Brave Search
+- Brave Search                 > https://search.brave.com/
 - DuckDuckGo (censoring stuff / https://www.youtube.com/watch?v=ZQC28Is_k2k)
-- SearX
-- Startpage
+- SearX                        > https://searx.space/#
+- Startpage                    > https://www.startpage.com/
 
 VPN
 - OpenVPN                      > https://openvpn.net/vpn-client/
