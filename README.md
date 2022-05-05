@@ -9,7 +9,6 @@
 - O&O ShutUp10++               > https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe
 - privacy.sexy                 > https://privacy.sexy/
 - Autoruns                     > https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
-- 
 ```
 
 # 3 - PRIVACY & SECURITY
@@ -17,32 +16,14 @@
 Websites
 - haveibeenpwned               > https://haveibeenpwned.com/
 - VirusTotal                   > https://www.virustotal.com/gui/home/upload
-- 
 
 Extentions
-- uBlock Origin
-	FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
-	CHOME   > https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/
-
-- Decentraleyes
-	FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
-	CHOME   > https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj/
-
-- User-Agent Switcher and Manager
-	FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/
-	CHOME   > https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg/
-
-- HTTPS Everywhere
-	FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/
-	CHOME   > https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp/
-
-- CanvasBlocker
-	FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/
-	CHOME   > https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd/
-
-- Tampermonkey
- 	FIREFOX > https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
-	CHOME   > https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo/
+- uBlock Origin                > https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+- Decentraleyes                > https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
+- UAS&M                        > https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/
+- HTTPS Everywhere             > https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/
+- CanvasBlocker                > https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/
+- Tampermonkey                 > https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
 
 School Extentions
 - School Cheats   > https://chrome.google.com/webstore/detail/school-cheats/dcecjjjnjecoiehclollekjmfgblkkha
@@ -54,7 +35,6 @@ AV's
 - Malwarebytes                 > https://www.malwarebytes.com/mwb-download/thankyou
 - webroot                      > https://anywhere.webrootcloudav.com/zerol/wsainstall.exe
 - ESET                         > https://proxy.eset.com/li-handler/?transaction_id=odcm_download|esetgwsprod|us|oksgz9g0y9mica4ayzpw5dbixf3p53kaudw5tpwz1pff0un8lw096ozitly6heexp8wid&branch=us&prod=essp
-- 
 
 Mail Services
 - tutanota                     > https://tutanota.com/
