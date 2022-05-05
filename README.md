@@ -26,10 +26,10 @@ Extentions
 - Tampermonkey                 > https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
 
 School Extentions
-- School Cheats   > https://chrome.google.com/webstore/detail/school-cheats/dcecjjjnjecoiehclollekjmfgblkkha
-- Quizizz Rocks   > https://chrome.google.com/webstore/detail/quizizz-rocks/kmmibboliipddkiknfpkfnhblinocgog
-- Quizlet Rocks   > https://chrome.google.com/webstore/detail/quizlet-rocks/pgbnfimhfgoibnimmfoeacjehkecgkmk
-- Anti Testportal > https://chrome.google.com/webstore/detail/anti-testportal/dpgfbfopkfdfmlfdpmoanamopdnibhkl
+- School Cheats                > https://chrome.google.com/webstore/detail/school-cheats/dcecjjjnjecoiehclollekjmfgblkkha
+- Quizizz Rocks                > https://chrome.google.com/webstore/detail/quizizz-rocks/kmmibboliipddkiknfpkfnhblinocgog
+- Quizlet Rocks                > https://chrome.google.com/webstore/detail/quizlet-rocks/pgbnfimhfgoibnimmfoeacjehkecgkmk
+- Anti Testportal              > https://chrome.google.com/webstore/detail/anti-testportal/dpgfbfopkfdfmlfdpmoanamopdnibhkl
 
 AV's
 - Malwarebytes                 > https://www.malwarebytes.com/mwb-download/thankyou
