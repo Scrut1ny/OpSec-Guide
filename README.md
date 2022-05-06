@@ -2,15 +2,15 @@
 - Microsoft-Activation-Scripts > [Link](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/latest)  
 
 # 2 - DEBLOAT
-- Sophia-Script-for-Windows    > https://github.com/farag2/Sophia-Script-for-Windows/releases/latest
-- O&O ShutUp10++               > https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe
-- privacy.sexy                 > https://privacy.sexy/
-- Autoruns                     > https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
+- Sophia-Script-for-Windows    > [Link](https://github.com/farag2/Sophia-Script-for-Windows/releases/latest)
+- O&O ShutUp10++               > [Link](https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe)
+- privacy.sexy                 > [Link](https://privacy.sexy/)
+- Autoruns                     > [Link](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
 
 # 3 - PRIVACY & SECURITY
 Websites
-- haveibeenpwned               > https://haveibeenpwned.com/
-- VirusTotal                   > https://www.virustotal.com/gui/home/upload
+- haveibeenpwned               > [Link](https://haveibeenpwned.com/)
+- VirusTotal                   > [Link](https://www.virustotal.com/gui/home/upload)
 
 Extentions
 - uBlock Origin                > https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
