@@ -138,12 +138,12 @@ Custom:
 ==================================================
 
 ==================================================
-WIN+R - ncpa.cpl
+WIN+R - ncpa.cpl - Select NIC, then select Properties.
 
 Custom:
 ☐  Client for Microsoft Networks
 ☐  File and Printer Sharing for Microsoft Networks
-☐  Npcap Packet Driver (NPCAP)
+☑  Npcap Packet Driver (NPCAP)  <-- Wireshark
 ☐  QoS Packet Scheduler
 ☑  Internet Protocol Version 4 (TCP/IPv4)
 ☐  Microsoft Network Adapter Multiplexor Protocol
