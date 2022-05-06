@@ -1,6 +1,6 @@
 # 1 - ACTIVATION
 ```
-- Microsoft-Activation-Scripts > https://github.com/massgravel/Microsoft-Activation-Scripts/releases/latest
+- Microsoft-Activation-Scripts > [Link](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/latest)  
 ```
 
 # 2 - DEBLOAT
