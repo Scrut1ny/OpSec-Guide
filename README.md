@@ -102,6 +102,7 @@ Useful Windows Shortcuts
 - NIC                           > ncpa.cpl
 - UAC                           > UserAccountControlSettings.exe
 
+==================================================
 WIN+R - UserAccountControlSettings.exe
 
  --|--
@@ -111,7 +112,9 @@ WIN+R - UserAccountControlSettings.exe
  --|--
    |
  --|--
+==================================================
 
+==================================================
 WIN+R - SystemPropertiesPerformance.exe
 
 Custom:
@@ -132,7 +135,9 @@ Custom:
 ☑  Smooth edges of screen fonts
 ☐  Smooth-scroll list boxes
 ☐  Use drop shadows for icons labels on the desktop
+==================================================
 
+==================================================
 WIN+R - ncpa.cpl
 
 Custom:
@@ -146,7 +151,9 @@ Custom:
 ☑  Internet Protocol Version 6 (TCP/IPv6)
 ☐  Link-Layer Topology Discovery Responder
 ☐  Link-Layer Topology Discovery Mapper I/O Driver
+==================================================
 
+==================================================
 WIN+R - mmsys.cpl
 
 Playback/Recording Tabs
@@ -160,11 +167,13 @@ Sound Scheme:
 
 Communications Tab
 ☐ Do nothing
+==================================================
 
+==================================================
 Installation Error Code 2502 & 2503 FIX
 
-Open CMD as admin then paste these commands in.
-===============================================
+Open CMD as admin then paste these commands in:
+
 takeown /f “%systemroot%\Temp” /R /A /D Y
 icacls “%systemroot%\Temp” /inheritance:r /grant:r Users:(OI)(CI)F /T
 icacls “%systemroot%\Temp” /inheritance:r /grant:r Everyone:(OI)(CI)F /T
@@ -179,7 +188,7 @@ icacls “%temp%” /grant Administrators:F /T
 icacls “%temp%” /grant Users:F /T
 icacls “%temp%” /grant SYSTEM:F /T
 icacls “%temp%” /grant Everyone:F /T
-===============================================
+==================================================
 ```
 
 # 5 - MISC
