@@ -59,7 +59,7 @@ Privacy oriented DNS
 
 Recommended search engines
 - Brave Search                 > https://search.brave.com/
-- DuckDuckGo (censoring stuff / https://www.youtube.com/watch?v=ZQC28Is_k2k)
+- DuckDuckGo                   > https://duckduckgo.com/
 - SearX                        > https://searx.space/#
 - Startpage                    > https://www.startpage.com/
 
@@ -67,11 +67,12 @@ VPN
 - OpenVPN                      > https://openvpn.net/vpn-client/
 - Courvix                      > https://courvix.com/vpn
 
-Browser tests
+Testing
 - https://browserleaks.com
 - https://privacytests.org
 - https://ipleak.net
 - https://d3ward.github.io/toolz/adblock.html
+- https://canyoublockit.com/
 
 Spoofing
 - Windows-Spoofer              > https://github.com/Scrut1ny/Windows-Spoofer/releases/latest
