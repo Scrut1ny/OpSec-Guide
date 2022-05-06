@@ -12,7 +12,7 @@
 - haveibeenpwned               > [Link](https://haveibeenpwned.com/)
 - VirusTotal                   > [Link](https://www.virustotal.com/gui/home/upload)
 
-Extentions
+### Extentions
 - uBlock Origin                > https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
 - Decentraleyes                > https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
 - UAS&M                        > https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/
@@ -20,18 +20,18 @@ Extentions
 - CanvasBlocker                > https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/
 - Tampermonkey                 > https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
 
-School Extentions
+### School Extentions
 - School Cheats                > https://chrome.google.com/webstore/detail/school-cheats/dcecjjjnjecoiehclollekjmfgblkkha
 - Quizizz Rocks                > https://chrome.google.com/webstore/detail/quizizz-rocks/kmmibboliipddkiknfpkfnhblinocgog
 - Quizlet Rocks                > https://chrome.google.com/webstore/detail/quizlet-rocks/pgbnfimhfgoibnimmfoeacjehkecgkmk
 - Anti Testportal              > https://chrome.google.com/webstore/detail/anti-testportal/dpgfbfopkfdfmlfdpmoanamopdnibhkl
 
-AV's
+### AV's
 - Malwarebytes                 > https://www.malwarebytes.com/mwb-download/thankyou
 - webroot                      > https://anywhere.webrootcloudav.com/zerol/wsainstall.exe
 - ESET                         > https://proxy.eset.com/li-handler/?transaction_id=odcm_download|esetgwsprod|us|oksgz9g0y9mica4ayzpw5dbixf3p53kaudw5tpwz1pff0un8lw096ozitly6heexp8wid&branch=us&prod=essp
 
-Mail Services
+### Mail Services
 - tutanota                     > https://tutanota.com/
 - Disroot                      > https://cloud.disroot.org/login
 - ProtonMail                   > https://protonmail.com/
@@ -41,41 +41,41 @@ Mail Services
 - Cock.li                      > https://cock.li/
 - RiseUp (invite only)         > https://riseup.net/
 
-Recommended Instant Messengers
+### Recommended Instant Messengers
 - XMPP                         > https://xmpp.org/
 - Session                      > https://getsession.org/
 - Briar                        > https://briarproject.org/
 - Jami                         > https://jami.net/
 
-Privacy oriented DNS
+### Privacy oriented DNS
 - NextDNS                      > https://nextdns.io
 - Quad9                        > https://www.quad9.net
 - AdGuard                      > https://adguard.com/en/adguard-dns/overview.html
 
-Recommended search engines
+### Recommended search engines
 - Brave Search                 > https://search.brave.com/
 - DuckDuckGo                   > https://duckduckgo.com/
 - SearX                        > https://searx.space/#
 - Startpage                    > https://www.startpage.com/
 
-VPN
+### VPN
 - OpenVPN                      > https://openvpn.net/vpn-client/
 - Courvix                      > https://courvix.com/vpn
 
-Testing
+### Testing
 - https://browserleaks.com
 - https://privacytests.org
 - https://ipleak.net
 - https://d3ward.github.io/toolz/adblock.html
 - https://canyoublockit.com/
 
-Spoofing
+### Spoofing
 - Windows-Spoofer              > https://github.com/Scrut1ny/Windows-Spoofer/releases/latest
 - Windows-MAC-Address-Spoofer  > https://github.com/Scrut1ny/Windows-MAC-Address-Spoofer/releases/latest
 - TMAC                         > https://download.technitium.com/tmac/TMACv6.0.7_Setup.zip
 - VolumeID v2.1                > https://download.sysinternals.com/files/VolumeId.zip
 
-Resources
+### Resources
 - https://www.privacytools.io
 - https://ssd.eff.org
 - https://haveibeenpwned.com
@@ -87,7 +87,7 @@ Resources
 - https://techlore.tech
 - https://thenewoil.org
 
-# 4 - SYSTEM
+### 4 - SYSTEM
 
 Useful Windows Shortcuts
 - System Properties Performance > SystemPropertiesPerformance.exe
