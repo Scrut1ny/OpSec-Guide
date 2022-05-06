@@ -100,6 +100,17 @@ Useful Windows Shortcuts
 - Group Policy Editor           > gpedit.msc
 - Services                      > services.msc
 - NIC                           > ncpa.cpl
+- UAC                           > UserAccountControlSettings.exe
+
+WIN+R - UserAccountControlSettings.exe
+
+ --|--
+   |
+ --|--  <---- Select this option!
+   |
+ --|--
+   |
+ --|--
 
 WIN+R - SystemPropertiesPerformance.exe
 
