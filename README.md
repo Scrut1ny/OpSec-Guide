@@ -8,7 +8,6 @@
 - Autoruns                     > https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 
 # 3 - PRIVACY & SECURITY
-```
 Websites
 - haveibeenpwned               > https://haveibeenpwned.com/
 - VirusTotal                   > https://www.virustotal.com/gui/home/upload
@@ -87,10 +86,9 @@ Resources
 - https://privacyspy.org
 - https://techlore.tech
 - https://thenewoil.org
-```
 
 # 4 - SYSTEM
-```
+
 Useful Windows Shortcuts
 - System Properties Performance > SystemPropertiesPerformance.exe
 - Group Policy Editor           > gpedit.msc
@@ -185,10 +183,9 @@ icacls “%temp%” /grant Users:F /T
 icacls “%temp%” /grant SYSTEM:F /T
 icacls “%temp%” /grant Everyone:F /T
 ==================================================
-```
 
 # 5 - MISC
-```
+
 BIOS Keys by Manufacturer
 
 ASRock                    : F2 or DEL
@@ -244,4 +241,3 @@ Game Mod Menu's
 	============
 	* Zombies      > https://cabconmodding.com/attachments/zm_encorev14_release_1-rar.1103/
 	* Zombies      > https://cabconmodding.com/attachments/zm_encorev12_alpha_1-rar.639/
-```
