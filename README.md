@@ -13,39 +13,39 @@
 - VirusTotal                   > [Link](https://www.virustotal.com/gui/home/upload)
 
 ### Extentions
-- uBlock Origin                > https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
-- Decentraleyes                > https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
-- UAS&M                        > https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/
-- HTTPS Everywhere             > https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/
-- CanvasBlocker                > https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/
-- Tampermonkey                 > https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
+- uBlock Origin                > [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- Decentraleyes                > [Link](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
+- UAS&M                        > [Link](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)
+- HTTPS Everywhere             > [Link](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
+- CanvasBlocker                > [Link](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
+- Tampermonkey                 > [Link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
 ### School Extentions
-- School Cheats                > https://chrome.google.com/webstore/detail/school-cheats/dcecjjjnjecoiehclollekjmfgblkkha
-- Quizizz Rocks                > https://chrome.google.com/webstore/detail/quizizz-rocks/kmmibboliipddkiknfpkfnhblinocgog
-- Quizlet Rocks                > https://chrome.google.com/webstore/detail/quizlet-rocks/pgbnfimhfgoibnimmfoeacjehkecgkmk
-- Anti Testportal              > https://chrome.google.com/webstore/detail/anti-testportal/dpgfbfopkfdfmlfdpmoanamopdnibhkl
+- School Cheats                > [Link](https://chrome.google.com/webstore/detail/school-cheats/dcecjjjnjecoiehclollekjmfgblkkha)
+- Quizizz Rocks                > [Link](https://chrome.google.com/webstore/detail/quizizz-rocks/kmmibboliipddkiknfpkfnhblinocgog)
+- Quizlet Rocks                > [Link](https://chrome.google.com/webstore/detail/quizlet-rocks/pgbnfimhfgoibnimmfoeacjehkecgkmk)
+- Anti Testportal              > [Link](https://chrome.google.com/webstore/detail/anti-testportal/dpgfbfopkfdfmlfdpmoanamopdnibhkl)
 
 ### AV's
-- Malwarebytes                 > https://www.malwarebytes.com/mwb-download/thankyou
-- webroot                      > https://anywhere.webrootcloudav.com/zerol/wsainstall.exe
-- ESET                         > https://proxy.eset.com/li-handler/?transaction_id=odcm_download|esetgwsprod|us|oksgz9g0y9mica4ayzpw5dbixf3p53kaudw5tpwz1pff0un8lw096ozitly6heexp8wid&branch=us&prod=essp
+- Malwarebytes                 > [Link](https://www.malwarebytes.com/mwb-download/thankyou)
+- webroot                      > [Link](https://anywhere.webrootcloudav.com/zerol/wsainstall.exe)
+- ESET                         > [Link](https://proxy.eset.com/li-handler/?transaction_id=odcm_download|esetgwsprod|us|oksgz9g0y9mica4ayzpw5dbixf3p53kaudw5tpwz1pff0un8lw096ozitly6heexp8wid&branch=us&prod=essp)
 
 ### Mail Services
-- tutanota                     > https://tutanota.com/
-- Disroot                      > https://cloud.disroot.org/login
-- ProtonMail                   > https://protonmail.com/
-- mailbox.org                  > https://mailbox.org/
-- CTemplar                     > https://ctemplar.com/
-- StartMail                    > https://www.startmail.com/
-- Cock.li                      > https://cock.li/
-- RiseUp (invite only)         > https://riseup.net/
+- tutanota                     > [Link](https://tutanota.com/)
+- Disroot                      > [Link](https://cloud.disroot.org/login)
+- ProtonMail                   > [Link](https://protonmail.com/)
+- mailbox.org                  > [Link](https://mailbox.org/)
+- CTemplar                     > [Link](https://ctemplar.com/)
+- StartMail                    > [Link](https://www.startmail.com/)
+- Cock.li                      > [Link](https://cock.li/)
+- RiseUp (invite only)         > [Link](https://riseup.net/)
 
 ### Recommended Instant Messengers
-- XMPP                         > https://xmpp.org/
-- Session                      > https://getsession.org/
-- Briar                        > https://briarproject.org/
-- Jami                         > https://jami.net/
+- XMPP                         > [Link](https://xmpp.org/)
+- Session                      > [Link](https://getsession.org/)
+- Briar                        > [Link](https://briarproject.org/)
+- Jami                         > [Link](https://jami.net/)
 
 ### Privacy oriented DNS
 - NextDNS                      > https://nextdns.io
