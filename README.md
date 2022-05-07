@@ -184,6 +184,7 @@ icacls “%temp%” /grant Everyone:F /T
 
 # 5 - MISC
 
+```
 BIOS Keys by Manufacturer
 
 ASRock                    : F2 or DEL
@@ -202,6 +203,7 @@ Origin PC                 : F2
 Samsung                   : F2
 Toshiba                   : F2
 Zotac                     : DEL
+```
 
 Free Games
 - steamunlocked > https://steamunlocked.net/
