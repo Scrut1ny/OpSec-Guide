@@ -186,7 +186,7 @@ icacls “%temp%” /grant Everyone:F /T
 
 |BIOS Keys by Manufacturer|
 |-|
-|ASRock|F2 or DEL|
+|ASRock | F2 or DEL|
 |ASUS|F2 for all PCs, F2 or DEL for Motherboards|
 |Acer|F2 or DEL|
 |Dell|F2 or F12|
