@@ -184,7 +184,6 @@ icacls “%temp%” /grant Everyone:F /T
 
 # 5 - MISC
 
-```
 |BIOS Keys by Manufacturer|
 |--------------------------|
 |ASRock                    : F2 or DEL
@@ -204,7 +203,6 @@ icacls “%temp%” /grant Everyone:F /T
 |Toshiba                   : F2
 |Zotac                     : DEL
 -----------------------------------
-```
 
 Free Games
 - steamunlocked > https://steamunlocked.net/
