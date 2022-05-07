@@ -101,7 +101,7 @@ WIN+R - UserAccountControlSettings.exe
 
  --|--
    |
- --|--  <---- Select this option!
+ -===-  <---- Select this option!
    |
  --|--
    |
