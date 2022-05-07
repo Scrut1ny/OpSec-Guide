@@ -77,6 +77,7 @@
 
 ### EXIF Tool
 - exiftool                     > [Link](https://exiftool.org/)
+- exifcleaner                  > [Link](https://github.com/szTheory/exifcleaner/releases/latest)
 
 ### Resources
 - https://www.privacytools.io
