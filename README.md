@@ -164,7 +164,7 @@ Communications Tab
 
 Open CMD as admin then paste these commands in:
 
-```dos
+```batch
 takeown /f “%systemroot%\Temp” /R /A /D Y
 icacls “%systemroot%\Temp” /inheritance:r /grant:r Users:(OI)(CI)F /T
 icacls “%systemroot%\Temp” /inheritance:r /grant:r Everyone:(OI)(CI)F /T
