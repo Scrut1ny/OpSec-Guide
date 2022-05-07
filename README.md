@@ -179,7 +179,6 @@ icacls “%temp%” /grant Administrators:F /T
 icacls “%temp%” /grant Users:F /T
 icacls “%temp%” /grant SYSTEM:F /T
 icacls “%temp%” /grant Everyone:F /T
-==================================================
 ```
 
 # 5 - MISC
