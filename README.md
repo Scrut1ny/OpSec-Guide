@@ -33,12 +33,12 @@
 
 ### Mail Services
 - tutanota                     > [Link](https://tutanota.com/)
-- Disroot                      > [Link](https://cloud.disroot.org/login)
+- Disroot (invite only)        > [Link](https://cloud.disroot.org/login)
 - ProtonMail                   > [Link](https://protonmail.com/)
 - mailbox.org                  > [Link](https://mailbox.org/)
 - CTemplar                     > [Link](https://ctemplar.com/)
 - StartMail                    > [Link](https://www.startmail.com/)
-- Cock.li                      > [Link](https://cock.li/)
+- Cock.li (invite only)        > [Link](https://cock.li/)
 - RiseUp (invite only)         > [Link](https://riseup.net/)
 
 ### Recommended Instant Messengers
