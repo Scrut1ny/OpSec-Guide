@@ -96,6 +96,7 @@ Useful Windows Shortcuts
 - NIC                           > ncpa.cpl
 - UAC                           > UserAccountControlSettings.exe
 
+```
 ==================================================
 WIN+R - UserAccountControlSettings.exe
 
@@ -107,7 +108,8 @@ WIN+R - UserAccountControlSettings.exe
    |
  --|--
 ==================================================
-
+```
+```
 ==================================================
 WIN+R - SystemPropertiesPerformance.exe
 
@@ -130,7 +132,8 @@ Custom:
 ☐  Smooth-scroll list boxes
 ☐  Use drop shadows for icons labels on the desktop
 ==================================================
-
+```
+```
 ==================================================
 WIN+R - ncpa.cpl - Select NIC, then select Properties.
 
@@ -146,7 +149,8 @@ Custom:
 ☐  Link-Layer Topology Discovery Responder
 ☐  Link-Layer Topology Discovery Mapper I/O Driver
 ==================================================
-
+```
+```
 ==================================================
 WIN+R - mmsys.cpl
 
@@ -162,7 +166,8 @@ Sound Scheme:
 Communications Tab
 ☐ Do nothing
 ==================================================
-
+```
+```
 ==================================================
 Installation Error Code 2502 & 2503 FIX
 
@@ -183,6 +188,7 @@ icacls “%temp%” /grant Users:F /T
 icacls “%temp%” /grant SYSTEM:F /T
 icacls “%temp%” /grant Everyone:F /T
 ==================================================
+```
 
 # 5 - MISC
 
