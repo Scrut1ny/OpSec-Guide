@@ -78,6 +78,7 @@
 ### EXIF Tool
 - exiftool                     > [Link](https://exiftool.org/)
 - exifcleaner                  > [Link](https://github.com/szTheory/exifcleaner/releases/latest)
+- Exif Pilot                   > [Link](https://www.colorpilot.com/exif.html)
 
 ### Resources
 - https://www.privacytools.io
