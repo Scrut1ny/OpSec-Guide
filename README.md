@@ -75,6 +75,9 @@
 - TMAC                         > [Link](https://download.technitium.com/tmac/TMACv6.0.7_Setup.zip)
 - VolumeID v2.1                > [Link](https://download.sysinternals.com/files/VolumeId.zip)
 
+### EXIF Tool
+- exiftool                     > [Link](https://exiftool.org/)
+
 ### Resources
 - https://www.privacytools.io
 - https://ssd.eff.org
