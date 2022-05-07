@@ -48,19 +48,19 @@
 - Jami                         > [Link](https://jami.net/)
 
 ### Privacy oriented DNS
-- NextDNS                      > https://nextdns.io
-- Quad9                        > https://www.quad9.net
-- AdGuard                      > https://adguard.com/en/adguard-dns/overview.html
+- NextDNS                      > [Link](https://nextdns.io)
+- Quad9                        > [Link](https://www.quad9.net)
+- AdGuard                      > [Link](https://adguard.com/en/adguard-dns/overview.html)
 
 ### Recommended search engines
-- Brave Search                 > https://search.brave.com/
-- DuckDuckGo                   > https://duckduckgo.com/
-- SearX                        > https://searx.space/#
-- Startpage                    > https://www.startpage.com/
+- Brave Search                 > [Link](https://search.brave.com/)
+- DuckDuckGo                   > [Link](https://duckduckgo.com/)
+- SearX                        > [Link](https://searx.space/#)
+- Startpage                    > [Link](https://www.startpage.com/)
 
 ### VPN
-- OpenVPN                      > https://openvpn.net/vpn-client/
-- Courvix                      > https://courvix.com/vpn
+- OpenVPN                      > [Link](https://openvpn.net/vpn-client/)
+- Courvix                      > [Link](https://courvix.com/vpn)
 
 ### Testing
 - https://browserleaks.com
@@ -70,10 +70,10 @@
 - https://canyoublockit.com/
 
 ### Spoofing
-- Windows-Spoofer              > https://github.com/Scrut1ny/Windows-Spoofer/releases/latest
-- Windows-MAC-Address-Spoofer  > https://github.com/Scrut1ny/Windows-MAC-Address-Spoofer/releases/latest
-- TMAC                         > https://download.technitium.com/tmac/TMACv6.0.7_Setup.zip
-- VolumeID v2.1                > https://download.sysinternals.com/files/VolumeId.zip
+- Windows-Spoofer              > [Link](https://github.com/Scrut1ny/Windows-Spoofer/releases/latest)
+- Windows-MAC-Address-Spoofer  > [Link](https://github.com/Scrut1ny/Windows-MAC-Address-Spoofer/releases/latest)
+- TMAC                         > [Link](https://download.technitium.com/tmac/TMACv6.0.7_Setup.zip)
+- VolumeID v2.1                > [Link](https://download.sysinternals.com/files/VolumeId.zip)
 
 ### Resources
 - https://www.privacytools.io
