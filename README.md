@@ -97,7 +97,7 @@ Useful Windows Shortcuts
 - UAC                           > UserAccountControlSettings.exe
 
 ```
-WIN+R - UserAccountControlSettings.exe
+WIN + R - UserAccountControlSettings.exe
 
  --|--
    |
@@ -108,7 +108,7 @@ WIN+R - UserAccountControlSettings.exe
  --|--
 ```
 ```
-WIN+R - SystemPropertiesPerformance.exe
+WIN + R - SystemPropertiesPerformance.exe
 
 ☐  Animate controls and elements inside windows
 ☐  Animate widnows when minimzing and maximizing
@@ -129,7 +129,7 @@ WIN+R - SystemPropertiesPerformance.exe
 ☐  Use drop shadows for icons labels on the desktop
 ```
 ```
-WIN+R - ncpa.cpl - Select NIC, then select Properties.
+WIN + R - ncpa.cpl - Select NIC, then select Properties.
 
 ☐  Client for Microsoft Networks
 ☐  File and Printer Sharing for Microsoft Networks
@@ -143,7 +143,7 @@ WIN+R - ncpa.cpl - Select NIC, then select Properties.
 ☐  Link-Layer Topology Discovery Mapper I/O Driver
 ```
 ```
-WIN+R - mmsys.cpl
+WIN + R - mmsys.cpl
 
 Playback/Recording Tabs
 - Disable all unused.
