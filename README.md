@@ -160,11 +160,11 @@ Sound Scheme:
 Communications Tab
 ☐ Do nothing
 ```
-```
-Installation Error Code 2502 & 2503 FIX
+### Installation Error Code 2502 & 2503 FIX
 
 Open CMD as admin then paste these commands in:
 
+```dos
 takeown /f “%systemroot%\Temp” /R /A /D Y
 icacls “%systemroot%\Temp” /inheritance:r /grant:r Users:(OI)(CI)F /T
 icacls “%systemroot%\Temp” /inheritance:r /grant:r Everyone:(OI)(CI)F /T
