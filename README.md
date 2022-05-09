@@ -207,25 +207,25 @@ icacls “%temp%” /grant Everyone:F /T
 | Zotac | `DEL` |
 
 Free Games
-- steamunlocked > https://steamunlocked.net/
-- crohasit   > https://crohasit.net/
-- igg-games  > https://igg-games.com/
+- steamunlocked                 > [Link](https://steamunlocked.net/)
+- crohasit                      > [Link](https://crohasit.net/)
+- igg-games                     > [Link](https://igg-games.com/)
 
 Torrenting
-- Pirate Bay > https://thepiratebay.org/index.html
-	* Tor V3 > http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion/
+- Pirate Bay                    > [Link](https://thepiratebay.org/index.html)
+    * Tor V3                    > [Link](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion/)
 
 Random
-- SteamAchievementManager > https://github.com/gibbed/SteamAchievementManager/releases/latest
+- SteamAchievementManager       > [Link](https://github.com/gibbed/SteamAchievementManager/releases/latest)
 
 Game Mod Menu's
 
-- Black Ops 2 GSC Studio > https://mega.nz/file/hDoGwAbR#j-9i3oIZyiAz13FULRTaxAiKQcSCOXo-44Lr977YfcQ
+- Black Ops 2 GSC Studio        > [Link](https://mega.nz/file/hDoGwAbR#j-9i3oIZyiAz13FULRTaxAiKQcSCOXo-44Lr977YfcQ)
 
 - Call of Duty: Black Ops
 	* Multiplayer  > 
 	============
-	* Zombies      > https://cabconmodding.com/attachments/cabconmodding-com-encorev8-zombie-edition-0-9-rar.59/
+	* Zombies               > [Link](https://cabconmodding.com/attachments/cabconmodding-com-encorev8-zombie-edition-0-9-rar.59/)
 	
 - Call of Duty: Black Ops 2
 	- Black Ops 2 GSC Studio > https://mega.nz/file/hDoGwAbR#j-9i3oIZyiAz13FULRTaxAiKQcSCOXo-44Lr977YfcQ
