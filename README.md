@@ -44,6 +44,7 @@
 ### Recommended Instant Messengers
 - XMPP                         > [Link](https://xmpp.org/)
 - Session                      > [Link](https://getsession.org/)
+- Status                       > [Link](https://status.im/)
 - Briar                        > [Link](https://briarproject.org/)
 - Jami                         > [Link](https://jami.net/)
 
