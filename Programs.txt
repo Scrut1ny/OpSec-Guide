@@ -100,7 +100,7 @@
 
 >> NON-ESSENTIAL PROGRAMS >
 
- - VMware PRO > https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
+ - VMware PRO > https://www.vmware.com/go/getworkstation-win
 	* Pro Licence Key: ZF3R0-FHED2-M80TY-8QYGC-NPKYF
 
  - qBittorrent > https://www.qbittorrent.org/download.php (SAFE)
