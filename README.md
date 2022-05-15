@@ -183,7 +183,7 @@ icacls “%temp%” /grant Users:F /T
 icacls “%temp%” /grant SYSTEM:F /T
 icacls “%temp%” /grant Everyone:F /T
 ```
-Disable unwanted tasks
+### Disable unwanted tasks
 ```batch
 SCHTASKS /Change /TN "Microsoft\Windows\DiskCleanup\SilentCleanup" /disable
 SCHTASKS /Change /TN "Microsoft\Windows\Input\LocalUserSyncDataAvailable" /disable
@@ -228,7 +228,7 @@ SCHTASKS /Change /TN "Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScan
 SCHTASKS /Change /TN "Microsoft\Windows\Diagnosis\Scheduled" /disable
 SCHTASKS /Change /TN "Microsoft\Windows\NetTrace\GatherNetworkInfo" /disable
 ```
-Change unwanted registry settings
+### Change unwanted registry settings
 ```batch
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Terminal Server" /t REG_DWORD /v "RDPVGCInstalled" /d "0" /f
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Terminal Server" /t REG_DWORD /v "RDPVGSInstalled" /d "0" /f
