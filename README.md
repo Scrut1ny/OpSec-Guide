@@ -185,75 +185,10 @@ icacls “%temp%” /grant Everyone:F /T
 ```
 ### Disable unwanted tasks
 ```batch
-SCHTASKS /Change /TN "Microsoft\Windows\DiskCleanup\SilentCleanup" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Input\LocalUserSyncDataAvailable" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Input\MouseSyncDataAvailable" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Input\PenSyncDataAvailable" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Input\TouchpadUserSyncDataAvailable" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\International\Synchronize Language Settings" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Location\WindowsActionDialog" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Location\Notifications" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Mobile Broadband Accounts\MNO Metadata Parser" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Offline Files\Logon Synchronization" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Offline Files\Background Synchronization" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Ras\MobilityManager" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\SpacePort\SpaceAgentTask" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\SpacePort\SpaceManagerTask" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Speech\SpeechModelDownloadTask" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Workplace Join\Device-Sync" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Workplace Join\Recovery-Check" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Workplace Join\Automatic-Device-Join" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Application Experience\ProgramDataUpdater" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Application Experience\StartupAppTask" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Autochk\Proxy" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\CloudExperienceHost\CreateObjectTask" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\Consolidator" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\UsbCeip" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\HelloFace\FODCleanupTask" /Disable
-SCHTASKS /Change /TN "Microsoft\Windows\DiskFootprint\Diagnostics" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\FileHistory\File History (maintenance mode)" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Maintenance\WinSAT" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\PI\Sqm-Tasks" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Windows Error Reporting\QueueReporting" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Clip\License Validation" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\ApplicationData\DsSvcCleanup" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Subscription\EnableLicenseAcquisition" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Subscription\LicenseAcquisition" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\Diagnosis\Scheduled" /disable
-SCHTASKS /Change /TN "Microsoft\Windows\NetTrace\GatherNetworkInfo" /disable
-
-schtasks /Change /TN "Microsoft\Windows\AppID\SmartScreenSpecific" /disable
-schtasks /Change /TN "Microsoft\Windows\Application Experience\AitAgent" /disable
-schtasks /Change /TN "Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser" /disable
-schtasks /Change /TN "Microsoft\Windows\Application Experience\ProgramDataUpdater" /disable
-schtasks /Change /TN "Microsoft\Windows\Application Experience\StartupAppTask" /disable
-schtasks /Change /TN "Microsoft\Windows\Autochk\Proxy" /disable
-schtasks /Change /TN "Microsoft\Windows\CloudExperienceHost\CreateObjectTask" /disable
-schtasks /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\BthSQM" /disable
-schtasks /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\Consolidator" /disable
-schtasks /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\KernelCeipTask" /disable
-schtasks /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\Uploader" /disable
-schtasks /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\UsbCeip" /disable
-schtasks /Change /TN "Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector" /disable
-schtasks /Change /TN "Microsoft\Windows\DiskFootprint\Diagnostics" /disable
-schtasks /Change /TN "Microsoft\Windows\FileHistory\File History (maintenance mode)" /disable
-schtasks /Change /TN "Microsoft\Windows\Maintenance\WinSAT" /disable
-schtasks /Change /TN "Microsoft\Windows\PI\Sqm-Tasks" /disable
-schtasks /Change /TN "Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem" /disable
-schtasks /Change /TN "Microsoft\Windows\Shell\FamilySafetyMonitor" /disable
-schtasks /Change /TN "Microsoft\Windows\Shell\FamilySafetyRefresh" /disable
-schtasks /Change /TN "Microsoft\Windows\Shell\FamilySafetyUpload" /disable
-schtasks /Change /TN "Microsoft\Windows\Windows Error Reporting\QueueReporting" /disable
-schtasks /Change /TN "Microsoft\Windows\WindowsUpdate\Automatic App Update" /disable
-schtasks /Change /TN "Microsoft\Windows\License Manager\TempSignedLicenseExchange" /disable
-schtasks /Change /TN "Microsoft\Windows\Clip\License Validation" /disable
 schtasks /Change /TN "\Microsoft\Windows\ApplicationData\DsSvcCleanup" /disable
+schtasks /Change /TN "\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner" /disable
+schtasks /Change /TN "\Microsoft\Windows\Diagnosis\Scheduled" /disable
+schtasks /Change /TN "\Microsoft\Windows\NetTrace\GatherNetworkInfo" /disable
 schtasks /Change /TN "\Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem" /disable
 schtasks /Change /TN "\Microsoft\Windows\PushToInstall\LoginCheck" /disable
 schtasks /Change /TN "\Microsoft\Windows\PushToInstall\Registration" /disable
@@ -262,10 +197,58 @@ schtasks /Change /TN "\Microsoft\Windows\Shell\FamilySafetyMonitorToastTask" /di
 schtasks /Change /TN "\Microsoft\Windows\Shell\FamilySafetyRefreshTask" /disable
 schtasks /Change /TN "\Microsoft\Windows\Subscription\EnableLicenseAcquisition" /disable
 schtasks /Change /TN "\Microsoft\Windows\Subscription\LicenseAcquisition" /disable
-schtasks /Change /TN "\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner" /disable
-schtasks /Change /TN "\Microsoft\Windows\Diagnosis\Scheduled" /disable
-schtasks /Change /TN "\Microsoft\Windows\NetTrace\GatherNetworkInfo" /disable
-del /F /Q "C:\Windows\System32\Tasks\Microsoft\Windows\SettingSync\*" 
+schtasks /Change /TN "Microsoft\Windows\AppID\SmartScreenSpecific" /disable
+schtasks /Change /TN "Microsoft\Windows\Application Experience\AitAgent" /disable
+schtasks /Change /TN "Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser" /disable
+schtasks /Change /TN "Microsoft\Windows\Application Experience\ProgramDataUpdater" /disable
+schtasks /Change /TN "Microsoft\Windows\Application Experience\StartupAppTask" /disable
+schtasks /Change /TN "Microsoft\Windows\ApplicationData\DsSvcCleanup" /disable
+schtasks /Change /TN "Microsoft\Windows\Autochk\Proxy" /disable
+schtasks /Change /TN "Microsoft\Windows\Clip\License Validation" /disable
+schtasks /Change /TN "Microsoft\Windows\CloudExperienceHost\CreateObjectTask" /disable
+schtasks /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\BthSQM" /disable
+schtasks /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\Consolidator" /disable
+schtasks /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\KernelCeipTask" /disable
+schtasks /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\Uploader" /disable
+schtasks /Change /TN "Microsoft\Windows\Customer Experience Improvement Program\UsbCeip" /disable
+schtasks /Change /TN "Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner" /disable
+schtasks /Change /TN "Microsoft\Windows\Diagnosis\Scheduled" /disable
+schtasks /Change /TN "Microsoft\Windows\DiskCleanup\SilentCleanup" /disable
+schtasks /Change /TN "Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector" /disable
+schtasks /Change /TN "Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver" /disable
+schtasks /Change /TN "Microsoft\Windows\DiskFootprint\Diagnostics" /disable
+schtasks /Change /TN "Microsoft\Windows\FileHistory\File History (maintenance mode)" /disable
+schtasks /Change /TN "Microsoft\Windows\HelloFace\FODCleanupTask" /Disable
+schtasks /Change /TN "Microsoft\Windows\Input\LocalUserSyncDataAvailable" /disable
+schtasks /Change /TN "Microsoft\Windows\Input\MouseSyncDataAvailable" /disable
+schtasks /Change /TN "Microsoft\Windows\Input\PenSyncDataAvailable" /disable
+schtasks /Change /TN "Microsoft\Windows\Input\TouchpadUserSyncDataAvailable" /disable
+schtasks /Change /TN "Microsoft\Windows\International\Synchronize Language Settings" /disable
+schtasks /Change /TN "Microsoft\Windows\License Manager\TempSignedLicenseExchange" /disable
+schtasks /Change /TN "Microsoft\Windows\Location\Notifications" /disable
+schtasks /Change /TN "Microsoft\Windows\Location\WindowsActionDialog" /disable
+schtasks /Change /TN "Microsoft\Windows\Maintenance\WinSAT" /disable
+schtasks /Change /TN "Microsoft\Windows\Mobile Broadband Accounts\MNO Metadata Parser" /disable
+schtasks /Change /TN "Microsoft\Windows\NetTrace\GatherNetworkInfo" /disable
+schtasks /Change /TN "Microsoft\Windows\Offline Files\Background Synchronization" /disable
+schtasks /Change /TN "Microsoft\Windows\Offline Files\Logon Synchronization" /disable
+schtasks /Change /TN "Microsoft\Windows\PI\Sqm-Tasks" /disable
+schtasks /Change /TN "Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem" /disable
+schtasks /Change /TN "Microsoft\Windows\Ras\MobilityManager" /disable
+schtasks /Change /TN "Microsoft\Windows\Shell\FamilySafetyMonitor" /disable
+schtasks /Change /TN "Microsoft\Windows\Shell\FamilySafetyRefresh" /disable
+schtasks /Change /TN "Microsoft\Windows\Shell\FamilySafetyUpload" /disable
+schtasks /Change /TN "Microsoft\Windows\SpacePort\SpaceAgentTask" /disable
+schtasks /Change /TN "Microsoft\Windows\SpacePort\SpaceManagerTask" /disable
+schtasks /Change /TN "Microsoft\Windows\Speech\SpeechModelDownloadTask" /disable
+schtasks /Change /TN "Microsoft\Windows\Subscription\EnableLicenseAcquisition" /disable
+schtasks /Change /TN "Microsoft\Windows\Subscription\LicenseAcquisition" /disable
+schtasks /Change /TN "Microsoft\Windows\Windows Error Reporting\QueueReporting" /disable
+schtasks /Change /TN "Microsoft\Windows\WindowsUpdate\Automatic App Update" /disable
+schtasks /Change /TN "Microsoft\Windows\Workplace Join\Automatic-Device-Join" /disable
+schtasks /Change /TN "Microsoft\Windows\Workplace Join\Device-Sync" /disable
+schtasks /Change /TN "Microsoft\Windows\Workplace Join\Recovery-Check" /disable
+del /F /Q "C:\Windows\System32\Tasks\Microsoft\Windows\SettingSync\*"
 ```
 ### Change unwanted registry settings
 ```batch
