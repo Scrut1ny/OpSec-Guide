@@ -66,6 +66,7 @@
 ### Testing
 - https://browserleaks.com
 - https://privacytests.org
+- https://www.deviceinfo.me/
 - https://ipleak.net
 - https://d3ward.github.io/toolz/adblock.html
 - https://canyoublockit.com/
