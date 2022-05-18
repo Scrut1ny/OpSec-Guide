@@ -8,8 +8,8 @@
 - Autoruns                     > [Link](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
 
 # 3 - PRIVACY & SECURITY
-### [FF Config](about:config)
-- webRTC                       > [Link](https://browserleaks.com/webrtc)
+### Firefox Config
+- [webRTC](https://browserleaks.com/webrtc)                       > [Link](about:config)
   - media.peerconnection.enabled = false
   - media.peerconnection.enabled = false
   - media.navigator.enabled = false
