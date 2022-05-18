@@ -8,6 +8,13 @@
 - Autoruns                     > [Link](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
 
 # 3 - PRIVACY & SECURITY
+### [FF Config](about:config)
+- webRTC                       > [Link](https://browserleaks.com/webrtc)
+  - media.peerconnection.enabled = false
+  - media.peerconnection.enabled = false
+  - media.navigator.enabled = false
+- 
+
 ### Websites
 - haveibeenpwned               > [Link](https://haveibeenpwned.com/)
 - VirusTotal                   > [Link](https://www.virustotal.com/gui/home/upload)
