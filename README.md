@@ -68,7 +68,7 @@
 
 ### VPN
 - Mullvad                      > [Link](https://mullvad.net/) - [Download](https://mullvad.net/download/app/exe/latest/) | [Onion Link](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/) - [Download](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/download/app/exe/latest/)
-- OpenVPN                      > [Link](https://openvpn.net/vpn-client/)
+- OpenVPN                      > [Link](https://openvpn.net/vpn-client/) - [Download](https://openvpn.net/downloads/openvpn-connect-v3-windows.msi)
 - Courvix                      > [Link](https://courvix.com/vpn) - [Download](https://cdn.courvix.com/vpn/CourvixVPN.exe)
 
 ### Testing
