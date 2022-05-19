@@ -407,17 +407,17 @@ Game Mod Menu's
 	* Zombies               > [Link](https://cabconmodding.com/attachments/cabconmodding-com-encorev8-zombie-edition-0-9-rar.59/)
 	
 - Call of Duty: Black Ops 2
-	- Black Ops 2 GSC Studio > https://mega.nz/file/hDoGwAbR#j-9i3oIZyiAz13FULRTaxAiKQcSCOXo-44Lr977YfcQ
+	- Black Ops 2 GSC Studio > [Link](https://mega.nz/file/hDoGwAbR#j-9i3oIZyiAz13FULRTaxAiKQcSCOXo-44Lr977YfcQ)
 
-	* Multiplayer  > https://cabconmodding.com/attachments/cabconmodding-com-jiggy-4-3-compiled-pc-rar.1296/
+	* Multiplayer  > [Link](https://cabconmodding.com/attachments/cabconmodding-com-jiggy-4-3-compiled-pc-rar.1296/)
 	============
-	* Zombies      > https://www.mediafire.com/?28un6sdd1wsdad6
-	* Zombies      > https://cabconmodding.com/attachments/encore_9-7_beta_by_cabcon-rar.249/
+	* Zombies      > [Link](https://www.mediafire.com/?28un6sdd1wsdad6)
+	* Zombies      > [Link](https://cabconmodding.com/attachments/encore_9-7_beta_by_cabcon-rar.249/)
 
-- BO3/4 - t7-compiler > https://github.com/shiversoftdev/t7-compiler
+- BO3/4 - t7-compiler > [Link](https://github.com/shiversoftdev/t7-compiler)
 
 - Call of Duty: Black Ops 3
 	* Multiplayer  > 
 	============
-	* Zombies      > https://cabconmodding.com/attachments/zm_encorev14_release_1-rar.1103/
-	* Zombies      > https://cabconmodding.com/attachments/zm_encorev12_alpha_1-rar.639/
+	* Zombies      > [Link](https://cabconmodding.com/attachments/zm_encorev14_release_1-rar.1103/)
+	* Zombies      > [Link](https://cabconmodding.com/attachments/zm_encorev12_alpha_1-rar.639/)
