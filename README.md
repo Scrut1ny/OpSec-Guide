@@ -193,11 +193,11 @@ icacls “%temp%” /grant SYSTEM:F /T
 icacls “%temp%” /grant Everyone:F /T
 ```
 ### Enable *Ultimate Performance* Mode
-```
+```batch
 POWERCFG /DUPLICATESCHEME e9a42b02-d5df-448d-aa00-03f14749eb61
 ```
 ### Registry *Fixes*
-```
+```batch
 reg add "HKCU\SOFTWARE\Microsoft\Command Processor" /v "AutoRun" /t REG_SZ /d "prompt $E[38;5;220m$S$S_$_$E[38;5;208m$G$E[38;5;220m$C$E[0m.$E[38;5;220m$F__$_$S$C___/$S$E[0m$P$G" /f
 
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management" /v "ClearPageFileAtShutdown" /t REG_DWORD /d "1" /f
