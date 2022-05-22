@@ -172,26 +172,6 @@ Sound Scheme:
 Communications Tab
 ☐ Do nothing
 ```
-### Installation Error Code 2502 & 2503 FIX
-
-Open CMD as admin then paste these commands in:
-
-```batch
-takeown /f “%systemroot%\Temp” /R /A /D Y
-icacls “%systemroot%\Temp” /inheritance:r /grant:r Users:(OI)(CI)F /T
-icacls “%systemroot%\Temp” /inheritance:r /grant:r Everyone:(OI)(CI)F /T
-icacls “%systemroot%\Temp” /grant Administrators:F /T
-icacls “%systemroot%\Temp” /grant Users:F /T
-icacls “%systemroot%\Temp” /grant SYSTEM:F /T
-icacls “%systemroot%\Temp” /grant Everyone:F /T
-takeown /f “%temp%” /R /A /D Y
-icacls “%temp%” /inheritance:r /grant:r Users:(OI)(CI)F /T
-icacls “%temp%” /inheritance:r /grant:r Everyone:(OI)(CI)F /T
-icacls “%temp%” /grant Administrators:F /T
-icacls “%temp%” /grant Users:F /T
-icacls “%temp%” /grant SYSTEM:F /T
-icacls “%temp%” /grant Everyone:F /T
-```
 ### Enable *Ultimate Performance* Mode
 ```batch
 POWERCFG /DUPLICATESCHEME e9a42b02-d5df-448d-aa00-03f14749eb61
@@ -402,6 +382,25 @@ reg add "HKCU\Control Panel\Desktop" /v "AutoEndTasks" /t REG_SZ /d "1" /f
 | Samsung | `F2` |
 | Toshiba | `F2` |
 | Zotac | `DEL` |
+
+### Installation Error Code 2502 & 2503 FIX
+Open CMD as admin then paste these commands in:
+```batch
+takeown /f “%systemroot%\Temp” /R /A /D Y
+icacls “%systemroot%\Temp” /inheritance:r /grant:r Users:(OI)(CI)F /T
+icacls “%systemroot%\Temp” /inheritance:r /grant:r Everyone:(OI)(CI)F /T
+icacls “%systemroot%\Temp” /grant Administrators:F /T
+icacls “%systemroot%\Temp” /grant Users:F /T
+icacls “%systemroot%\Temp” /grant SYSTEM:F /T
+icacls “%systemroot%\Temp” /grant Everyone:F /T
+takeown /f “%temp%” /R /A /D Y
+icacls “%temp%” /inheritance:r /grant:r Users:(OI)(CI)F /T
+icacls “%temp%” /inheritance:r /grant:r Everyone:(OI)(CI)F /T
+icacls “%temp%” /grant Administrators:F /T
+icacls “%temp%” /grant Users:F /T
+icacls “%temp%” /grant SYSTEM:F /T
+icacls “%temp%” /grant Everyone:F /T
+```
 
 Free Games
 - steamunlocked                 > [Link](https://steamunlocked.net/)
