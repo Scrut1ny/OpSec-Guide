@@ -194,18 +194,18 @@ icacls “%temp%” /grant Everyone:F /T
 ```
 ### Disable unwanted tasks
 ```batch
-schtasks /Change /TN "\Microsoft\Windows\ApplicationData\DsSvcCleanup" /disable
-schtasks /Change /TN "\Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner" /disable
-schtasks /Change /TN "\Microsoft\Windows\Diagnosis\Scheduled" /disable
-schtasks /Change /TN "\Microsoft\Windows\NetTrace\GatherNetworkInfo" /disable
-schtasks /Change /TN "\Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem" /disable
-schtasks /Change /TN "\Microsoft\Windows\PushToInstall\LoginCheck" /disable
-schtasks /Change /TN "\Microsoft\Windows\PushToInstall\Registration" /disable
-schtasks /Change /TN "\Microsoft\Windows\Shell\FamilySafetyMonitor" /disable
-schtasks /Change /TN "\Microsoft\Windows\Shell\FamilySafetyMonitorToastTask" /disable
-schtasks /Change /TN "\Microsoft\Windows\Shell\FamilySafetyRefreshTask" /disable
-schtasks /Change /TN "\Microsoft\Windows\Subscription\EnableLicenseAcquisition" /disable
-schtasks /Change /TN "\Microsoft\Windows\Subscription\LicenseAcquisition" /disable
+schtasks /Change /TN "Microsoft\Windows\ApplicationData\DsSvcCleanup" /disable
+schtasks /Change /TN "Microsoft\Windows\Diagnosis\RecommendedTroubleshootingScanner" /disable
+schtasks /Change /TN "Microsoft\Windows\Diagnosis\Scheduled" /disable
+schtasks /Change /TN "Microsoft\Windows\NetTrace\GatherNetworkInfo" /disable
+schtasks /Change /TN "Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem" /disable
+schtasks /Change /TN "Microsoft\Windows\PushToInstall\LoginCheck" /disable
+schtasks /Change /TN "Microsoft\Windows\PushToInstall\Registration" /disable
+schtasks /Change /TN "Microsoft\Windows\Shell\FamilySafetyMonitor" /disable
+schtasks /Change /TN "Microsoft\Windows\Shell\FamilySafetyMonitorToastTask" /disable
+schtasks /Change /TN "Microsoft\Windows\Shell\FamilySafetyRefreshTask" /disable
+schtasks /Change /TN "Microsoft\Windows\Subscription\EnableLicenseAcquisition" /disable
+schtasks /Change /TN "Microsoft\Windows\Subscription\LicenseAcquisition" /disable
 schtasks /Change /TN "Microsoft\Windows\AppID\SmartScreenSpecific" /disable
 schtasks /Change /TN "Microsoft\Windows\Application Experience\AitAgent" /disable
 schtasks /Change /TN "Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser" /disable
