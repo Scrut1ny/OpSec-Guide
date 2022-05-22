@@ -174,7 +174,9 @@ Communications Tab
 ```
 ### Enable *Ultimate Performance* Mode
 ```batch
-POWERCFG /DUPLICATESCHEME e9a42b02-d5df-448d-aa00-03f14749eb61
+powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
+powercfg /L | find "Ultimate"
+powercfg /S *Ultimate Performance GUID*
 ```
 ### Disable unwanted tasks
 ```batch
