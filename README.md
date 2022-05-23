@@ -9,7 +9,7 @@
 
 # 3 - PRIVACY & SECURITY
 ### Firefox Config
-| Option | Setting |
+| `Option` | `Setting` |
 | - | - |
 | media.peerconnection.enabled | false |
 | media.navigator.enabled | false |
