@@ -190,7 +190,7 @@ WIN + R - ncpa.cpl - Select NIC, then select Properties.
 ```
 WIN + R - mmsys.cpl
 
-Playback | WIN + R - control mmsys.cpl,1
+Playback | WIN + R - control mmsys.cpl,,0
 ☐ Show Disabled Devices
 ☐ Show Disconnected Devices
 
@@ -198,11 +198,11 @@ Recording Tabs | WIN + R - control mmsys.cpl,,1
 ☐ Show Disabled Devices
 ☐ Show Disconnected Devices
 
-Sounds Tab | WIN + R - ontrol mmsys.cpl
+Sounds Tab | WIN + R - control mmsys.cpl,,2
 Sound Scheme:
 - No Sounds
 
-Communications Tab
+Communications Tab | WIN + R - control mmsys.cpl,,3
 ☐ Do nothing
 ```
 ### Enable *Ultimate Performance* Mode
