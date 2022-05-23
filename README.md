@@ -7,6 +7,10 @@
 - privacy.sexy                 > [Link](https://privacy.sexy/)
 - Autoruns                     > [Link](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
 
+- WindowsSpyBlocker            > [Link](https://github.com/crazy-max/WindowsSpyBlocker/)
+- wpd                          > [Link](https://wpd.app/)
+- Blackbird                    > [Link](https://www.getblackbird.net/)
+
 # 3 - PRIVACY & SECURITY
 
 ### Privacy solutions
