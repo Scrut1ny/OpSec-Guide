@@ -190,8 +190,10 @@ WIN + R - ncpa.cpl - Select NIC, then select Properties.
 ```
 WIN + R - mmsys.cpl
 
-Playback/Recording Tabs
-- Disable all unused.
+Playback | WIN + R - control mmsys.cpl,1
+☐ Show Disabled Devices
+☐ Show Disconnected Devices
+Recording Tabs | WIN + R - control mmsys.cpl,,1
 ☐ Show Disabled Devices
 ☐ Show Disconnected Devices
 
