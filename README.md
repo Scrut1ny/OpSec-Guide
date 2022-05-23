@@ -8,6 +8,11 @@
 - Autoruns                     > [Link](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
 
 # 3 - PRIVACY & SECURITY
+
+### Privacy solutions
+- privacytools                 > [Link](https://www.privacytools.io/)
+- nomoregoogle                 > [Link](https://nomoregoogle.com/)
+
 ### Firefox about:config
 | `Option` | `Setting` |
 | - | - |
@@ -61,11 +66,22 @@
 - Status                       > [Link](https://status.im/)
 - Briar                        > [Link](https://briarproject.org/)
 - Jami                         > [Link](https://jami.net/)
+- signal                       > [Link](https://signal.org/)
 
 ### Privacy oriented DNS
 - NextDNS                      > [Link](https://nextdns.io)
 - Quad9                        > [Link](https://www.quad9.net)
 - AdGuard                      > [Link](https://adguard.com/en/adguard-dns/overview.html)
+- 1.1.1.1                      > [Link](https://1.1.1.1/)
+- blackbird                    > [Link](https://www.getblackbird.net/)
+- blokada                      > [Link](https://blokada.org/)
+- rethinkdns                   > [Link](https://rethinkdns.com/)
+- orencloud                    > [Link](https://www.orencloud.com/orencloud-dns/)
+- ahadns                       > [Link](https://ahadns.com/#dns-servers)
+- yogadns                      > [Link](https://yogadns.com/)
+- uncensoreddns                > [Link](https://blog.uncensoreddns.org/)
+- constellix                   > [Link](https://constellix.com/)
+- blahdns                      > [Link](https://blahdns.com/)
 
 ### Recommended search engines
 - Brave Search                 > [Link](https://search.brave.com/)
@@ -78,11 +94,12 @@
 - OpenVPN                      > [Link](https://openvpn.net/vpn-client/) - [Download](https://openvpn.net/downloads/openvpn-connect-v3-windows.msi)
 - Courvix                      > [Link](https://courvix.com/vpn) - [Download](https://cdn.courvix.com/vpn/CourvixVPN.exe)
 
-### Testing
+### Leaks & Tests
+- https://www.dnsleaktest.com/
+- https://ipleak.net/
 - https://browserleaks.com
 - https://privacytests.org
 - https://www.deviceinfo.me/
-- https://ipleak.net
 - https://d3ward.github.io/toolz/adblock.html
 - https://canyoublockit.com/
 
@@ -443,3 +460,4 @@ Game Mod Menu's
 	* Multiplayer  > 
 	* Zombies      > [Link](https://cabconmodding.com/attachments/zm_encorev14_release_1-rar.1103/)
 	* Zombies      > [Link](https://cabconmodding.com/attachments/zm_encorev12_alpha_1-rar.639/)
+- cod4x                > [Link](https://cod4x.ovh/)
