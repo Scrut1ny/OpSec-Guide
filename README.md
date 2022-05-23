@@ -8,7 +8,7 @@
 - Autoruns                     > [Link](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
 
 # 3 - PRIVACY & SECURITY
-### Firefox Config
+### Firefox about:config
 | `Option` | `Setting` |
 | - | - |
 | media.peerconnection.enabled | false |
@@ -19,7 +19,8 @@
 | webgl.disabled | true |
 | dom.event.clipboardevents.enabled | false |
 | network.ttr.mode | 2 |
-
+| browser.cache.offline.enable | false |
+| media.navigator.enabled | false |
 
 ### Websites
 - haveibeenpwned               > [Link](https://haveibeenpwned.com/)
