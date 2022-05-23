@@ -9,10 +9,13 @@
 
 # 3 - PRIVACY & SECURITY
 ### Firefox Config
-- [webRTC](https://browserleaks.com/webrtc)                       > about:config
-  - media.peerconnection.enabled = false
-  - media.peerconnection.enabled = false
-  - media.navigator.enabled = false
+- media.peerconnection.enabled = false
+- media.navigator.enabled = false
+- privacy.resistFingerprinting = true
+- geo.enabled = false
+- dom.battery.enabled = false
+- webgl.disabled = true
+- dom.event.clipboardevents.enabled = false
 - 
 
 ### Websites
