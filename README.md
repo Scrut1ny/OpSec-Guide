@@ -59,6 +59,7 @@ reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DW
 - Anti Testportal              > [Link](https://chrome.google.com/webstore/detail/anti-testportal/dpgfbfopkfdfmlfdpmoanamopdnibhkl)
 
 ### AV's
+- ClamAV                       > [Link](https://www.clamav.net/)
 - Malwarebytes                 > [Link](https://www.malwarebytes.com/mwb-download/thankyou)
 - webroot                      > [Link](https://anywhere.webrootcloudav.com/zerol/wsainstall.exe)
 - ESET                         > [Link](https://proxy.eset.com/li-handler/?transaction_id=odcm_download|esetgwsprod|us|oksgz9g0y9mica4ayzpw5dbixf3p53kaudw5tpwz1pff0un8lw096ozitly6heexp8wid&branch=us&prod=essp)
