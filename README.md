@@ -35,6 +35,10 @@
 | network.ttr.mode | 2 |
 | browser.cache.offline.enable | false |
 | media.navigator.enabled | false |
+```
+reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableDefaultBrowserAgent" /t REG_DWORD /d "1" /f
+reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DWORD /d "1" /f
+```
 
 ### Websites
 - haveibeenpwned               > [Link](https://haveibeenpwned.com/)
