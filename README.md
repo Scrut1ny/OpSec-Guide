@@ -10,6 +10,7 @@
 # 3 - PRIVACY & SECURITY
 ### Firefox Config
 | Option | Setting |
+| - | - |
 | media.peerconnection.enabled | false |
 | media.navigator.enabled | false |
 | privacy.resistFingerprinting | true |
