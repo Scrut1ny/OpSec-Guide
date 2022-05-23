@@ -9,15 +9,16 @@
 
 # 3 - PRIVACY & SECURITY
 ### Firefox Config
-- media.peerconnection.enabled = false
-- media.navigator.enabled = false
-- privacy.resistFingerprinting = true
-- geo.enabled = false
-- dom.battery.enabled = false
-- webgl.disabled = true
-- dom.event.clipboardevents.enabled = false
-- network.ttr.mode - 2
-- 
+| Option | Setting |
+| media.peerconnection.enabled | false |
+| media.navigator.enabled | false |
+| privacy.resistFingerprinting | true |
+| geo.enabled | false |
+| dom.battery.enabled | false |
+| webgl.disabled | true |
+| dom.event.clipboardevents.enabled | false |
+| network.ttr.mode | 2 |
+
 
 ### Websites
 - haveibeenpwned               > [Link](https://haveibeenpwned.com/)
