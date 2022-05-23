@@ -193,11 +193,12 @@ WIN + R - mmsys.cpl
 Playback | WIN + R - control mmsys.cpl,1
 ☐ Show Disabled Devices
 ☐ Show Disconnected Devices
+
 Recording Tabs | WIN + R - control mmsys.cpl,,1
 ☐ Show Disabled Devices
 ☐ Show Disconnected Devices
 
-Sounds Tab
+Sounds Tab | WIN + R - ontrol mmsys.cpl
 Sound Scheme:
 - No Sounds
 
