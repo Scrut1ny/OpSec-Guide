@@ -12,6 +12,15 @@
 ### Privacy solutions
 - privacytools                 > [Link](https://www.privacytools.io/)
 - nomoregoogle                 > [Link](https://nomoregoogle.com/)
+- ssd.eff                      > [Link](https://ssd.eff.org)
+- haveibeenpwned               > [Link](https://haveibeenpwned.com)
+- stallman                     > [Link](https://stallman.org/facebook.html)
+- madaidans-insecurities       > [Link](https://madaidans-insecurities.github.io)
+- sizeof.cat                   > [Link](https://sizeof.cat/links)
+- ryf.fsf                      > [Link](https://ryf.fsf.org/products)
+- privacyspy                   > [Link](https://privacyspy.org)
+- techlore                     > [Link](https://techlore.tech)
+- thenewoil                    > [Link](https://thenewoil.org)
 
 ### Firefox about:config
 | `Option` | `Setting` |
@@ -113,18 +122,6 @@
 - exiftool                     > [Link](https://exiftool.org/)
 - exifcleaner                  > [Link](https://github.com/szTheory/exifcleaner/releases/latest)
 - Exif Pilot                   > [Link](https://www.colorpilot.com/exif.html)
-
-### Resources
-- https://www.privacytools.io
-- https://ssd.eff.org
-- https://haveibeenpwned.com
-- https://stallman.org/facebook.html
-- https://madaidans-insecurities.github.io
-- https://sizeof.cat/links
-- https://ryf.fsf.org/products
-- https://privacyspy.org
-- https://techlore.tech
-- https://thenewoil.org
 
 ### 4 - SYSTEM
 
