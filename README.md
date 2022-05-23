@@ -207,6 +207,7 @@ Communications Tab | WIN + R - control mmsys.cpl,,3
 ```
 ### Enable *Ultimate Performance* Mode
 ```batch
+powercfg.cpl
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 powercfg /L | find "Ultimate"
 powercfg /S *Ultimate Performance GUID*
