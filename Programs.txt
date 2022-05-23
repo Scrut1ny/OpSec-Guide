@@ -53,6 +53,8 @@
  - yt-dlp > https://github.com/yt-dlp/yt-dlp/releases/latest
 
  - superf4 > https://github.com/stefansundin/superf4/releases/download/v1.4/SuperF4-1.4.exe
+ 
+ - popcorn-desktop > https://github.com/popcorn-official/popcorn-desktop
 
 >> MAIN DRIVERS >
 
