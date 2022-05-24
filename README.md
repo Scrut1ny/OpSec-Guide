@@ -6,7 +6,6 @@
 - O&O ShutUp10++               > [Link](https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe)
 - privacy.sexy                 > [Link](https://privacy.sexy/)
 - Autoruns                     > [Link](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
-
 - WindowsSpyBlocker            > [Link](https://github.com/crazy-max/WindowsSpyBlocker/)
 - wpd                          > [Link](https://wpd.app/)
 - Blackbird                    > [Link](https://www.getblackbird.net/)
