@@ -470,3 +470,18 @@ Game Mod Menu's
 	* Zombies      > [Link](https://cabconmodding.com/attachments/zm_encorev14_release_1-rar.1103/)
 	* Zombies      > [Link](https://cabconmodding.com/attachments/zm_encorev12_alpha_1-rar.639/)
 - cod4x                > [Link](https://cod4x.ovh/)
+
+# 3 - Tor V3 Onion Links
+| Name | Link |
+| - | - |
+| Dread | [Link](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/) |
+|  | [Link]() |
+| Pornhub | [Link](http://pornhubvybmsymdol4iibwgwtkpwmeyd6luq2gxajgjzfjvotyt5zhyd.onion/) |
+|  | [Link]() |
+|  | [Link]() |
+|  | [Link]() |
+|  | [Link]() |
+|  | [Link]() |
+|  | [Link]() |
+|  | [Link]() |
+|  | [Link]() |
