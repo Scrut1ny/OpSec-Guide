@@ -14,6 +14,7 @@
 
 ### Privacy solutions
 - privacytools                 > [Link](https://www.privacytools.io/)
+- CHEF-KOCH                    > [Link](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/)
 - nomoregoogle                 > [Link](https://nomoregoogle.com/)
 - ssd.eff                      > [Link](https://ssd.eff.org)
 - haveibeenpwned               > [Link](https://haveibeenpwned.com)
