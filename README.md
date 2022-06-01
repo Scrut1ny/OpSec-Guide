@@ -113,13 +113,14 @@ reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DW
 - Courvix                      > [Link](https://courvix.com/vpn) - [Download](https://cdn.courvix.com/vpn/CourvixVPN.exe)
 
 ### Leaks & Tests
-- https://www.dnsleaktest.com/
-- https://ipleak.net/
-- https://browserleaks.com
-- https://privacytests.org
-- https://www.deviceinfo.me/
-- https://d3ward.github.io/toolz/adblock.html
-- https://canyoublockit.com/
+- dnsleaktest                  > [Link](https://www.dnsleaktest.com/)
+- ipleak                       > [Link](https://ipleak.net/)
+- browserleaks                 > [Link](https://browserleaks.com)
+- coveryourtracks.eff          > [Link](https://coveryourtracks.eff.org/)
+- privacytests                 > [Link](https://privacytests.org)
+- deviceinfo                   > [Link](https://www.deviceinfo.me/)
+- adblock                      > [Link](https://d3ward.github.io/toolz/adblock.html)
+- canyoublockit                > [Link](https://canyoublockit.com/)
 
 ### Spoofing
 - Windows-Spoofer              > [Link](https://github.com/Scrut1ny/Windows-Spoofer/releases/latest)
