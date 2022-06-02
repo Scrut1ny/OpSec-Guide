@@ -26,7 +26,7 @@
 - techlore                     > [Link](https://techlore.tech)
 - thenewoil                    > [Link](https://thenewoil.org)
 
-WLAN-SSID: Opt-Out
+### WLAN-SSID: Opt-Out
 
 Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of [global maps](https://wigle.net/).
 
