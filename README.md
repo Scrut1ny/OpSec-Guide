@@ -61,8 +61,7 @@ reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DW
 | User-Agent Switcher and Manager | [Link](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) | Spoof websites trying to gather information about your web navigation—like your browser type and operating system—to deliver distinct content you may not want. |
 | CanvasBlocker | [Link](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) | Alters some JS APIs to prevent fingerprinting. |
 |=====|=====|=====|
-| Tampermonkey | [Link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) | Tampermonkey is the world's most popular userscript manager.
- |
+| Tampermonkey | [Link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) | Tampermonkey is the world's most popular userscript manager. |
 
 ### School Extentions
 - School Cheats                > [Link](https://chrome.google.com/webstore/detail/school-cheats/dcecjjjnjecoiehclollekjmfgblkkha)
