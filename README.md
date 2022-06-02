@@ -53,7 +53,7 @@ reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DW
 - haveibeenpwned               > [Link](https://haveibeenpwned.com/)
 - VirusTotal                   > [Link](https://www.virustotal.com/gui/home/upload)
 
-### Extentions
+### FF Extentions
 | `Name` | `Link` |
 | - | - |
 | uBlock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) |
