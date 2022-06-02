@@ -27,18 +27,17 @@
 - thenewoil                    > [Link](https://thenewoil.org)
 
 ### Firefox about:config
-| `Option` | `Setting` | Desc. |
+| `Option` | `Setting` | `Desc.` |
 | - | - | - |
 | media.peerconnection.enabled | false | WebRTC 
-| media.navigator.enabled | false | 
-| privacy.resistFingerprinting | true | More resistant fingerprinting |
+| media.navigator.enabled | false | Prevent websites from knowing if a microphone or a video camera is available on your device. |
+| privacy.resistFingerprinting | true | More resistant to fingerprinting |
 | geo.enabled | false | Disable geolocation tracking. |
-| dom.battery.enabled | false | |
-| webgl.disabled | true | |
-| dom.event.clipboardevents.enabled | false | |
-| network.ttr.mode | 2 | |
-| browser.cache.offline.enable | false | |
-| media.navigator.enabled | false | |
+| dom.battery.enabled | false | It prevents websites from knowing whether you are using your laptop on battery or AC power. |
+| webgl.disabled | true | prevent your device to be fingerprinted and any potential security risks from using WebGL. |
+| dom.event.clipboardevents.enabled | false | With this option disabled, websites won't know if you copy/paste something from their web page and which part of the page had been selected. |
+| network.ttr.mode | 2 | DNS-over-HTTPS (DoH) |
+| browser.cache.offline.enable | false | If TRUE, it allows websites to store data on your computer for when you would be offline. |
 ```
 reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableDefaultBrowserAgent" /t REG_DWORD /d "1" /f
 reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DWORD /d "1" /f
