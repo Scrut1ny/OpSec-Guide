@@ -27,7 +27,7 @@
 - thenewoil                    > [Link](https://thenewoil.org)
 
 ### Firefox about:config
-| `Option` | `Setting` | `Desc.` |
+| `Option` | `Setting` | `Descriptions` |
 | - | - | - |
 | media.peerconnection.enabled | false | WebRTC 
 | media.navigator.enabled | false | Prevent websites from knowing if a microphone or a video camera is available on your device. |
