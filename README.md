@@ -63,6 +63,13 @@ reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DW
 |CanvasBlocker|[Link](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)|Alters some JS APIs to prevent fingerprinting.|
 |>> Useful|||
 |Tampermonkey|[Link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)|Tampermonkey is the world's most popular userscript manager.|
+|Spoof Geolocation|[Link](https://addons.mozilla.org/en-US/firefox/addon/spoof-geolocation/)|
+|Spoof Timezone|[Link](https://addons.mozilla.org/en-US/firefox/addon/spoof-timezone/)|
+|Flagfox|[Link](https://addons.mozilla.org/en-US/firefox/addon/flagfox/)|
+|ClearURLs|[Link](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)|
+|Cookie AutoDelete|[Link](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)|
+|SponsorBlock|[Link](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)|
+|KeePassXC-Browser|[Link](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)|
 
 ### School Extentions
 - School Cheats                > [Link](https://chrome.google.com/webstore/detail/school-cheats/dcecjjjnjecoiehclollekjmfgblkkha)
