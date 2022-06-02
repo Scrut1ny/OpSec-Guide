@@ -28,7 +28,7 @@
 
 WLAN-SSID: Opt-Out
 
-Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of global maps.
+Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of [global maps](https://wigle.net/).
 [Mozilla Location Services and How to Opt-Out.](https://location.services.mozilla.com/optout)
 
 
