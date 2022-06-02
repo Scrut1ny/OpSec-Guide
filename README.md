@@ -408,6 +408,13 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "E
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "ThumbnailLivePreviewHoverTime" /t REG_DWORD /d "00000064" /f
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "DesktopLivePreviewHoverTime" /t REG_DWORD /d "00000064" /f
 ```
+### Random *fixes* 
+```
+sc stop DiagTrack
+sc stop dmwappushservice
+sc config DiagTrack start=disabled
+sc config dmwappushservice start=disabled
+```
 
 # 5 - MISC
 
