@@ -54,15 +54,14 @@ reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DW
 - VirusTotal                   > [Link](https://www.virustotal.com/gui/home/upload)
 
 ### Extentions
-| `Important` |
+| `Name` | `Link` |
 | - | - |
 | uBlock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) |
-
-- Decentraleyes                > [Link](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
-- UAS&M                        > [Link](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)
-- HTTPS Everywhere             > [Link](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
-- CanvasBlocker                > [Link](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
-- Tampermonkey                 > [Link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+| Decentraleyes | [Link](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) |
+| User-Agent Switcher and Manager | [Link](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) |
+| CanvasBlocker | [Link](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) |
+|=====|=====|
+| Tampermonkey | [Link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) |
 
 ### School Extentions
 - School Cheats                > [Link](https://chrome.google.com/webstore/detail/school-cheats/dcecjjjnjecoiehclollekjmfgblkkha)
