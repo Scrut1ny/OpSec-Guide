@@ -409,7 +409,7 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "T
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "DesktopLivePreviewHoverTime" /t REG_DWORD /d "00000064" /f
 ```
 ### Random *fixes* 
-```
+```batch
 sc stop DiagTrack
 sc stop dmwappushservice
 sc config DiagTrack start=disabled
