@@ -54,7 +54,10 @@ reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DW
 - VirusTotal                   > [Link](https://www.virustotal.com/gui/home/upload)
 
 ### Extentions
-- uBlock Origin                > [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+| `Important` |
+| - | - |
+| uBlock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) |
+
 - Decentraleyes                > [Link](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
 - UAS&M                        > [Link](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)
 - HTTPS Everywhere             > [Link](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
