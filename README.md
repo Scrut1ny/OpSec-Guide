@@ -294,6 +294,8 @@ schtasks /Change /TN "Microsoft\Windows\WindowsUpdate\Automatic App Update" /dis
 schtasks /Change /TN "Microsoft\Windows\Workplace Join\Automatic-Device-Join" /disable
 schtasks /Change /TN "Microsoft\Windows\Workplace Join\Device-Sync" /disable
 schtasks /Change /TN "Microsoft\Windows\Workplace Join\Recovery-Check" /disable
+schtasks /change /TN "Microsoft\Office\Office 15 Subscription Heartbeat" /disable
+schtasks /change /TN "Microsoft\Office\Office 16 Subscription Heartbeat" /disable
 del /F /Q "C:\Windows\System32\Tasks\Microsoft\Windows\SettingSync\*"
 ```
 ### Registry *Fixes*
