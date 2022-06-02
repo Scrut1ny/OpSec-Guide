@@ -63,13 +63,13 @@ reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DW
 |CanvasBlocker|[Link](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)|Alters some JS APIs to prevent fingerprinting.|
 |>> Useful|||
 |Tampermonkey|[Link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)|Tampermonkey is the world's most popular userscript manager.|
-|Spoof Geolocation|[Link](https://addons.mozilla.org/en-US/firefox/addon/spoof-geolocation/)|
-|Spoof Timezone|[Link](https://addons.mozilla.org/en-US/firefox/addon/spoof-timezone/)|
-|Flagfox|[Link](https://addons.mozilla.org/en-US/firefox/addon/flagfox/)|
-|ClearURLs|[Link](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)|
-|Cookie AutoDelete|[Link](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)|
-|SponsorBlock|[Link](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)|
-|KeePassXC-Browser|[Link](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)|
+|Spoof Geolocation|[Link](https://addons.mozilla.org/en-US/firefox/addon/spoof-geolocation/)|This extension alters browser Geolocation latitude and longitude to user-defined values|
+|Spoof Timezone|[Link](https://addons.mozilla.org/en-US/firefox/addon/spoof-timezone/)|This extension alters browser timezone to a random or user-defined value.|
+|Flagfox|[Link](https://addons.mozilla.org/en-US/firefox/addon/flagfox/)|Displays a country flag depicting the location of the current website's server and provides a multitude of tools such as site safety checks, whois, translation, similar sites, validation, URL shortening, and more...|
+|ClearURLs|[Link](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)|Removes tracking elements from URLs|
+|Cookie AutoDelete|[Link](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)|Control your cookies! This WebExtension is inspired by Self Destructing Cookies. When a tab closes, any cookies not being used are automatically deleted. Keep the ones you trust (forever/until restart) while deleting the rest. Containers Supported|
+|SponsorBlock|[Link](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)|Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors. You can also report sponsors in videos.|
+|KeePassXC-Browser|[Link](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)|Official browser plugin for the KeePassXC password manager|
 
 ### School Extentions
 - School Cheats                > [Link](https://chrome.google.com/webstore/detail/school-cheats/dcecjjjnjecoiehclollekjmfgblkkha)
