@@ -54,14 +54,15 @@ reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DW
 - VirusTotal                   > [Link](https://www.virustotal.com/gui/home/upload)
 
 ### FF Extentions
-| `Name` | `Link` |
-| - | - |
-| uBlock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) |
-| Decentraleyes | [Link](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) |
-| User-Agent Switcher and Manager | [Link](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) |
-| CanvasBlocker | [Link](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) |
-|=====|=====|
-| Tampermonkey | [Link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) |
+| `Name` | `Link` | `Desc.` |
+| - | - | - |
+| uBlock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) | Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory. |
+| Decentraleyes | [Link](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) | Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking. Complements regular content blockers. |
+| User-Agent Switcher and Manager | [Link](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) | Spoof websites trying to gather information about your web navigation—like your browser type and operating system—to deliver distinct content you may not want. |
+| CanvasBlocker | [Link](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) | Alters some JS APIs to prevent fingerprinting. |
+|=====|=====|=====|
+| Tampermonkey | [Link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) | Tampermonkey is the world's most popular userscript manager.
+ |
 
 ### School Extentions
 - School Cheats                > [Link](https://chrome.google.com/webstore/detail/school-cheats/dcecjjjnjecoiehclollekjmfgblkkha)
