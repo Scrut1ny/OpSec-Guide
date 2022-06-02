@@ -26,6 +26,12 @@
 - techlore                     > [Link](https://techlore.tech)
 - thenewoil                    > [Link](https://thenewoil.org)
 
+WLAN-SSID: Opt-Out
+
+Rename your network WiFi SSID to <SSID>_optout_nomap to opt-out of global maps.
+[Mozilla Location Services and How to Opt-Out.](https://location.services.mozilla.com/optout)
+
+
 ### Firefox about:config
 | `Option` | `Setting` | `Descriptions` |
 | - | - | - |
@@ -108,6 +114,7 @@ reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DW
 
 ### VPN
 - Mullvad                      > [Link](https://mullvad.net/) - [Download](https://mullvad.net/download/app/exe/latest/) | [Onion Link](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/) - [Download](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/download/app/exe/latest/)
+- IVPN                         > [Link](https://www.ivpn.net/)
 - OpenVPN                      > [Link](https://openvpn.net/vpn-client/) - [Download](https://openvpn.net/downloads/openvpn-connect-v3-windows.msi)
 - Courvix                      > [Link](https://courvix.com/vpn) - [Download](https://cdn.courvix.com/vpn/CourvixVPN.exe)
 
