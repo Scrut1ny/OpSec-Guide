@@ -27,18 +27,18 @@
 - thenewoil                    > [Link](https://thenewoil.org)
 
 ### Firefox about:config
-| `Option` | `Setting` |
-| - | - |
-| media.peerconnection.enabled | false |
-| media.navigator.enabled | false |
-| privacy.resistFingerprinting | true |
-| geo.enabled | false |
-| dom.battery.enabled | false |
-| webgl.disabled | true |
-| dom.event.clipboardevents.enabled | false |
-| network.ttr.mode | 2 |
-| browser.cache.offline.enable | false |
-| media.navigator.enabled | false |
+| `Option` | `Setting` | Desc. |
+| - | - | - |
+| media.peerconnection.enabled | false | WebRTC 
+| media.navigator.enabled | false | 
+| privacy.resistFingerprinting | true | More resistant fingerprinting |
+| geo.enabled | false | Disable geolocation tracking. |
+| dom.battery.enabled | false | |
+| webgl.disabled | true | |
+| dom.event.clipboardevents.enabled | false | |
+| network.ttr.mode | 2 | |
+| browser.cache.offline.enable | false | |
+| media.navigator.enabled | false | |
 ```
 reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableDefaultBrowserAgent" /t REG_DWORD /d "1" /f
 reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DWORD /d "1" /f
