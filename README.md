@@ -498,6 +498,7 @@ Game Mod Menu's
 	* Zombies               > [Link](https://cabconmodding.com/attachments/cabconmodding-com-encorev8-zombie-edition-0-9-rar.59/)
 	
 - Call of Duty: Black Ops 2
+	- plutonium    > [Link](https://plutonium.pw/)
 	- Black Ops 2 GSC Studio > [Link](https://mega.nz/file/hDoGwAbR#j-9i3oIZyiAz13FULRTaxAiKQcSCOXo-44Lr977YfcQ)
 	* Multiplayer  > [Link](https://cabconmodding.com/attachments/cabconmodding-com-jiggy-4-3-compiled-pc-rar.1296/)
 	* Zombies      > [Link](https://www.mediafire.com/?28un6sdd1wsdad6)
