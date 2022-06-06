@@ -437,7 +437,6 @@ sc stop DiagTrack
 sc stop dmwappushservice
 sc config DiagTrack start=disabled
 sc config dmwappushservice start=disabled
-
 sc stop “SysMain” & sc config “SysMain” start=disabled
 ```
 
