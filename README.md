@@ -525,7 +525,7 @@ Game Mod Menu's
 | Dread | [Link](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/) |
 | Raddle | [Link](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/) |
 | Pornhub | [Link](http://pornhubvybmsymdol4iibwgwtkpwmeyd6luq2gxajgjzfjvotyt5zhyd.onion/) |
-| elfqrin | [Link](http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/fakeid.php) |
+| elfqrin | [Link](http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/) |
 |  | [Link]() |
 |  | [Link]() |
 |  | [Link]() |
