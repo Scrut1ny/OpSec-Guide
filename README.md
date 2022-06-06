@@ -428,8 +428,11 @@ reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Reporting" /v "Disabl
 reg add "HKLM\SOFTWARE\Policies\Microsoft\AppHVSI" /v "AuditApplicationGuard" /t REG_DWORD /d "0" /f
 reg add "HKLM\Software\Policies\Microsoft\Windows Defender\Real-Time Protection" /v "DisableRawWriteNotification" /t REG_DWORD /d "1" /f
 
+rem Prefetch & Superfetch Termination
+sc stop “SysMain” & sc config “SysMain” start=disabled
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters" /v "EnablePrefetcher" /t REG_DWORD /d "0" /f
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters" /v "EnableSuperfetch" /t REG_DWORD /d "0" /f
+del /F /Q "C:\Windows\Prefetch\*"
 ```
 ### Random *fixes* 
 ```batch
