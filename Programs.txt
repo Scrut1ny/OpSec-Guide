@@ -2,13 +2,13 @@
 
  - GeForce® Experience™ > https://www.nvidia.com/en-us/geforce/geforce-experience/
  
- - NVIDIA Driver        > https://www.nvidia.com/Download/index.aspx?lang=en-us
+ - NVIDIA Driver > https://www.nvidia.com/Download/index.aspx?lang=en-us
 
- - .NET 5.0             > https://dotnet.microsoft.com/download/dotnet/5.0
+ - .NET 6.0.300 > https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.300-windows-x64-installer
 
- - DirectX              > https://www.microsoft.com/en-us/download/details.aspx?id=35
+ - DirectX > https://www.microsoft.com/en-us/download/details.aspx?id=35
 
- - Java                 > https://www.java.com/
+ - Java > https://www.java.com/
 
  - Glary Utilities 5 > https://www.glarysoft.com/
 	License codes:
@@ -16,11 +16,11 @@
 	X788-6167-958X-NL5P-UZJB
 	8788-6167-9588-7Y0E-2K7W
 
- - MSI Afterburner   > https://www.msi.com/Landing/afterburner/graphics-cards
+ - MSI Afterburner > https://www.msi.com/Landing/afterburner/graphics-cards
 
- - 7zip              > https://www.7-zip.org/
+ - 7zip > https://www.7-zip.org/
 
- - ImageGlass        > https://github.com/d2phap/ImageGlass
+ - ImageGlass > https://github.com/d2phap/ImageGlass
 
  - VLC media player > https://www.videolan.org/
 
@@ -30,11 +30,11 @@
 
  - Process Hacker > https://processhacker.sourceforge.io/nightly.php
 
- - Notepad++      > https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest
+ - Notepad++ > https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest
  
- - KeePassXC      > https://github.com/keepassxreboot/keepassxc/releases/latest
+ - KeePassXC > https://github.com/keepassxreboot/keepassxc/releases/latest
 
- - TranslucentTB  > https://github.com/TranslucentTB/TranslucentTB/releases/latest
+ - TranslucentTB > https://github.com/TranslucentTB/TranslucentTB/releases/latest
 
  - qBittorrent > https://www.qbittorrent.org/download.php (SAFE)
 
