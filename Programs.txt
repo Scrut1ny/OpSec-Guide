@@ -1,122 +1,48 @@
- - GeForce® Experience™ > https://www.nvidia.com/en-us/geforce/geforce-experience/
- 
- - NVIDIA Driver > https://www.nvidia.com/Download/index.aspx?lang=en-us
+========== Main Software & Drivers ==========
 
  - .NET 6.0.300 > https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.300-windows-x64-installer
-
  - DirectX > https://www.microsoft.com/en-us/download/details.aspx?id=35
-
  - Java > https://www.java.com/
+ - NVIDIA Driver > https://www.nvidia.com/Download/index.aspx?lang=en-us
+ - Python > https://www.python.org/downloads/
 
- - Glary Utilities 5 > https://www.glarysoft.com/
-	License codes:
-	3788-6167-9582-6222-6668
-	X788-6167-958X-NL5P-UZJB
-	8788-6167-9588-7Y0E-2K7W
-
- - MSI Afterburner > https://www.msi.com/Landing/afterburner/graphics-cards
+========== Microsoft Replacements ==========
 
  - 7zip > https://www.7-zip.org/
-
  - ImageGlass > https://github.com/d2phap/ImageGlass
-
+ - Notepad++ > https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest
+ - Process Hacker > https://processhacker.sourceforge.io/nightly.php
  - VLC media player > https://www.videolan.org/
 
- - Phototshop > https://www.gimp.org/downloads/
-
- - Video Editing > https://www.blackmagicdesign.com/uk/products/davinciresolve/
-
- - Process Hacker > https://processhacker.sourceforge.io/nightly.php
-
- - Notepad++ > https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest
- 
- - KeePassXC > https://github.com/keepassxreboot/keepassxc/releases/latest
-
- - TranslucentTB > https://github.com/TranslucentTB/TranslucentTB/releases/latest
-
- - qBittorrent > https://www.qbittorrent.org/download.php (SAFE)
-
- - OpenVPN > https://openvpn.net/vpn-client/
+========== Useful Optional Software ==========
 
  - Courvix Network > https://courvix.com/vpn
-
  - Discord > https://discord.com/
-
- - Steam > https://store.steampowered.com/
-
- - Spotify > https://www.spotify.com/us/download/windows/
-
- - Wireshark > https://www.wireshark.org/
-
- - Python > https://www.python.org/downloads/
-
- - yt-dlp > https://github.com/yt-dlp/yt-dlp/releases/latest
-
- - superf4 > https://github.com/stefansundin/superf4/releases/download/v1.4/SuperF4-1.4.exe
- 
- - popcorn-desktop > https://github.com/popcorn-official/popcorn-desktop
-
+ - FFmpeg > https://ffmpeg.org/
  - GeForce® Experience™ > https://www.nvidia.com/en-us/geforce/geforce-experience/
-
- - .NET 5.0             > https://dotnet.microsoft.com/download/dotnet/5.0
-
- - DirectX              > https://www.microsoft.com/en-us/download/details.aspx?id=35
-
- - Java                 > https://www.java.com/
-
  - Glary Utilities 5 > https://www.glarysoft.com/
-	License codes:
-	3788-6167-9582-6222-6668
-	X788-6167-958X-NL5P-UZJB
-	8788-6167-9588-7Y0E-2K7W
-
- - MSI Afterburner   > https://www.msi.com/Landing/afterburner/graphics-cards
-
- - WEBROOT           > https://www.webroot.com/
-
- - 7zip              > https://www.7-zip.org/
-
- - Phototshop > https://www.gimp.org/downloads/
-
- - Video Editing > https://www.blackmagicdesign.com/uk/products/davinciresolve/
-
- - Process Hacker > https://processhacker.sourceforge.io/nightly.php
-
- - Notepad++      > https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest
- 
+	* License codes: 3788-6167-9582-6222-6668 | X788-6167-958X-NL5P-UZJB | 8788-6167-9588-7Y0E-2K7W
  - KeePassXC      > https://github.com/keepassxreboot/keepassxc/releases/latest
-
- - ShutUp10       > https://www.oo-software.com/en/shutup10
-
- - HWIDinfo       > https://www.hwinfo.com/download/
-
- - TranslucentTB  > https://github.com/TranslucentTB/TranslucentTB/releases/latest
-
+ - MSI Afterburner > https://www.msi.com/Landing/afterburner/graphics-cards
+ - OpenVPN > https://openvpn.net/vpn-client/
+ - Phototshop > https://www.gimp.org/downloads/
+ - popcorn-desktop > https://github.com/popcorn-official/popcorn-desktop
+ - qBittorrent > https://www.qbittorrent.org/download.php
+ - Spotify > https://www.spotify.com/us/download/windows/
+ - Steam > https://store.steampowered.com/
+ - superf4 > https://github.com/stefansundin/superf4/releases/download/v1.4/SuperF4-1.4.exe
+ - Video Editing > https://www.blackmagicdesign.com/uk/products/davinciresolve/
  - VMware PRO > https://www.vmware.com/go/getworkstation-win
 	* Pro Licence Key: ZF3R0-FHED2-M80TY-8QYGC-NPKYF
-
- - qBittorrent > https://www.qbittorrent.org/download.php
-
- - Discord > https://discord.com/
-
- - Steam > https://store.steampowered.com/
-
- - Spotify > https://www.spotify.com/us/download/windows/
- 
- - Etcher > https://github.com/balena-io/etcher/releases/latest
-
  - Wireshark > https://www.wireshark.org/
-
- - Advanced IP Scanner > https://www.advanced-ip-scanner.com/
-
- - Python > https://www.python.org/downloads/
-
- - WeMod > https://www.wemod.com/
- 
- - VLC media player > https://www.videolan.org/
- 
  - yt-dlp > https://github.com/yt-dlp/yt-dlp/releases/latest
 
- - FFmpeg > https://ffmpeg.org/
- 
+========== Extra Software ==========
+
+ - Advanced IP Scanner > https://www.advanced-ip-scanner.com/
+ - Etcher > https://github.com/balena-io/etcher/releases/latest
+ - HWIDinfo > https://www.hwinfo.com/download/
+ - ShutUp10 > https://www.oo-software.com/en/shutup10
  - testdisk > https://www.cgsecurity.org/Download_and_donate.php/testdisk-7.2-WIP.win64.zip
+ - WEBROOT > https://www.webroot.com/
+ - WeMod > https://www.wemod.com/
