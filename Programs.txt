@@ -1,6 +1,8 @@
 >> Favorite Programs
 
  - GeForce® Experience™ > https://www.nvidia.com/en-us/geforce/geforce-experience/
+ 
+ - NVIDIA Driver        > https://www.nvidia.com/Download/index.aspx?lang=en-us
 
  - .NET 5.0             > https://dotnet.microsoft.com/download/dotnet/5.0
 
