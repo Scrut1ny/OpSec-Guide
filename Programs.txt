@@ -13,6 +13,8 @@
  - Notepad++ > https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest
  - Process Hacker > https://processhacker.sourceforge.io/nightly.php
  - VLC media player > https://www.videolan.org/
+ - Everything > https://www.voidtools.com/
+ 	* EverythingToolbar > https://github.com/stnkl/EverythingToolbar
 
 ========== Useful Optional Software ==========
 
