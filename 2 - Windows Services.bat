@@ -11,10 +11,13 @@ fltmc >nul 2>&1 || (
 
 rem Windows Services
 
+rem WLAN AutoConfig service
 rem sc stop "WlanSvc" & sc config "WlanSvc" start=disabled
+rem Windows Search Platform
 rem sc stop "WSearch" & sc config "WSearch" start=disabled
-rem Windows security / defender services
+rem Windows Security Center
 rem sc stop "wscsvc" & sc config "wscsvc" start=disabled
+rem Windows Defender Network
 rem sc stop "WdNisSvc" & sc config "WdNisSvc" start=disabled
 
 >nul 2>&1 (
