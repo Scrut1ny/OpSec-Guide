@@ -159,7 +159,7 @@ rem Registry Tweaks
 	
 	
 	reg add "HKCU\Control Panel\Accessibility\StickyKeys" /v "Flags" /t REG_SZ /d "506" /f
-	
+	reg delete "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /v "MicrosoftEdgeAutoLaunch_62BE886DE5E24961BABED44FEE1F0CF1" /f
 	
 	
 	reg delete "HKCR\AllFilesystemObjects\shellex\ContextMenuHandlers\SendTo" /f
