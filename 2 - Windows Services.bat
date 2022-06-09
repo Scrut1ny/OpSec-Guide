@@ -128,8 +128,8 @@ echo Done&>nul pause
 
 
 sc stop "wuauserv" & sc config "wuauserv" start=disabled
+sc stop "DcpSvc" & sc config "DcpSvc" start=disabled
 
-sc stop "" & sc config "" start=disabled
 sc stop "" & sc config "" start=disabled
 sc stop "" & sc config "" start=disabled
 sc stop "" & sc config "" start=disabled
