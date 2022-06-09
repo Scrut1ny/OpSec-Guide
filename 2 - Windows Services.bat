@@ -12,8 +12,9 @@ fltmc >nul 2>&1 || (
 rem Windows Services
 
 rem sc stop "WlanSvc" & sc config "WlanSvc" start=disabled
-rem sc stop "wscsvc" & sc config "wscsvc" start=disabled
 rem sc stop "WSearch" & sc config "WSearch" start=disabled
+rem Windows security / defender services
+rem sc stop "wscsvc" & sc config "wscsvc" start=disabled
 rem sc stop "WdNisSvc" & sc config "WdNisSvc" start=disabled
 
 >nul 2>&1 (
