@@ -20,6 +20,7 @@
 ========== Useful Optional Software ==========
 
  - Optimizer > https://github.com/hellzerg/optimizer
+ - ShutUp10 > https://www.oo-software.com/en/shutup10
  - Courvix Network > https://courvix.com/vpn
  - Discord > https://discord.com/
  - FFmpeg > https://ffmpeg.org/
@@ -48,7 +49,6 @@
  - Advanced IP Scanner > https://www.advanced-ip-scanner.com/
  - Etcher > https://github.com/balena-io/etcher/releases/latest
  - HWIDinfo > https://www.hwinfo.com/download/
- - ShutUp10 > https://www.oo-software.com/en/shutup10
  - testdisk > https://www.cgsecurity.org/Download_and_donate.php/testdisk-7.2-WIP.win64.zip
  - WEBROOT > https://www.webroot.com/
  - WeMod > https://www.wemod.com/
