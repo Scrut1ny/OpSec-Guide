@@ -32,6 +32,7 @@
  - popcorn-desktop > https://github.com/popcorn-official/popcorn-desktop
  - qBittorrent > https://www.qbittorrent.org/download.php
  - Spotify > https://www.spotify.com/us/download/windows/
+ 	* SpotX > https://github.com/amd64fox/SpotX
  - Steam > https://store.steampowered.com/
  - superf4 > https://github.com/stefansundin/superf4/releases/download/v1.4/SuperF4-1.4.exe
  - Video Editing > https://www.blackmagicdesign.com/uk/products/davinciresolve/
