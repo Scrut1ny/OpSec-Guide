@@ -15,6 +15,7 @@
  - VLC media player > https://www.videolan.org/
  - Everything > https://www.voidtools.com/
  	* EverythingToolbar > https://github.com/stnkl/EverythingToolbar
+ - webcamoid > https://github.com/webcamoid/webcamoid
 
 ========== Useful Optional Software ==========
 
