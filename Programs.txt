@@ -30,6 +30,7 @@
  - OpenVPN > https://openvpn.net/vpn-client/
  - Phototshop > https://www.gimp.org/downloads/
  - popcorn-desktop > https://github.com/popcorn-official/popcorn-desktop
+ - FreeTube > https://github.com/FreeTubeApp/FreeTube
  - qBittorrent > https://www.qbittorrent.org/download.php
  - Spotify > https://www.spotify.com/us/download/windows/
  	* SpotX > https://github.com/amd64fox/SpotX
