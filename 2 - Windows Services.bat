@@ -34,6 +34,7 @@ rem sc stop "WdNisSvc" & sc config "WdNisSvc" start=disabled
 	sc stop "CDPSvc" & sc config "CDPSvc" start=disabled
 	sc stop "CDPUserSvc" & sc config "CDPUserSvc" start=disabled
 	sc stop "CscService" & sc config "CscService" start=disabled
+	sc stop "DcpSvc" & sc config "DcpSvc" start=disabled
 	sc stop "DevicesFlowUserSvc" & sc config "DevicesFlowUserSvc" start=disabled
 	sc stop "DevicesFlowUserSvc_5f1ad" & sc config "DevicesFlowUserSvc_5f1ad" start=disabled
 	sc stop "DevQueryBroker" & sc config "DevQueryBroker" start=disabled
@@ -45,6 +46,7 @@ rem sc stop "WdNisSvc" & sc config "WdNisSvc" start=disabled
 	sc stop "DisplayEnhancementService" & sc config "DisplayEnhancementService" start=disabled
 	sc stop "dLauncherLoopback" & sc config "dLauncherLoopback" start=disabled
 	sc stop "dmwappushservice" & sc config "dmwappushservice" start=disabled
+	sc stop "DoSvc" & sc config "DoSvc" start=disabled
 	sc stop "DsSvc" & sc config "DsSvc" start=disabled
 	sc stop "DusmSvc" & sc config "DusmSvc" start=disabled
 	sc stop "edgeupdate" & sc config "edgeupdate" start=disabled
@@ -54,6 +56,8 @@ rem sc stop "WdNisSvc" & sc config "WdNisSvc" start=disabled
 	sc stop "fdPHost" & sc config "fdPHost" start=disabled
 	sc stop "FDResPub" & sc config "FDResPub" start=disabled
 	sc stop "FontCache" & sc config "FontCache" start=disabled
+	sc stop "HomeGroupListener" & sc config "HomeGroupListener" start=disabled
+	sc stop "HomeGroupProvider" & sc config "HomeGroupProviderPcaSvc" start=disabled
 	sc stop "icssvc" & sc config "icssvc" start=disabled
 	sc stop "IKEEXT" & sc config "IKEEXT" start=disabled
 	sc stop "iphlpsvc" & sc config "iphlpsvc" start=disabled
@@ -103,6 +107,7 @@ rem sc stop "WdNisSvc" & sc config "WdNisSvc" start=disabled
 	sc stop "UevAgentService" & sc config "UevAgentService" start=disabled
 	sc stop "UnistoreSvc" & sc config "UnistoreSvc" start=disabled
 	sc stop "UserDataSvc" & sc config "UserDataSvc" start=disabled
+	sc stop "VSS" & sc config "VSS" start=disabled
 	sc stop "W32Time" & sc config "W32Time" start=disabled
 	sc stop "WalletService" & sc config "WalletService" start=disabled
 	sc stop "WbioSrvc" & sc config "WbioSrvc" start=disabled
@@ -113,11 +118,14 @@ rem sc stop "WdNisSvc" & sc config "WdNisSvc" start=disabled
 	sc stop "WerSvc" & sc config "WerSvc" start=disabled
 	sc stop "WinHttpAutoProxySvc" & sc config "WinHttpAutoProxySvc" start=disabled
 	sc stop "WinRM" & sc config "WinRM" start=disabled
+	sc stop "wisvc" & sc config "wisvc" start=disabled
 	sc stop "wlidsvc" & sc config "wlidsvc" start=disabled
 	sc stop "WMPNetworkSvc" & sc config "WMPNetworkSvc" start=disabled
 	sc stop "WpcMonSvc" & sc config "WpcMonSvc" start=disabled
 	sc stop "WPDBusEnum" & sc config "WPDBusEnum" start=disabled
 	sc stop "WpnUserService_5f1ad" & sc config "WpnUserService_5f1ad" start=disabled
+	sc stop "wuauserv" & sc config "wuauserv" start=disabled
+	sc stop "xbgm" & sc config "xbgm" start=disabled
 	sc stop "XblAuthManager" & sc config "XblAuthManager" start=disabled
 	sc stop "XblGameSave" & sc config "XblGameSave" start=disabled
 	sc stop "XboxGipSvc" & sc config "XboxGipSvc" start=disabled
@@ -125,17 +133,3 @@ rem sc stop "WdNisSvc" & sc config "WdNisSvc" start=disabled
 )
 
 echo Done&>nul pause
-
-
-sc stop "wuauserv" & sc config "wuauserv" start=disabled
-sc stop "DcpSvc" & sc config "DcpSvc" start=disabled
-
-sc stop "" & sc config "" start=disabled
-sc stop "" & sc config "" start=disabled
-sc stop "" & sc config "" start=disabled
-sc stop "" & sc config "" start=disabled
-sc stop "" & sc config "" start=disabled
-sc stop "" & sc config "" start=disabled
-sc stop "" & sc config "" start=disabled
-sc stop "" & sc config "" start=disabled
-sc stop "" & sc config "" start=disabled
