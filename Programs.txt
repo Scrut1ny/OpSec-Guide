@@ -18,6 +18,7 @@
 
 ========== Useful Optional Software ==========
 
+ - Optimizer > https://github.com/hellzerg/optimizer
  - Courvix Network > https://courvix.com/vpn
  - Discord > https://discord.com/
  - FFmpeg > https://ffmpeg.org/
