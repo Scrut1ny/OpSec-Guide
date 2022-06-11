@@ -173,3 +173,8 @@ rem Registry Tweaks
 )
 
 echo Done&>nul pause
+
+rem If creating new .txt by right clicking context menu option dissapears run these commands to fix.
+rem reg delete "HKCR\.txt\ShellNew" /f
+rem reg add "HKCR\.txt\ShellNew" /v "ItemName" /t REG_EXPAND_SZ /d "@%%SystemRoot%%\system32\notepad.exe,-470" /f
+rem reg add "HKCR\.txt\ShellNew" /v "NullFile" /t REG_SZ /d "" /f
