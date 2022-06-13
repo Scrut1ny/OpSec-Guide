@@ -276,10 +276,6 @@ Free Games
 - crohasit                      > [Link](https://crohasit.net/)
 - igg-games                     > [Link](https://igg-games.com/)
 
-Torrenting
-- Pirate Bay                    > [Link](https://thepiratebay.org/index.html)
-    * Tor V3                    > [Link](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion/)
-
 Random
 - SteamAchievementManager       > [Link](https://github.com/gibbed/SteamAchievementManager/releases/latest)
 
@@ -313,7 +309,7 @@ Game Mod Menu's
 | Raddle | [Link](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/) |
 | Pornhub | [Link](http://pornhubvybmsymdol4iibwgwtkpwmeyd6luq2gxajgjzfjvotyt5zhyd.onion/) |
 | elfqrin | [Link](http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/) |
-|  | [Link]() |
+| The Pirate Bay | [Link](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion/) |
 |  | [Link]() |
 |  | [Link]() |
 |  | [Link]() |
