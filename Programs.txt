@@ -39,6 +39,7 @@
  - Steam > https://store.steampowered.com/
  - superf4 > https://github.com/stefansundin/superf4/releases/download/v1.4/SuperF4-1.4.exe
  - Video Editing > https://www.blackmagicdesign.com/uk/products/davinciresolve/
+ - OBS Studio > https://github.com/obsproject/obs-studio
  - VMware PRO > https://www.vmware.com/go/getworkstation-win
 	* Pro Licence Key: ZF3R0-FHED2-M80TY-8QYGC-NPKYF
  - Wireshark > https://www.wireshark.org/
