@@ -1,3 +1,5 @@
+![fuckoff](https://user-images.githubusercontent.com/53458032/174271738-fde1de80-50a2-48c9-8e2b-a39274981405.jpg)
+
 # 1 - ACTIVATION
 - Microsoft-Activation-Scripts > [Link](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/latest)  
 
