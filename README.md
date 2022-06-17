@@ -1,4 +1,4 @@
-![fuckoff](https://user-images.githubusercontent.com/53458032/174271738-fde1de80-50a2-48c9-8e2b-a39274981405.jpg)
+![toolate](https://user-images.githubusercontent.com/53458032/174272270-fb17b5a0-f029-49ff-a841-7c1fa5478274.jpg)
 
 # 1 - ACTIVATION
 - Microsoft-Activation-Scripts > [Link](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/latest)  
