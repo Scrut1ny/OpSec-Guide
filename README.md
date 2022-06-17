@@ -46,7 +46,7 @@ Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of [global map
 | browser.cache.offline.enable | false | If TRUE, it allows websites to store data on your computer for when you would be offline. |
 ```
 reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DWORD /d "1" /f
-reg add HKLM\SOFTWARE\Policies\Mozilla\Firefox /v "DisableDefaultBrowserAgent" /t REG_DWORD /d "1" /f
+reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableDefaultBrowserAgent" /t REG_DWORD /d "1" /f
 schtasks.exe /change /disable /tn "\Mozilla\Firefox Default Browser Agent 308046B0AF4A39CB"
 schtasks.exe /change /disable /tn "\Mozilla\Firefox Default Browser Agent D2CEEC440E2074BD"
 ```
