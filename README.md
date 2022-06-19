@@ -308,12 +308,14 @@ Game Mod Menu's
 
 # 6 - Tor Settings / Sites
 
-## about:preferences#privacy
+#### about:preferences#privacy
 ✅ `Prioritize .onion sites when known.` - `Always`
+
 ✅ `Security Level` - `Safest`
 
-## about:preferences#tor
+#### about:preferences#tor
 ✅ `Always connect automatically`
+
 ✅ `Use a bridge` - `Select a built-in bridge` (`obfs4` - Prevents your ISP from seeing Tor traffic.)
 
 [Info](http://dsbqrprgkqqifztta6h3w7i2htjhnq7d3qkh3c7gvc35e66rrcv66did.onion/bridges/index.html)
