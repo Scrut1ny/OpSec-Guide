@@ -22,7 +22,7 @@ rem Windows Scheduled Tasks
 	schtasks /end /TN "\Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser"
 	schtasks /end /TN "\Microsoft\Windows\Application Experience\PcaPatchDbTask"
 	schtasks /end /TN "\Microsoft\Windows\Application Experience\ProgramDataUpdater"
-	schtasks /end /TN "\Microsoft\Windows\Application Experience\StartupAppTask""
+	schtasks /end /TN "\Microsoft\Windows\Application Experience\StartupAppTask"
 	schtasks /end /TN "\Microsoft\Windows\Autochk\Proxy"
 	schtasks /end /TN "\Microsoft\Windows\CloudExperienceHost\CreateObjectTask"
 	schtasks /end /TN "\Microsoft\Windows\Customer Experience Improvement Program\BthSQM"
