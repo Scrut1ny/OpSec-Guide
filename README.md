@@ -35,7 +35,7 @@ Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of [global map
 [Mozilla Location Services and How to Opt-Out.](https://location.services.mozilla.com/optout)
 
 ### Firefox about:config
-| `Option` | `Setting` | `Descriptions` |
+| `Option` | `Setting` | `Desc.` |
 | - | - | - |
 | media.peerconnection.enabled | false | WebRTC 
 | media.navigator.enabled | false | Prevent websites from knowing if a microphone or a video camera is available on your device. |
@@ -306,7 +306,21 @@ Game Mod Menu's
 	* Zombies      > [Link](https://cabconmodding.com/attachments/zm_encorev12_alpha_1-rar.639/)
 - cod4x                > [Link](https://cod4x.ovh/)
 
-# 6 - Tor V3 Onion Links
+# 6 - Tor Settings / Sites
+
+## about:config
+|`Name`|`Setting`|`Desc.`|
+|-|-|-|
+| javascript.enabled | false | Javascript |
+| media.peerconnection.enabled | false | WebRTC |
+| privacy.resistFingerprinting | true | More resistant to fingerprinting |
+| geo.enabled | false | Disable geolocation tracking. |
+| dom.battery.enabled | false | It prevents websites from knowing whether you are using your laptop on battery or AC power. |
+| webgl.disabled | true | prevent your device to be fingerprinted and any potential security risks from using WebGL. |
+| dom.event.clipboardevents.enabled | false | With this option disabled, websites won't know if you copy/paste something from their web page and which part of the page had been selected. |
+| network.ttr.mode | 2 | DNS-over-HTTPS (DoH) |
+| browser.cache.offline.enable | false | If TRUE, it allows websites to store data on your computer for when you would be offline. |
+
 | Name | Link |
 | - | - |
 | Dread | [Link](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/) |
