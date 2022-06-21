@@ -13,8 +13,8 @@ rem Registry Tweaks
 
 >nul 2>&1 (
 	dism /online /Set-ReservedStorageState /State:Disabled /NoRestart
-	reg add "HKCR\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /v System.IsPinnedToNameSpaceTree /d "0" /t REG_DWORD /f
-	reg add "HKCR\Wow6432Node\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /v System.IsPinnedToNameSpaceTree /d "0" /t REG_DWORD /f
+	reg add "HKCR\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /v "System.IsPinnedToNameSpaceTree" /d "0" /t REG_DWORD /f
+	reg add "HKCR\Wow6432Node\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /v "System.IsPinnedToNameSpaceTree" /d "0" /t REG_DWORD /f
 	reg add "HKCU\Control Panel\Accessibility\StickyKeys" /v "Flags" /t REG_SZ /d "506" /f
 	reg add "HKCU\Control Panel\Desktop" /v "AutoEndTasks" /t REG_SZ /d "1" /f
 	reg add "HKCU\Control Panel\Desktop" /v "HungAppTimeout" /t REG_SZ /d "2000" /f
@@ -226,16 +226,16 @@ rem Registry Tweaks
 	reg add "HKCU\SYSTEM\GameConfigStore" /v "GameDVR_FSEBehavior" /t REG_DWORD /d "2" /f
 	reg add "HKCU\SYSTEM\GameConfigStore" /v "GameDVR_HonorUserFSEBehaviorMode" /t REG_DWORD /d "2" /f
 	reg add "HKLM\SOFTWARE\AMD\CN" /t REG_DWORD /v "CollectGIData" /d "0" /f
-	reg add "HKLM\SOFTWARE\Microsoft\.NETFramework\v2.0.50727" /v SchUseStrongCrypto /t REG_DWORD /d "1" /f
-	reg add "HKLM\SOFTWARE\Microsoft\.NETFramework\v2.0.50727" /v SystemDefaultTlsVersions /t REG_DWORD /d "1" /f
-	reg add "HKLM\SOFTWARE\Microsoft\.NETFramework\v3.0" /v SchUseStrongCrypto /t REG_DWORD /d "1" /f
-	reg add "HKLM\SOFTWARE\Microsoft\.NETFramework\v3.0" /v SystemDefaultTlsVersions /t REG_DWORD /d "1" /f
-	reg add "HKLM\SOFTWARE\Microsoft\.NETFramework\v4.0.30319" /v SchUseStrongCrypto /t REG_DWORD /d "1" /f
-	reg add "HKLM\SOFTWARE\Microsoft\.NETFramework\v4.0.30319" /v SystemDefaultTlsVersions /t REG_DWORD /d "1" /f
+	reg add "HKLM\SOFTWARE\Microsoft\.NETFramework\v2.0.50727" /v "SchUseStrongCrypto" /t REG_DWORD /d "1" /f
+	reg add "HKLM\SOFTWARE\Microsoft\.NETFramework\v2.0.50727" /v "SystemDefaultTlsVersions" /t REG_DWORD /d "1" /f
+	reg add "HKLM\SOFTWARE\Microsoft\.NETFramework\v3.0" /v "SchUseStrongCrypto" /t REG_DWORD /d "1" /f
+	reg add "HKLM\SOFTWARE\Microsoft\.NETFramework\v3.0" /v "SystemDefaultTlsVersions" /t REG_DWORD /d "1" /f
+	reg add "HKLM\SOFTWARE\Microsoft\.NETFramework\v4.0.30319" /v "SchUseStrongCrypto" /t REG_DWORD /d "1" /f
+	reg add "HKLM\SOFTWARE\Microsoft\.NETFramework\v4.0.30319" /v "SystemDefaultTlsVersions" /t REG_DWORD /d "1" /f
 	reg add "HKLM\SOFTWARE\Microsoft\Assistance\Client\"1"."0"\Settings" /t REG_DWORD /v "GlobalOnlineAssist" /d "0" /f
 	reg add "HKLM\SOFTWARE\Microsoft\Clipboard" /t REG_DWORD /v "IsClipboardSignalProducingFeatureAvailable" /d "0" /f
 	reg add "HKLM\SOFTWARE\Microsoft\Clipboard" /t REG_DWORD /v "IsCloudAndHistoryFeatureAvailable" /d "0" /f
-	reg add "HKLM\SOFTWARE\Microsoft\COM3" /t REG_DWORD /v RemoteAccessEnabled /d "0" /f
+	reg add "HKLM\SOFTWARE\Microsoft\COM3" /t REG_DWORD /v "RemoteAccessEnabled" /d "0" /f
 	reg add "HKLM\SOFTWARE\Microsoft\DataCollection\Default\WifiAutoConnectConfig" /t REG_DWORD /v "AutoConnectEnabled" /d "0" /f
 	reg add "HKLM\SOFTWARE\Microsoft\DusmSvc\Settings" /v "DisableSystemBucket" /t REG_DWORD /d "1" /f
 	reg add "HKLM\SOFTWARE\Microsoft\EdgeUpdate" /v "DoNotUpdateToEdgeWithChromium" /t REG_DWORD /d "1" /f
