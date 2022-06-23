@@ -292,6 +292,10 @@ Random
 
 Game Mod Menu's
 
+Plutonium
+
+sc config "upnphost" start= demand & sc start "upnphost"
+
 - Black Ops 2 GSC Studio        > [Link](https://mega.nz/file/hDoGwAbR#j-9i3oIZyiAz13FULRTaxAiKQcSCOXo-44Lr977YfcQ)
 
 - Call of Duty: Black Ops
