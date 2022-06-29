@@ -40,7 +40,9 @@ All your info is exposed to the whole world for easy accessibility because you'r
 Make sure this doesn't happen to you once you reach the age of 18 yrs old and make sure to opt out.
 [Voter Registration Records](https://voterrecords.com/)
 
-#### Max Security Mobile Phone: OS, Settings, Apps.
+#### Max Security Mobile Phone: Brand, OS, Settings, Apps.
+- Brand
+  - Pixel 3 - 4 XL
 - OS
   - GrapheneOS [Link](https://grapheneos.org/)
 - Settings
@@ -51,6 +53,8 @@ Make sure this doesn't happen to you once you reach the age of 18 yrs old and ma
   - Orbot
   - NewPipe
   - VLC Media Player
+
+Tutorial [Link](https://www.youtube.com/watch?v=xIXAzA555xk)
 
 ### Firefox about:config
 | `Option` | `Setting` | `Desc.` |
