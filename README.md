@@ -42,7 +42,7 @@ Make sure this doesn't happen to you once you reach the age of 18 yrs old and ma
 
 #### Max Security Mobile Phone: Brand, OS, Settings, Apps.
 - Brand
-  - Pixel 3 - 4 XL
+  - Pixel 2 - 5a
 - OS
   - GrapheneOS [Link](https://grapheneos.org/)
 - Settings
