@@ -44,7 +44,7 @@ Make sure this doesn't happen to you once you reach the age of 18 yrs old and ma
 - OS
   - GrapheneOS [Link](https://grapheneos.org/)
 - Settings
-  - 
+  - MAC Address Randomization
 - Apps
   - Netguard
   - Tor Browser
