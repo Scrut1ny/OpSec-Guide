@@ -48,11 +48,14 @@ Make sure this doesn't happen to you once you reach the age of 18 yrs old and ma
 - Settings
   - MAC Address Randomization
 - Apps
+  - F-Droid
   - Netguard
   - Tor Browser
+  - Bromite
   - Orbot
   - NewPipe
   - VLC Media Player
+  - Mullvad
 
 Tutorial [Link](https://www.youtube.com/watch?v=xIXAzA555xk)
 
