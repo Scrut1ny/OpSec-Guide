@@ -46,8 +46,8 @@ Make sure this doesn't happen to you once you reach the age of 18 yrs old and ma
 | Alaska | [Voter Registration](https://www.elections.alaska.gov/Core/AKvoterinformation.php) - [Link](https://www.elections.alaska.gov/Core/cancelyouralaskavoterregistration.php)|
 | Arizona | [Voter Registration](https://azsos.gov/elections/voting-election/register-vote-or-update-current-voter-information) - []() |
 | Arkansas | [Voter Registration](https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information) - [Link]() |
-| California | [Voter Registration]() - []() |
-| Colorado | [Voter Registration]() - []() |
+| California | [Voter Registration](https://www.sos.ca.gov/elections) - [Link](https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form.pdf) |
+| Colorado | [Voter Registration](https://www.coloradosos.gov/pubs/elections/main.html) - [Link](https://www.sos.state.co.us/pubs/elections/vote/withdrawVoterRegEnglish.pdf) |
 | Connecticut | [Voter Registration]() - []() |
 | Delaware  | [Voter Registration]() - []() |
 | Florida | [Voter Registration]() - []() |
