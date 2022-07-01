@@ -44,54 +44,54 @@ Make sure this doesn't happen to you once you reach the age of 18 yrs old and ma
 | - | - |
 | Alabama | [Voter Registration](https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote) - [Link](https://www.sos.alabama.gov/sites/default/files/voter_registration_related_forms/FINAL%20-%20Voter%20Request%20to%20Remove%20Name%20from%20Voter%20List%20-%202021-11-23.pdf) |
 | Alaska | [Voter Registration](https://www.elections.alaska.gov/Core/AKvoterinformation.php) - [Link](https://www.elections.alaska.gov/Core/cancelyouralaskavoterregistration.php)|
-| Arizona |  |
-| Arkansas |  |
-| California |  |
-| Colorado |  |
-| Connecticut |  |
-| Delaware  |  |
-| Florida |  |
-| Georgia |  |
-| Hawaii |  |
-| Idaho |  |
-| Illinois |  |
+| Arizona | []() - []() |
+| Arkansas | []() - []() |
+| California | []() - []() |
+| Colorado | []() - []() |
+| Connecticut | []() - []() |
+| Delaware  | []() - []() |
+| Florida | []() - []() |
+| Georgia | []() - []() |
+| Hawaii | []() - []() |
+| Idaho | []() - []() |
+| Illinois | []() - []() |
 | Indiana | [Voter Registration](https://www.in.gov/sos/elections/voter-information/register-to-vote/) - [Link](https://forms.in.gov/Download.aspx?id=11403) |
-| Iowa |  |
-| Kansas |  |
-| Kentucky |  |
-| Louisiana |  |
-| Maine |  |
-| Maryland |  |
-| Massachusetts |  |
-| Michigan |  |
-| Minnesota |  |
-| Mississippi |  |
-| Missouri |  |
-| Montana |  |
-| Nebraska |  |
-| Nevada |  |
-| New Hampshire |  |
-| New Jersey |  |
-| New Mexico |  |
-| New York |  |
-| North Carolina |  |
-| North Dakota |  |
-| Ohio |  |
-| Oklahoma |  |
-| Oregon |  |
-| Pennsylvania |  |
-| Rhode Island |  |
-| South Carolina |  |
-| South Dakota |  |
-| Tennessee |  |
-| Texas |  |
-| Utah |  |
-| Vermont |  |
-| Virginia |  |
-| Washington |  |
-| West Virginia |  |
-| Wisconsin |  |
-| Wyoming |  |
+| Iowa | []() - []() |
+| Kansas | []() - []() |
+| Kentucky | []() - []() |
+| Louisiana | []() - []() |
+| Maine | []() - []() |
+| Maryland | []() - []() |
+| Massachusetts | []() - []() |
+| Michigan | []() - []() |
+| Minnesota | []() - []() |
+| Mississippi | []() - []() |
+| Missouri | []() - []() |
+| Montana | []() - []() |
+| Nebraska | []() - []() |
+| Nevada | []() - []() |
+| New Hampshire | []() - []() |
+| New Jersey | []() - []() |
+| New Mexico | []() - []() |
+| New York | []() - []() |
+| North Carolina | []() - []() |
+| North Dakota | []() - []() |
+| Ohio | []() - []() |
+| Oklahoma | []() - []() |
+| Oregon | []() - []() |
+| Pennsylvania | []() - []() |
+| Rhode Island | []() - []() |
+| South Carolina | []() - []() |
+| South Dakota | []() - []() |
+| Tennessee | []() - []() |
+| Texas | []() - []() |
+| Utah | []() - []() |
+| Vermont | []() - []() |
+| Virginia | []() - []() |
+| Washington | []() - []() |
+| West Virginia | []() - []() |
+| Wisconsin | []() - []()  |
+| Wyoming | []() - []() |
 
 #### Max Security Mobile Phone: Brand, OS, Settings, Apps.
 - Brand
