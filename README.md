@@ -43,7 +43,7 @@ Make sure this doesn't happen to you once you reach the age of 18 yrs old and ma
 | `State` | `AUTHORIZATION TO CANCEL REGISTRATION ~ LINK` |
 | - | - |
 | Alabama | [Voter Registration](https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote) - [Link](https://www.sos.alabama.gov/sites/default/files/voter_registration_related_forms/FINAL%20-%20Voter%20Request%20to%20Remove%20Name%20from%20Voter%20List%20-%202021-11-23.pdf) |
-| Alaska |  |
+| Alaska | [Voter Registration](https://www.elections.alaska.gov/Core/AKvoterinformation.php) - [Link](https://www.elections.alaska.gov/Core/cancelyouralaskavoterregistration.php)|
 | Arizona |  |
 | Arkansas |  |
 | California |  |
