@@ -57,43 +57,43 @@ Make sure this doesn't happen to you once you reach the age of 18 yrs old and ma
 | Hawaii |  |
 | Idaho |  |
 | Illinois |  |
-| Indiana | [Link](https://forms.in.gov/Download.aspx?id=11403) |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Indiana | [Voter Registration](https://www.in.gov/sos/elections/voter-information/register-to-vote/) [Link](https://forms.in.gov/Download.aspx?id=11403) |
+| Iowa |  |
+| Kansas |  |
+| Kentucky |  |
+| Louisiana |  |
+| Maine |  |
+| Maryland |  |
+| Massachusetts |  |
+| Michigan |  |
+| Minnesota |  |
+| Mississippi |  |
+| Missouri |  |
+| Montana |  |
+| Nebraska |  |
+| Nevada |  |
+| New Hampshire |  |
+| New Jersey |  |
+| New Mexico |  |
+| New York |  |
+| North Carolina |  |
+| North Dakota |  |
+| Ohio |  |
+| Oklahoma |  |
+| Oregon |  |
+| Pennsylvania |  |
+| Rhode Island |  |
+| South Carolina |  |
+| South Dakota |  |
+| Tennessee |  |
+| Texas |  |
+| Utah |  |
+| Vermont |  |
+| Virginia |  |
+| Washington |  |
+| West Virginia |  |
+| Wisconsin |  |
+| Wyoming |  |
 
 #### Max Security Mobile Phone: Brand, OS, Settings, Apps.
 - Brand
