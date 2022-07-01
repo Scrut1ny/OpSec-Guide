@@ -45,53 +45,53 @@ Make sure this doesn't happen to you once you reach the age of 18 yrs old and ma
 | Alabama | [Voter Registration](https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote) - [Link](https://www.sos.alabama.gov/sites/default/files/voter_registration_related_forms/FINAL%20-%20Voter%20Request%20to%20Remove%20Name%20from%20Voter%20List%20-%202021-11-23.pdf) |
 | Alaska | [Voter Registration](https://www.elections.alaska.gov/Core/AKvoterinformation.php) - [Link](https://www.elections.alaska.gov/Core/cancelyouralaskavoterregistration.php)|
 | Arizona | [Voter Registration](https://azsos.gov/elections/voting-election/register-vote-or-update-current-voter-information) - []() |
-| Arkansas | []() - []() |
-| California | []() - []() |
-| Colorado | []() - []() |
-| Connecticut | []() - []() |
-| Delaware  | []() - []() |
-| Florida | []() - []() |
-| Georgia | []() - []() |
-| Hawaii | []() - []() |
-| Idaho | []() - []() |
-| Illinois | []() - []() |
+| Arkansas | [Voter Registration](https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information) - [Link]() |
+| California | [Voter Registration]() - []() |
+| Colorado | [Voter Registration]() - []() |
+| Connecticut | [Voter Registration]() - []() |
+| Delaware  | [Voter Registration]() - []() |
+| Florida | [Voter Registration]() - []() |
+| Georgia | [Voter Registration]() - []() |
+| Hawaii | [Voter Registration]() - []() |
+| Idaho | [Voter Registration]() - []() |
+| Illinois | [Voter Registration]() - []() |
 | Indiana | [Voter Registration](https://www.in.gov/sos/elections/voter-information/register-to-vote/) - [Link](https://forms.in.gov/Download.aspx?id=11403) |
-| Iowa | []() - []() |
-| Kansas | []() - []() |
-| Kentucky | []() - []() |
-| Louisiana | []() - []() |
-| Maine | []() - []() |
-| Maryland | []() - []() |
-| Massachusetts | []() - []() |
-| Michigan | []() - []() |
-| Minnesota | []() - []() |
-| Mississippi | []() - []() |
-| Missouri | []() - []() |
-| Montana | []() - []() |
-| Nebraska | []() - []() |
-| Nevada | []() - []() |
-| New Hampshire | []() - []() |
-| New Jersey | []() - []() |
-| New Mexico | []() - []() |
-| New York | []() - []() |
-| North Carolina | []() - []() |
-| North Dakota | []() - []() |
-| Ohio | []() - []() |
-| Oklahoma | []() - []() |
-| Oregon | []() - []() |
-| Pennsylvania | []() - []() |
-| Rhode Island | []() - []() |
-| South Carolina | []() - []() |
-| South Dakota | []() - []() |
-| Tennessee | []() - []() |
-| Texas | []() - []() |
-| Utah | []() - []() |
-| Vermont | []() - []() |
-| Virginia | []() - []() |
-| Washington | []() - []() |
-| West Virginia | []() - []() |
-| Wisconsin | []() - []()  |
-| Wyoming | []() - []() |
+| Iowa | [Voter Registration]() - []() |
+| Kansas | [Voter Registration]() - []() |
+| Kentucky | [Voter Registration]() - []() |
+| Louisiana | [Voter Registration]() - []() |
+| Maine | [Voter Registration]() - []() |
+| Maryland | [Voter Registration]() - []() |
+| Massachusetts | [Voter Registration]() - []() |
+| Michigan | [Voter Registration]() - []() |
+| Minnesota | [Voter Registration]() - []() |
+| Mississippi | [Voter Registration]() - []() |
+| Missouri | [Voter Registration]() - []() |
+| Montana | [Voter Registration]() - []() |
+| Nebraska | [Voter Registration]() - []() |
+| Nevada | [Voter Registration]() - []() |
+| New Hampshire | [Voter Registration]() - []() |
+| New Jersey | [Voter Registration]() - []() |
+| New Mexico | [Voter Registration]() - []() |
+| New York | [Voter Registration]() - []() |
+| North Carolina | [Voter Registration]() - []() |
+| North Dakota | [Voter Registration]() - []() |
+| Ohio | [Voter Registration]() - []() |
+| Oklahoma | [Voter Registration]() - []() |
+| Oregon | [Voter Registration]() - []() |
+| Pennsylvania | [Voter Registration]() - []() |
+| Rhode Island | [Voter Registration]() - []() |
+| South Carolina | [Voter Registration]() - []() |
+| South Dakota | [Voter Registration]() - []() |
+| Tennessee | [Voter Registration]() - []() |
+| Texas | [Voter Registration]() - []() |
+| Utah | [Voter Registration]() - []() |
+| Vermont | [Voter Registration]() - []() |
+| Virginia | [Voter Registration]() - []() |
+| Washington | [Voter Registration]() - []() |
+| West Virginia | [Voter Registration]() - []() |
+| Wisconsin | [Voter Registration]() - []()  |
+| Wyoming | [Voter Registration]() - []() |
 
 #### Max Security Mobile Phone: Brand, OS, Settings, Apps.
 - Brand
