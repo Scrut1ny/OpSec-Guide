@@ -40,8 +40,6 @@ All your info is exposed to the whole world for easy accessibility because you'r
 Make sure this doesn't happen to you once you reach the age of 18 yrs old and make sure to opt out.
 [Voter Registration Records](https://voterrecords.com/)
 
-- [AUTHORIZATION TO CANCEL REGISTRATION](https://forms.in.gov/Download.aspx?id=11403)
-
 | `State` | `AUTHORIZATION TO CANCEL REGISTRATION ~ LINK` |
 | - | - |
 | Alabama |  |
