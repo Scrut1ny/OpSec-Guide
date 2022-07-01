@@ -57,7 +57,7 @@ Make sure this doesn't happen to you once you reach the age of 18 yrs old and ma
 | Hawaii |  |
 | Idaho |  |
 | Illinois |  |
-| Indiana | [Voter Registration](https://www.in.gov/sos/elections/voter-information/register-to-vote/) [Link](https://forms.in.gov/Download.aspx?id=11403) |
+| Indiana | [Voter Registration](https://www.in.gov/sos/elections/voter-information/register-to-vote/) - [Link](https://forms.in.gov/Download.aspx?id=11403) |
 | Iowa |  |
 | Kansas |  |
 | Kentucky |  |
