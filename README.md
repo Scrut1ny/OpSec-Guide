@@ -34,11 +34,66 @@ Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of [global map
 
 [Mozilla Location Services and How to Opt-Out.](https://location.services.mozilla.com/optout)
 
-### Voting - Records: Opt-Out
+### Cancel my * voter registration record. ~ Opt-Out
 
 All your info is exposed to the whole world for easy accessibility because you're registered to vote.
 Make sure this doesn't happen to you once you reach the age of 18 yrs old and make sure to opt out.
 [Voter Registration Records](https://voterrecords.com/)
+
+- [AUTHORIZATION TO CANCEL REGISTRATION](https://forms.in.gov/Download.aspx?id=11403)
+
+| `State` | `AUTHORIZATION TO CANCEL REGISTRATION ~ LINK` |
+| - | - |
+| Alabama |  |
+| Alaska |  |
+| Arizona |  |
+| Arkansas |  |
+| California |  |
+| Colorado |  |
+| Connecticut |  |
+| Delaware  |  |
+| Florida |  |
+| Georgia |  |
+| Hawaii |  |
+| Idaho |  |
+| Illinois |  |
+| Indiana | [Link](https://forms.in.gov/Download.aspx?id=11403) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 #### Max Security Mobile Phone: Brand, OS, Settings, Apps.
 - Brand
@@ -62,7 +117,7 @@ Tutorial [Link](https://www.youtube.com/watch?v=xIXAzA555xk)
 ### Firefox about:config
 | `Option` | `Setting` | `Desc.` |
 | - | - | - |
-| media.peerconnection.enabled | false | WebRTC 
+| media.peerconnection.enabled | false | WebRTC |
 | media.navigator.enabled | false | Prevent websites from knowing if a microphone or a video camera is available on your device. |
 | privacy.resistFingerprinting | true | More resistant to fingerprinting |
 | geo.enabled | false | Disable geolocation tracking. |
