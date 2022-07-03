@@ -51,5 +51,6 @@
  - Etcher > https://github.com/balena-io/etcher/releases/latest
  - HWIDinfo > https://www.hwinfo.com/download/
  - testdisk > https://www.cgsecurity.org/Download_and_donate.php/testdisk-7.2-WIP.win64.zip
+ - Disk Drill > https://d400.userdrive.me/d/3kj4jlji2as5ln23vdjlbttyeg4zizxrgvjnp4tfgztufg45opgblnfpdmji3zndrv3q4p7g/Disk%20Drill%20Professional%204.4.602.0%20Multilingual%20[x64].rar
  - WEBROOT > https://www.webroot.com/
  - WeMod > https://www.wemod.com/
