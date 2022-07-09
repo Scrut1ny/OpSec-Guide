@@ -8,14 +8,15 @@
 
 ========== Microsoft Replacements ==========
 
- - 7zip > https://www.7-zip.org/
- - ImageGlass > https://github.com/d2phap/ImageGlass
- - Notepad++ > https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest
- - Process Hacker > https://processhacker.sourceforge.io/nightly.php
- - VLC media player > https://www.videolan.org/
- - Everything > https://www.voidtools.com/
- 	* EverythingToolbar > https://github.com/stnkl/EverythingToolbar
- - webcamoid > https://github.com/webcamoid/webcamoid
+ - Windows Zip/Unzip >> 7zip > https://www.7-zip.org/
+ - Windows Photo Viewer >> ImageGlass > https://github.com/d2phap/ImageGlass
+ - Notepad >> Notepad++ > https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest
+ - Task Manager >> Process Hacker > https://processhacker.sourceforge.io/nightly.php
+ - Windows Media Player >> VLC media player > https://www.videolan.org/
+ - Windows Search >> Everything > https://www.voidtools.com/
+   - EverythingToolbar > https://github.com/stnkl/EverythingToolbar
+ - Windows Camera >> webcamoid > https://github.com/webcamoid/webcamoid
+ - Snipping Tool >> https://github.com/ShareX/ShareX
 
 ========== Useful Optional Software ==========
 
