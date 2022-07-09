@@ -49,46 +49,46 @@ Make sure this doesn't happen to you once you reach the age of 18 yrs old and ma
 | California | [Voter Registration](https://www.sos.ca.gov/elections) - [Link](https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form.pdf) |
 | Colorado | [Voter Registration](https://www.coloradosos.gov/pubs/elections/main.html) - [Link](https://www.sos.state.co.us/pubs/elections/vote/withdrawVoterRegEnglish.pdf) |
 | Connecticut | [Voter Registration]() - []() |
-| Delaware  | [Voter Registration]() - []() |
+| Delaware  | [Voter Registration]() - [Link](https://elections.delaware.gov/pubs/pdfs/cancelreg_registrant.pdf) |
 | Florida | [Voter Registration]() - []() |
 | Georgia | [Voter Registration]() - []() |
 | Hawaii | [Voter Registration]() - []() |
 | Idaho | [Voter Registration]() - []() |
 | Illinois | [Voter Registration]() - []() |
-| Indiana | [Voter Registration](https://www.in.gov/sos/elections/voter-information/register-to-vote/) - [Link](https://forms.in.gov/Download.aspx?id=11403) |
+| Indiana | [Voter Registration](https://www.in.gov/sos/elections/voter-information/register-to-vote/) - [Link](https://www.indy.gov/activity/cancel-voter-registration) |
 | Iowa | [Voter Registration]() - []() |
 | Kansas | [Voter Registration]() - []() |
 | Kentucky | [Voter Registration]() - []() |
-| Louisiana | [Voter Registration]() - []() |
+| Louisiana | [Voter Registration]() - [Link](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/CancelVoterRegistrationForm.pdf) |
 | Maine | [Voter Registration]() - []() |
 | Maryland | [Voter Registration]() - []() |
 | Massachusetts | [Voter Registration]() - []() |
 | Michigan | [Voter Registration]() - []() |
 | Minnesota | [Voter Registration]() - []() |
-| Mississippi | [Voter Registration]() - []() |
+| Mississippi | [Voter Registration]() - [Link](https://www.sos.ms.gov/sites/default/files/yall_vote_icons/yall_vote_pdfs/Voter_Registration_Cancellation_Form.pdf) |
 | Missouri | [Voter Registration]() - []() |
 | Montana | [Voter Registration]() - []() |
 | Nebraska | [Voter Registration]() - []() |
 | Nevada | [Voter Registration]() - []() |
 | New Hampshire | [Voter Registration]() - []() |
 | New Jersey | [Voter Registration]() - []() |
-| New Mexico | [Voter Registration]() - []() |
+| New Mexico | [Voter Registration](https://www.sos.state.nm.us/voting-and-elections/voter-information-portal/county-clerk-information/) - [Link](https://api.realfile.rtsclients.com/PublicFiles/ee3072ab0d43456cb15a51f7d82c77a2/541eb935-25d1-491d-b1b1-fa0d140e3631/voter_registration_cancellation_form_fillable.pdf) |
 | New York | [Voter Registration]() - []() |
-| North Carolina | [Voter Registration]() - []() |
+| North Carolina | [Voter Registration]() - [Link](https://s3.amazonaws.com/dl.ncsbe.gov/sboe/forms/Cancellation%20of%20Voter%20Notice.pdf) |
 | North Dakota | [Voter Registration]() - []() |
-| Ohio | [Voter Registration]() - []() |
-| Oklahoma | [Voter Registration]() - []() |
+| Ohio | [Voter Registration]() - [Link](https://www.ohiosos.gov/globalassets/elections/forms/10-a_english.pdf) |
+| Oklahoma | [Voter Registration]() - [Link](https://oklahoma.gov/content/dam/ok/en/elections/forms/vr-cancel.pdf) |
 | Oregon | [Voter Registration]() - []() |
-| Pennsylvania | [Voter Registration]() - []() |
+| Pennsylvania | [Voter Registration]() - [Link](https://www.vote.pa.gov/Resources/Documents/Voter%20Request%20to%20Cancel%20Registration_English.pdf) |
 | Rhode Island | [Voter Registration]() - []() |
 | South Carolina | [Voter Registration]() - []() |
 | South Dakota | [Voter Registration]() - []() |
 | Tennessee | [Voter Registration]() - []() |
-| Texas | [Voter Registration]() - []() |
-| Utah | [Voter Registration]() - []() |
+| Texas | [Voter Registration](https://www.sos.state.tx.us/elections/vr/index.shtml) - [Link](https://www.sos.state.tx.us/elections/forms/bw5-3.pdf) |
+| Utah | [Voter Registration](https://secure.utah.gov/voterreg/index.html) - [Link](https://elections.utah.gov/Media/Default/Documents/Utah%20Withholding%20Form.pdf) |
 | Vermont | [Voter Registration]() - []() |
-| Virginia | [Voter Registration]() - []() |
-| Washington | [Voter Registration]() - []() |
+| Virginia | [Voter Registration]() - [Link](https://www.elections.virginia.gov/media/formswarehouse/veris-voter-registration/cancellation/ELECT-427A.pdf) |
+| Washington | [Voter Registration]() - [Link](https://www.sos.wa.gov/_assets/elections/vr_cancellation_form_en.pdf) |
 | West Virginia | [Voter Registration]() - []() |
 | Wisconsin | [Voter Registration]() - []()  |
 | Wyoming | [Voter Registration]() - []() |
