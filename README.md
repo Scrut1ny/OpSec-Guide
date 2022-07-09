@@ -34,7 +34,7 @@ Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of [global map
 
 [Mozilla Location Services and How to Opt-Out.](https://location.services.mozilla.com/optout)
 
-### Cancel my * voter registration record. ~ Opt-Out
+### Cancel my * state voter registration record. ~ Opt-Out
 
 All your info is exposed to the whole world for easy accessibility because you're registered to vote.
 Make sure this doesn't happen to you once you reach the age of 18 yrs old and make sure to opt out.
