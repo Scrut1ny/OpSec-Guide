@@ -8,7 +8,7 @@
 
 ========== Microsoft Replacements ==========
 
- - Windows Zip/Unzip >> 7zip > https://www.7-zip.org/
+ - WinZip >> 7zip > https://www.7-zip.org/
  - Windows Photo Viewer >> ImageGlass > https://github.com/d2phap/ImageGlass
  - Notepad >> Notepad++ > https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest
  - Task Manager >> Process Hacker > https://processhacker.sourceforge.io/nightly.php
