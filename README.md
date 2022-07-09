@@ -68,8 +68,8 @@ Make sure this doesn't happen to you once you reach the age of 18 yrs old and ma
 | Mississippi | [Voter Registration]() - [Link](https://www.sos.ms.gov/sites/default/files/yall_vote_icons/yall_vote_pdfs/Voter_Registration_Cancellation_Form.pdf) |
 | Missouri | [Voter Registration]() - []() |
 | Montana | [Voter Registration]() - []() |
-| Nebraska | [Voter Registration]() - []() |
-| Nevada | [Voter Registration]() - []() |
+| Nebraska | [Voter Registration]() - [Link](https://sos.nebraska.gov/sites/sos.nebraska.gov/files/doc/elections/vr-cancellation-fillable.pdf) |
+| Nevada | [Voter Registration]() - [Link](https://www.nvsos.gov/SOSVoterServices/Cancel/CancelStep0.aspx) |
 | New Hampshire | [Voter Registration]() - []() |
 | New Jersey | [Voter Registration]() - []() |
 | New Mexico | [Voter Registration](https://www.sos.state.nm.us/voting-and-elections/voter-information-portal/county-clerk-information/) - [Link](https://api.realfile.rtsclients.com/PublicFiles/ee3072ab0d43456cb15a51f7d82c77a2/541eb935-25d1-491d-b1b1-fa0d140e3631/voter_registration_cancellation_form_fillable.pdf) |
