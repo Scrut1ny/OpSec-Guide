@@ -47,7 +47,7 @@ Make sure this doesn't happen to you once you reach the age of 18 yrs old and ma
 | Iowa | [Voter Registration]() - []() | [Link]() |
 | Kansas | [Voter Registration]() - []() | [Link]() |
 | Kentucky | [Voter Registration]() - []() | [Link]() |
-| Louisiana | [Voter Registration]() - [Link](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/CancelVoterRegistrationForm.pdf) |
+| Louisiana | [Voter Registration]() - [Link](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/CancelVoterRegistrationForm.pdf) | [Link]() |
 | Maine | [Voter Registration]() - []() | [Link]() |
 | Maryland | [Voter Registration]() - []() | [Link]() |
 | Massachusetts | [Voter Registration]() - []() | [Link]() |
@@ -72,7 +72,7 @@ Make sure this doesn't happen to you once you reach the age of 18 yrs old and ma
 | South Carolina | [Voter Registration]() - []() | [Link]() |
 | South Dakota | [Voter Registration]() - []() | [Link]() |
 | Tennessee | [Voter Registration]() - []() | [Link]() |
-| Texas | [Voter Registration](https://www.sos.state.tx.us/elections/vr/index.shtml) - [Link](https://www.sos.state.tx.us/elections/forms/bw5-3.pdf) | []() |
+| Texas | [Voter Registration](https://www.sos.state.tx.us/elections/vr/index.shtml) - [Link](https://www.sos.state.tx.us/elections/forms/bw5-3.pdf) | [Link]() |
 | Utah | [Voter Registration](https://secure.utah.gov/voterreg/index.html) - [Link](https://elections.utah.gov/Media/Default/Documents/Utah%20Withholding%20Form.pdf) | [Link]() |
 | Vermont | [Voter Registration]() - []() | [Link]() |
 | Virginia | [Voter Registration]() - [Link](https://www.elections.virginia.gov/media/formswarehouse/veris-voter-registration/cancellation/ELECT-427A.pdf) | [Link]() |
