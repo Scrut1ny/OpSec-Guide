@@ -22,7 +22,7 @@ Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of [global map
 
 [Mozilla Location Services and How to Opt-Out.](https://location.services.mozilla.com/optout)
 
-### Cancel my * state voter registration record. ~ Opt-Out
+### Cancel state voter registration record. ~ Opt-Out
 
 First, middle, & last name, Relatives, Neighbors, Residential Address, Past Locations, current age, birth year, Party Affiliation, Registered to Vote In, Registration Date, Voter Status, House District, Senate District, School Board District, etc are ALL linked to your voter registration! This critical info is exposed to the whole world for easy accessibility; because you're registered to vote. Make sure to opt out when asked if you want to vote, if you're already registered use the links below to assist you. Make sure to also expunge your past history with the law and remove all info from sites that display it. - [Voter Registration Records](https://voterrecords.com/)
 
