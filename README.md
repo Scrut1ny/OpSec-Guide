@@ -29,7 +29,7 @@ Make sure this doesn't happen to you once you reach the age of 18 yrs old and ma
 [Voter Registration Records](https://voterrecords.com/)
 
 | `State` | `AUTHORIZATION TO CANCEL REGISTRATION ~ PDF LINK` | `Expunge Criminal History` |
-| - | - |
+| - | - | - |
 | Alabama | [Voter Registration](https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote) - [Link](https://www.sos.alabama.gov/sites/default/files/voter_registration_related_forms/FINAL%20-%20Voter%20Request%20to%20Remove%20Name%20from%20Voter%20List%20-%202021-11-23.pdf) |  |
 | Alaska | [Voter Registration](https://www.elections.alaska.gov/Core/AKvoterinformation.php) - [Link](https://www.elections.alaska.gov/Core/cancelyouralaskavoterregistration.php)|  |
 | Arizona | [Voter Registration](https://azsos.gov/elections/voting-election/register-vote-or-update-current-voter-information) - []() |
