@@ -228,14 +228,14 @@ schtasks /change /TN "\Mozilla\Firefox Default Browser Agent D2CEEC440E2074BD" /
 # 6 - Tor Settings / Sites
 
 #### about:preferences#privacy
->✅ `Prioritize .onion sites when known.` - `Always`
+✅ `Prioritize .onion sites when known.` - `Always`
 
->✅ `Security Level` - `Safest`
+✅ `Security Level` - `Safest`
 
 #### about:preferences#tor
->✅ `Always connect automatically`
+✅ `Always connect automatically`
 
->✅ `Use a bridge` - `Select a built-in bridge` (`obfs4` - Prevents your ISP from seeing Tor traffic.)
+✅ `Use a bridge` - `Select a built-in bridge` (`obfs4` - Prevents your ISP from seeing Tor traffic.)
 
 [Info](http://dsbqrprgkqqifztta6h3w7i2htjhnq7d3qkh3c7gvc35e66rrcv66did.onion/bridges/index.html)
 
