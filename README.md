@@ -1,5 +1,3 @@
-![toolate](https://user-images.githubusercontent.com/53458032/174272270-fb17b5a0-f029-49ff-a841-7c1fa5478274.jpg)
-
 # PRIVACY & SECURITY
 
 ### Privacy solutions
