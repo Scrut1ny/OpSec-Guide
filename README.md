@@ -3,6 +3,7 @@
 # PRIVACY & SECURITY
 
 ### Privacy solutions
+- EFF > [Link](https://www.eff.org/)
 - privacytools > [Link](https://www.privacytools.io/)
 - CHEF-KOCH > [Link](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/)
 - nomoregoogle > [Link](https://nomoregoogle.com/)
