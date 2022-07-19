@@ -2,19 +2,19 @@
 
 ### Privacy solutions
 >- EFF > [Link](https://www.eff.org/)
-- privacytools > [Link](https://www.privacytools.io/)
-- CHEF-KOCH > [Link](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/)
-- nomoregoogle > [Link](https://nomoregoogle.com/)
-- ssd.eff > [Link](https://ssd.eff.org)
-- haveibeenpwned > [Link](https://haveibeenpwned.com)
-- stallman > [Link](https://stallman.org/facebook.html)
-- madaidans-insecurities > [Link](https://madaidans-insecurities.github.io)
-- sizeof.cat > [Link](https://sizeof.cat/links)
-- ryf.fsf > [Link](https://ryf.fsf.org/products)
-- privacyspy > [Link](https://privacyspy.org)
-- techlore > [Link](https://techlore.tech)
-- thenewoil > [Link](https://thenewoil.org)
-- tosdr > [Link](https://tosdr.org/)
+>- privacytools > [Link](https://www.privacytools.io/)
+>- CHEF-KOCH > [Link](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/)
+>- nomoregoogle > [Link](https://nomoregoogle.com/)
+>- ssd.eff > [Link](https://ssd.eff.org)
+>- haveibeenpwned > [Link](https://haveibeenpwned.com)
+>- stallman > [Link](https://stallman.org/facebook.html)
+>- madaidans-insecurities > [Link](https://madaidans-insecurities.github.io)
+>- sizeof.cat > [Link](https://sizeof.cat/links)
+>- ryf.fsf > [Link](https://ryf.fsf.org/products)
+>- privacyspy > [Link](https://privacyspy.org)
+>- techlore > [Link](https://techlore.tech)
+>- thenewoil > [Link](https://thenewoil.org)
+>- tosdr > [Link](https://tosdr.org/)
 
 ### Fake Info
 | `Fake Info` | `Links` |
