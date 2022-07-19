@@ -19,14 +19,14 @@
 - tosdr > [Link](https://tosdr.org/)
 
 ### Fake Info
-- thispersondoesnotexist > [Link](https://thispersondoesnotexist.com/)
--  > [Link]()
--  > [Link]()
--  > [Link]()
--  > [Link]()
--  > [Link]()
--  > [Link]()
--  > [Link]()
+| `Fake Info` | `Links` |
+|-|-|
+| thispersondoesnotexist | [Link](https://thispersondoesnotexist.com/) |
+| Fake ID | [Link](https://www.elfqrin.com/fakeid.php) |
+| Credit Card Generator | [Link](https://www.elfqrin.com/discard_credit_card_generator.php) |
+| Credit Card BINs generator and validator | [Link](https://www.elfqrin.com/credit_card_bin_generator.php) |
+| US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator | [Link](https://www.elfqrin.com/usssndriverlicenseidgen.php) |
+| US Car License Plates Registration Tags Generator | [Link](https://www.elfqrin.com/uscarlicenseplates.php) |
 
 ### WLAN-SSID: Opt-Out
 
