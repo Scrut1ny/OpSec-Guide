@@ -16,6 +16,16 @@
 - techlore                     > [Link](https://techlore.tech)
 - thenewoil                    > [Link](https://thenewoil.org)
 
+### Fake Info
+- thispersondoesnotexist > [Link](https://thispersondoesnotexist.com/)
+-  > [Link]()
+-  > [Link]()
+-  > [Link]()
+-  > [Link]()
+-  > [Link]()
+-  > [Link]()
+-  > [Link]()
+
 ### WLAN-SSID: Opt-Out
 
 Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of [global maps](https://wigle.net/).
