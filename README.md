@@ -15,6 +15,8 @@
 >- techlore > [Link](https://techlore.tech)
 >- thenewoil > [Link](https://thenewoil.org)
 >- tosdr > [Link](https://tosdr.org/)
+>- haveibeenpwned > [Link](https://haveibeenpwned.com/)
+>- VirusTotal > [Link](https://www.virustotal.com/gui/home/upload)
 
 ### Fake Info
 | `Fake Info` | `Links` |
@@ -126,10 +128,6 @@ reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableDefaultBrowserAgent"
 schtasks /change /TN "\Mozilla\Firefox Default Browser Agent 308046B0AF4A39CB" /disable
 schtasks /change /TN "\Mozilla\Firefox Default Browser Agent D2CEEC440E2074BD" /disable
 ```
-
-### Websites
-- haveibeenpwned               > [Link](https://haveibeenpwned.com/)
-- VirusTotal                   > [Link](https://www.virustotal.com/gui/home/upload)
 
 ### FF Extentions
 |`Name`|`Link`|`Desc.`|
