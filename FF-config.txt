@@ -1,0 +1,33 @@
+browser.cache.offline.enable - false | Disables websites from storing data on your computer for when you would be offline.
+browser.newtabpage.activity-stream.feeds.telemetry - false | Disables Telemetry
+browser.newtabpage.activity-stream.section.highlights.includePocket - false | Disables "Pocket"
+browser.ping-centre.telemetry - false | Disables Telemetry
+browser.safebrowsing.malware.enabled - false | Disables Google's malware monitoring.
+browser.tabs.crashReporting.sendReport - false | Disables crash reporting.
+devtools.onboarding.telemetry.logged - false | Disables Telemetry
+dom.battery.enabled - false | Blocks sending battery level infoformation.
+dom.event.clipboardevents.enabled - false | Websites won't know if you copy/paste.
+dom.webnotifications.enabled - false | Disables embedded notifications.
+extensions.pocket.enabled - false | Disables the proprietary Pocket service.
+geo.enabled - false | Disables ff from sharing your location.
+identity.fxaccounts.enabled - false | Disables any embedded Firefox accounts.
+media.autoplay.default - 5 | Disables audio and video from playig automatically.
+network.dns.disablePrefetch - true | Disables prefetching.
+network.dns.disablePrefetchFromHTTPS - true | Disables prefetching.
+network.http.sendRefererHeader - 0 | Disables referring website notifications.
+network.prefetch-next - false | Disables prefetching.
+network.ttr.mode - 2 | DNS-over-HTTPS (DoH)
+pdfjs.enableScripting - false | Prevents some malicious PDF actions.
+privacy.resistFingerprinting - true | Resists fingerprinting.
+toolkit.telemetry.enabled - false | Disables Telemetry
+toolkit.telemetry.server - (Delete URL) | Disables Telemetry
+toolkit.telemetry.unified - false | Disables Telemetry
+webgl.disabled - true | Disables some fingerprinting.
+
+WebRTC
+
+media.navigator.enabled - false
+media.peerconnection.enabled - false | NEEDED FOR OMEGLE
+media.peerconnection.turn.disable - false
+media.peerconnection.use_document_iceservers - false
+media.peerconnection.video.enabled - false
