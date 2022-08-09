@@ -128,6 +128,7 @@ Tutorial [Link](https://www.youtube.com/watch?v=xIXAzA555xk)
 | - | - | - |
 | javascript.enabled | false | JS |
 | media.peerconnection.enabled | false | WebRTC |
+- [IP Test](https://browserleaks.com/ip)
 - [JS Test](https://browserleaks.com/javascript)
 - [WebRTC Test](https://browserleaks.com/webrtc)
 
