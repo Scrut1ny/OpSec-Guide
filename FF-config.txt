@@ -3,6 +3,8 @@ browser.newtabpage.activity-stream.feeds.telemetry - false | Disables Telemetry
 browser.newtabpage.activity-stream.section.highlights.includePocket - false | Disables "Pocket"
 browser.ping-centre.telemetry - false | Disables Telemetry
 browser.safebrowsing.malware.enabled - false | Disables Google's malware monitoring.
+browser.safebrowsing.phishing.enabled - false | Disables Google's phishing monitoring.
+browser.safebrowsing.downloads.enabled - false | Disables Google's downloads monitoring.
 browser.tabs.crashReporting.sendReport - false | Disables crash reporting.
 devtools.onboarding.telemetry.logged - false | Disables Telemetry
 dom.battery.enabled - false | Blocks sending battery level infoformation.
