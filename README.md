@@ -126,9 +126,10 @@ Tutorial [Link](https://www.youtube.com/watch?v=xIXAzA555xk)
 ### Firefox about:config - IP LEAKING FIX
 | `Option` | `Setting` | `Desc.` |
 | - | - | - |
-| javascript.enabled | false | Leaks everything |
+| javascript.enabled | false | JS |
 | media.peerconnection.enabled | false | WebRTC |
-|  |  |  |
+| - | - | - |
+| [JS Test](https://browserleaks.com/javascript) | [WebRTC Test](https://browserleaks.com/webrtc) |  |
 
 ```
 reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DWORD /d "1" /f
