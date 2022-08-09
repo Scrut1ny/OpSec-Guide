@@ -122,6 +122,14 @@ Tutorial [Link](https://www.youtube.com/watch?v=xIXAzA555xk)
 | dom.event.clipboardevents.enabled | false | With this option disabled, websites won't know if you copy/paste something from their web page and which part of the page had been selected. |
 | network.ttr.mode | 2 | DNS-over-HTTPS (DoH) |
 | browser.cache.offline.enable | false | If TRUE, it allows websites to store data on your computer for when you would be offline. |
+
+### Firefox about:config - IP LEAKING FIX
+| `Option` | `Setting` | `Desc.` |
+| - | - | - |
+| javascript.enabled | false | Leaks everything |
+| media.peerconnection.enabled | false | WebRTC |
+|  |  |  |
+
 ```
 reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DWORD /d "1" /f
 reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableDefaultBrowserAgent" /t REG_DWORD /d "1" /f
