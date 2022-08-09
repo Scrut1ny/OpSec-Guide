@@ -135,7 +135,8 @@ Tutorial [Link](https://www.youtube.com/watch?v=xIXAzA555xk)
 ```
 reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DWORD /d "1" /f
 reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableDefaultBrowserAgent" /t REG_DWORD /d "1" /f
-schtasks /change /TN "\Mozilla\Firefox Default Browser Agent *" /disable
+schtasks /end /TN "Mozilla\Firefox Default Browser Agent *"
+schtasks /change /TN "Mozilla\Firefox Default Browser Agent *" /disable
 ```
 
 ### FF Extentions
