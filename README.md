@@ -265,13 +265,13 @@ schtasks /change /TN "Mozilla\Firefox Default Browser Agent *" /disable
 
 | Name | Link |
 | - | - |
-| Dread | [Link](dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion) |
-| Raddle | [Link](c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion) |
-| BreachedForums | [Link](breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion) |
-| Pornhub | [Link](pornhubvybmsymdol4iibwgwtkpwmeyd6luq2gxajgjzfjvotyt5zhyd.onion) |
-| elfqrin | [Link](elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion) |
-| The Pirate Bay | [Link](piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion) |
-| Proton Mail | [Link](protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
+| Dread | [dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion](dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion) |
+| Raddle | [c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion](c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion) |
+| BreachedForums | [breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion](breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion) |
+| Pornhub | [pornhubvybmsymdol4iibwgwtkpwmeyd6luq2gxajgjzfjvotyt5zhyd.onion](pornhubvybmsymdol4iibwgwtkpwmeyd6luq2gxajgjzfjvotyt5zhyd.onion) |
+| elfqrin | [elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion](elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion) |
+| The Pirate Bay | [piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion](piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion) |
+| Proton Mail | [protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion](protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion) |
 
 ![wp4184508-edward-snowden-wallpapers](https://user-images.githubusercontent.com/53458032/174272844-25118573-af2a-4d6d-a140-621ebeb6e750.jpg)
 ![wp4184517-edward-snowden-wallpapers](https://user-images.githubusercontent.com/53458032/174272871-864beb01-fab1-439d-b7da-d660dab0fa1e.jpg)
