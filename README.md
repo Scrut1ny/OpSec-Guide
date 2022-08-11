@@ -139,6 +139,16 @@ schtasks /end /TN "Mozilla\Firefox Default Browser Agent *"
 schtasks /change /TN "Mozilla\Firefox Default Browser Agent *" /disable
 ```
 
+### Best Free Proxies Websites
+| `Option` | `Link` |
+| - | - |
+| geonode.com | [Link](https://geonode.com/free-proxy-list/) |
+|  | [Link]() |
+|  | [Link]() |
+|  | [Link]() |
+|  | [Link]() |
+|  | [Link]() |
+
 ### FF Extentions
 |`Name`|`Link`|`Desc.`|
 |-|-|-|
