@@ -12,6 +12,7 @@
 >- cybersector7 > [Link](https://cybersector7.com/)
 >- lukesmith > [Link](https://lukesmith.xyz/)
 >- thinklikeacop > [Link](http://www.thinklikeacop.org/images3/index.html)
+>- thenewoil > [Link](https://thenewoil.org)
 >- ===== Tools =====
 >- inteltechniques > [Link](https://inteltechniques.com/)
 >- privacytools > [Link](https://www.privacytools.io/)
@@ -24,7 +25,6 @@
 >- VirusTotal > [Link](https://www.virustotal.com/gui/home/upload)
 >- ===== Products =====
 >- ryf.fsf > [Link](https://ryf.fsf.org/products)
->- thenewoil > [Link](https://thenewoil.org)
 
 ### Fake Info
 | `Fake Info` | `Links` |
