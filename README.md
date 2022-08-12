@@ -1,7 +1,7 @@
 # PRIVACY & SECURITY
 
 ### Privacy solutions
->- Blogs
+>- ===== Blogs =====
 >- EFF > [Link](https://www.eff.org/)
 >- ssd.eff > [Link](https://ssd.eff.org)
 >- techlore > [Link](https://techlore.tech)
@@ -12,7 +12,7 @@
 >- cybersector7 > [Link](https://cybersector7.com/)
 >- lukesmith > [Link](https://lukesmith.xyz/)
 >- thinklikeacop > [Link](http://www.thinklikeacop.org/images3/index.html)
->- Tools
+>- ===== Tools =====
 >- inteltechniques > [Link](https://inteltechniques.com/)
 >- privacytools > [Link](https://www.privacytools.io/)
 >- CHEF-KOCH > [Link](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/)
@@ -22,7 +22,7 @@
 >- tosdr > [Link](https://tosdr.org/)
 >- haveibeenpwned > [Link](https://haveibeenpwned.com/)
 >- VirusTotal > [Link](https://www.virustotal.com/gui/home/upload)
->- Tools for purchase
+>- ===== Tools for purchase =====
 >- ryf.fsf > [Link](https://ryf.fsf.org/products)
 >- thenewoil > [Link](https://thenewoil.org)
 
