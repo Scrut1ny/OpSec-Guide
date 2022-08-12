@@ -22,7 +22,7 @@
 >- tosdr > [Link](https://tosdr.org/)
 >- haveibeenpwned > [Link](https://haveibeenpwned.com/)
 >- VirusTotal > [Link](https://www.virustotal.com/gui/home/upload)
->- ===== Tools for purchase =====
+>- ===== Products =====
 >- ryf.fsf > [Link](https://ryf.fsf.org/products)
 >- thenewoil > [Link](https://thenewoil.org)
 
