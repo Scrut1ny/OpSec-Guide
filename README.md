@@ -1,22 +1,30 @@
 # PRIVACY & SECURITY
 
 ### Privacy solutions
+>- Blogs
 >- EFF > [Link](https://www.eff.org/)
->- privacytools > [Link](https://www.privacytools.io/)
->- CHEF-KOCH > [Link](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/)
->- nomoregoogle > [Link](https://nomoregoogle.com/)
 >- ssd.eff > [Link](https://ssd.eff.org)
->- haveibeenpwned > [Link](https://haveibeenpwned.com)
+>- techlore > [Link](https://techlore.tech)
+>- techcrunch > [Link](https://techcrunch.com/)
+>- nomoregoogle > [Link](https://nomoregoogle.com/)
 >- stallman > [Link](https://stallman.org/facebook.html)
 >- madaidans-insecurities > [Link](https://madaidans-insecurities.github.io)
+>- cybersector7 > [Link](https://cybersector7.com/)
+>- lukesmith > [Link](https://lukesmith.xyz/)
+>- thinklikeacop > [Link](http://www.thinklikeacop.org/images3/index.html)
+>- Tools
+>- inteltechniques > [Link](https://inteltechniques.com/)
+>- privacytools > [Link](https://www.privacytools.io/)
+>- CHEF-KOCH > [Link](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/)
 >- sizeof.cat > [Link](https://sizeof.cat/links)
->- ryf.fsf > [Link](https://ryf.fsf.org/products)
 >- privacyspy > [Link](https://privacyspy.org)
->- techlore > [Link](https://techlore.tech)
->- thenewoil > [Link](https://thenewoil.org)
+>- exodus-privacy > [Link](https://reports.exodus-privacy.eu.org/en/)
 >- tosdr > [Link](https://tosdr.org/)
 >- haveibeenpwned > [Link](https://haveibeenpwned.com/)
 >- VirusTotal > [Link](https://www.virustotal.com/gui/home/upload)
+>- Tools for purchase
+>- ryf.fsf > [Link](https://ryf.fsf.org/products)
+>- thenewoil > [Link](https://thenewoil.org)
 
 ### Fake Info
 | `Fake Info` | `Links` |
