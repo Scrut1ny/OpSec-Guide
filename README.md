@@ -42,6 +42,13 @@
 >
 >[Mozilla Location Services and How to Opt-Out.](https://location.services.mozilla.com/optout)
 
+### Governement / Law Enforcement 
+| `Desc.` | `Links` |
+|-|-|
+| Police use cellphone data used to solve murder case | [Link](https://www.youtube.com/watch?v=EmWsW_p_ta4) |
+| The Stingray: How Law Enforcement Can Track Your Every Move | [Link](https://www.youtube.com/watch?v=wzSgLpNrr2E) |
+| Edward Snowden: How Your Cell Phone Spies on You | [Link](https://www.youtube.com/watch?v=VFns39RXPrU) |
+
 ### Cancel state voter registration record. ~ Opt-Out
 
 >First, middle, & last name, Relatives, Neighbors, Residential Address, Past Locations, current age, birth year, Party Affiliation, Registered to Vote In, Registration Date, Voter Status, House District, Senate District, School Board District, etc are ALL linked to your voter registration! This critical info is exposed to the whole world for easy accessibility; because you're registered to vote. Make sure to opt out when asked if you want to vote, if you're already registered use the links below to assist you. Make sure to also expunge your past history with the law and remove all info from sites that display it. - [Voter Registration Records](https://voterrecords.com/)
