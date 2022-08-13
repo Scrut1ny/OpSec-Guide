@@ -48,6 +48,7 @@
 | Police use cellphone data used to solve murder case | [Link](https://www.youtube.com/watch?v=EmWsW_p_ta4) |
 | The Stingray: How Law Enforcement Can Track Your Every Move | [Link](https://www.youtube.com/watch?v=wzSgLpNrr2E) |
 | Edward Snowden: How Your Cell Phone Spies on You | [Link](https://www.youtube.com/watch?v=VFns39RXPrU) |
+| Police can check celltower ping at time of crime | [Link](https://www.youtube.com/watch?v=ASYm-3NJ-GA&t=40s) |
 
 ### Cancel state voter registration record. ~ Opt-Out
 
