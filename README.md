@@ -109,25 +109,6 @@
 | Wisconsin | [Voter Registration]() - []() | [Link]() |
 | Wyoming | [Voter Registration]() - []() | [Link]() |
 
-#### Max Security Mobile Phone: Brand, OS, Settings, Apps.
-- Brand
-  - Pixel 3 - 6 Pro
-- OS
-  - GrapheneOS [Link](https://grapheneos.org/)
-- Settings
-  - MAC Address Randomization
-- Apps
-  - F-Droid
-  - Netguard
-  - Tor Browser
-  - Bromite
-  - Orbot
-  - NewPipe
-  - VLC Media Player
-  - Mullvad
-
-Tutorial [Link](https://www.youtube.com/watch?v=xIXAzA555xk)
-
 ### Firefox about:config
 | `Option` | `Setting` | `Desc.` |
 | - | - | - |
