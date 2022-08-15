@@ -7,6 +7,7 @@
 >- techlore > [Link](https://techlore.tech)
 >- techcrunch > [Link](https://techcrunch.com/)
 >- surveillancereport > [Link](https://surveillancereport.tech/)
+>- spyware.neocities > [Link](https://spyware.neocities.org/articles/index.html)
 >- nomoregoogle > [Link](https://nomoregoogle.com/)
 >- stallman > [Link](https://stallman.org/facebook.html)
 >- madaidans-insecurities > [Link](https://madaidans-insecurities.github.io)
