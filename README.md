@@ -146,13 +146,6 @@
 | HTML5 Geolocation Leaks | geo.enabled | false | [about:config](about:config) |
 | Torrent IP leak | - | - | [do-i-leak](https://www.top10vpn.com/tools/do-i-leak/) |
 
-```
-reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DWORD /d "1" /f
-reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableDefaultBrowserAgent" /t REG_DWORD /d "1" /f
-schtasks /end /TN "Mozilla\Firefox Default Browser Agent *"
-schtasks /change /TN "Mozilla\Firefox Default Browser Agent *" /disable
-```
-
 ### Best Free Proxies Websites
 | `Option` | `Link` |
 | - | - |
