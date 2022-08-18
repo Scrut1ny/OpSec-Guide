@@ -1,5 +1,18 @@
 # PRIVACY & SECURITY
 
+## QUICK LINKS
+
+- [privacy-solutions](https://github.com/Scrut1ny/Privacy-OpSec-Optimization-Guide#privacy-solutions)
+- [Fake Info](https://github.com/Scrut1ny/Privacy-OpSec-Optimization-Guide#fake-info)
+- [wlan-ssid-opt-out](https://github.com/Scrut1ny/Privacy-OpSec-Optimization-Guide#wlan-ssid-opt-out)
+- [governement--law-enforcement](https://github.com/Scrut1ny/Privacy-OpSec-Optimization-Guide#governement--law-enforcement)
+- [cancel-state-voter-registration-record--opt-out](https://github.com/Scrut1ny/Privacy-OpSec-Optimization-Guide#cancel-state-voter-registration-record--opt-out)
+- [firefox-aboutconfig](https://github.com/Scrut1ny/Privacy-OpSec-Optimization-Guide#firefox-aboutconfig)
+- [ip-leaking-fix](https://github.com/Scrut1ny/Privacy-OpSec-Optimization-Guide#ip-leaking-fix)
+- [best-free-proxies-websites](https://github.com/Scrut1ny/Privacy-OpSec-Optimization-Guide#best-free-proxies-websites)
+- [ff-extentions](https://github.com/Scrut1ny/Privacy-OpSec-Optimization-Guide#ff-extentions)
+- [tor-settings--sites](https://github.com/Scrut1ny/Privacy-OpSec-Optimization-Guide#6---tor-settings--sites)
+
 ### Privacy solutions
 >- ===== Blogs =====
 >- EFF > [Link](https://www.eff.org/)
