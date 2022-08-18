@@ -123,14 +123,17 @@
 | network.ttr.mode | 2 | DNS-over-HTTPS (DoH) |
 | browser.cache.offline.enable | false | If TRUE, it allows websites to store data on your computer for when you would be offline. |
 
-### Firefox about:config - IP LEAKING FIX
-| `Option` | `Setting` | `Desc.` |
-| - | - | - |
-| javascript.enabled | false | JS |
-| media.peerconnection.enabled | false | WebRTC |
-- [IP Test](https://browserleaks.com/ip)
-- [JS Test](https://browserleaks.com/javascript)
-- [WebRTC Test](https://browserleaks.com/webrtc)
+### IP LEAKING FIX
+| `Type` | `Option` | `Setting` | `Links` |
+| - | - | - | - |
+| IPv4 Leaks |  |  | [IP Test](https://browserleaks.com/ip) |
+| IPv6 Leaks |  |  |  |
+| TCP |  |  |  |
+| UDP |  |  |  |
+| DNS Leaks |  |  |  |
+| WebRTC Leaks | media.peerconnection.enabled | false | [WebRTC Test](https://browserleaks.com/webrtc |
+| HTML5 Geolocation Leaks |  |  |  |
+| Flash Player Leaks |  |  |  |
 
 ```
 reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DWORD /d "1" /f
