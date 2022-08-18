@@ -131,7 +131,7 @@
 | TCP |  |  |  |
 | UDP |  |  |  |
 | DNS Leaks |  |  |  |
-| WebRTC Leaks | media.peerconnection.enabled | false | [WebRTC Test](https://browserleaks.com/webrtc |
+| WebRTC Leaks | media.peerconnection.enabled | false | [WebRTC Test](https://browserleaks.com/webrtc) |
 | HTML5 Geolocation Leaks |  |  |  |
 | Flash Player Leaks |  |  |  |
 | Torrent IP leak |  |  |  |
