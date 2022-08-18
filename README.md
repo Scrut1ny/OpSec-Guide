@@ -134,6 +134,7 @@
 | WebRTC Leaks | media.peerconnection.enabled | false | [WebRTC Test](https://browserleaks.com/webrtc |
 | HTML5 Geolocation Leaks |  |  |  |
 | Flash Player Leaks |  |  |  |
+| Torrent IP leak |  |  |  |
 
 ```
 reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DWORD /d "1" /f
