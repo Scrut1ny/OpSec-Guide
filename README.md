@@ -145,7 +145,7 @@
 | UDP |  |  |  |
 | DNS Leaks |  |  |  |
 | WebRTC Leaks | media.peerconnection.enabled | false | [WebRTC Test](https://browserleaks.com/webrtc) |
-| HTML5 Geolocation Leaks | geo.enabled | false | about:config |
+| HTML5 Geolocation Leaks | geo.enabled | false | [about:config](about:config) |
 | Flash Player Leaks |  |  |  |
 | Torrent IP leak |  |  |  |
 
