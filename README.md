@@ -136,16 +136,15 @@
 | network.ttr.mode | 2 | DNS-over-HTTPS (DoH) |
 | browser.cache.offline.enable | false | If TRUE, it allows websites to store data on your computer for when you would be offline. |
 
-### IP LEAKING FIX
+### IP, DNS, WebRTC, HTML5, LEAKING FIX
 | `Type` | `Option` | `Setting` | `Links` |
 | - | - | - | - |
-| IPv4 Leaks |  |  | [IP Test](https://browserleaks.com/ip) |
-| IPv6 Leaks |  |  | [IP Test](https://browserleaks.com/ip) |
-| DNS Leaks |  |  |  |
+| IPv4 Leaks | - | - | [IP Test](https://browserleaks.com/ip) |
+| IPv6 Leaks | - | - | [IP Test](https://browserleaks.com/ip) |
+| DNS Leaks | 1.1.1.1 | 1.0.0.1 | [Cloudflair](https://1.1.1.1/) |
 | WebRTC Leaks | media.peerconnection.enabled | false | [WebRTC Test](https://browserleaks.com/webrtc) |
 | HTML5 Geolocation Leaks | geo.enabled | false | [about:config](about:config) |
-| Flash Player Leaks |  |  |  |
-| Torrent IP leak |  |  |  |
+| Torrent IP leak | - | - | [do-i-leak](https://www.top10vpn.com/tools/do-i-leak/) |
 
 ```
 reg add "HKLM\SOFTWARE\Policies\Mozilla\Firefox" /v "DisableTelemetry" /t REG_DWORD /d "1" /f
