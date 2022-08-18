@@ -139,12 +139,12 @@
 ### IP, DNS, WebRTC, HTML5, LEAKING FIX
 | `Type` | - | - | `Links` |
 | - | - | - | - |
-| IPv4 Leaks | - | - | [IP Test](https://browserleaks.com/ip) |
-| IPv6 Leaks | - | - | [IP Test](https://browserleaks.com/ip) |
+| IPv4 Leaks | VPN / SOCKS5 | VPN / SOCKS5 | [IP Test](https://browserleaks.com/ip) |
+| IPv6 Leaks | VPN / SOCKS5 | VPN / SOCKS5 | [IP Test](https://browserleaks.com/ip) |
 | DNS Leaks | 1.1.1.1 / 2606:4700:4700::1111 | 1.0.0.1 / 2606:4700:4700::1001 | [Cloudflair](https://1.1.1.1/) |
-| WebRTC Leaks | media.peerconnection.enabled | false | [WebRTC Test](https://browserleaks.com/webrtc) |
-| HTML5 Geolocation Leaks | geo.enabled | false | [about:config](about:config) |
-| Torrent IP leak | - | - | [do-i-leak](https://www.top10vpn.com/tools/do-i-leak/) |
+| WebRTC Leaks | about:config - media.peerconnection.enabled | false | [WebRTC Test](https://browserleaks.com/webrtc) |
+| HTML5 Geolocation Leaks | about:config - geo.enabled | false | [geo](https://browserleaks.com/geo) |
+| Torrent IP leak | VPN / SOCKS5 | VPN / SOCKS5 | [do-i-leak](https://www.top10vpn.com/tools/do-i-leak/) |
 
 ### Best Free Proxies Websites
 | `Option` | `Link` |
