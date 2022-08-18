@@ -141,8 +141,6 @@
 | - | - | - | - |
 | IPv4 Leaks |  |  | [IP Test](https://browserleaks.com/ip) |
 | IPv6 Leaks |  |  | [IP Test](https://browserleaks.com/ip) |
-| TCP |  |  |  |
-| UDP |  |  |  |
 | DNS Leaks |  |  |  |
 | WebRTC Leaks | media.peerconnection.enabled | false | [WebRTC Test](https://browserleaks.com/webrtc) |
 | HTML5 Geolocation Leaks | geo.enabled | false | [about:config](about:config) |
