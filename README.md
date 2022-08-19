@@ -137,7 +137,7 @@
 | browser.cache.offline.enable | false | If TRUE, it allows websites to store data on your computer for when you would be offline. |
 
 ### IP, DNS, WebRTC, HTML5, LEAKING FIX
-| `Type` | - | `Links` |
+| `Type` | Solutions | `Links` |
 | - | - | - |
 | IPv4 Leaks | VPN / SOCKS5 | [IP Test](https://browserleaks.com/ip) |
 | IPv6 Leaks | VPN / SOCKS5 | [IP Test](https://browserleaks.com/ip) |
