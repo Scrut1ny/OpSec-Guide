@@ -210,26 +210,28 @@
 - blahdns                      > [Link](https://blahdns.com/)
 
 ### Recommended search engines
-- Brave Search                 > [Link](https://search.brave.com/)
-- DuckDuckGo                   > [Link](https://duckduckgo.com/)
-- SearX                        > [Link](https://searx.space/#)
-- Startpage                    > [Link](https://www.startpage.com/)
+- SearXNG > [Link](https://serx.ml/)
+- Startpage > [Link](https://www.startpage.com/)
+- Brave Search > [Link](https://search.brave.com/)
+- DuckDuckGo > [Link](https://duckduckgo.com/)
 
 ### VPN
-- Mullvad                      > [Link](https://mullvad.net/) - [Download](https://mullvad.net/download/app/exe/latest/) | [Onion Link](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/) - [Download](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/download/app/exe/latest/)
-- IVPN                         > [Link](https://www.ivpn.net/)
-- OpenVPN                      > [Link](https://openvpn.net/vpn-client/) - [Download](https://openvpn.net/downloads/openvpn-connect-v3-windows.msi)
-- Courvix                      > [Link](https://courvix.com/vpn) - [Download](https://cdn.courvix.com/vpn/CourvixVPN.exe)
+- AzireVPN > https://www.azirevpn.com/
+- Mullvad > [Link](https://mullvad.net/) - [Download](https://mullvad.net/download/app/exe/latest/) | [Onion Link](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/) - [Download](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/download/app/exe/latest/)
+- IVPN > [Link](https://www.ivpn.net/)
+- OpenVPN > [Link](https://openvpn.net/vpn-client/) - [Download](https://openvpn.net/downloads/openvpn-connect-v3-windows.msi)
+- Courvix > [Link](https://courvix.com/vpn) - [Download](https://cdn.courvix.com/vpn/CourvixVPN.exe)
 
 ### Leaks & Tests
-- dnsleaktest                  > [Link](https://www.dnsleaktest.com/)
-- ipleak                       > [Link](https://ipleak.net/)
-- browserleaks                 > [Link](https://browserleaks.com)
-- coveryourtracks.eff          > [Link](https://coveryourtracks.eff.org/)
-- privacytests                 > [Link](https://privacytests.org)
-- deviceinfo                   > [Link](https://www.deviceinfo.me/)
-- adblock                      > [Link](https://d3ward.github.io/toolz/adblock.html)
-- canyoublockit                > [Link](https://canyoublockit.com/)
+- dnsleaktest > [Link](https://www.dnsleaktest.com/)
+- Do I leak? > [do-i-leak](https://www.top10vpn.com/tools/do-i-leak/)
+- ipleak > [Link](https://ipleak.net/)
+- browserleaks > [Link](https://browserleaks.com)
+- coveryourtracks.eff > [Link](https://coveryourtracks.eff.org/)
+- privacytests > [Link](https://privacytests.org)
+- deviceinfo > [Link](https://www.deviceinfo.me/)
+- adblock > [Link](https://d3ward.github.io/toolz/adblock.html)
+- canyoublockit > [Link](https://canyoublockit.com/)
 
 ### Spoofing
 - Windows-Spoofer              > [Link](https://github.com/Scrut1ny/Windows-Spoofer/releases/latest)
