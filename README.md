@@ -166,16 +166,10 @@
 |KeePassXC-Browser|[Link](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)|Official browser plugin for the KeePassXC password manager|
 
 ### School Extentions
-- School Cheats                > [Link](https://chrome.google.com/webstore/detail/school-cheats/dcecjjjnjecoiehclollekjmfgblkkha)
-- Quizizz Rocks                > [Link](https://chrome.google.com/webstore/detail/quizizz-rocks/kmmibboliipddkiknfpkfnhblinocgog)
-- Quizlet Rocks                > [Link](https://chrome.google.com/webstore/detail/quizlet-rocks/pgbnfimhfgoibnimmfoeacjehkecgkmk)
-- Anti Testportal              > [Link](https://chrome.google.com/webstore/detail/anti-testportal/dpgfbfopkfdfmlfdpmoanamopdnibhkl)
-
-### AV's
-- ClamAV                       > [Link](https://www.clamav.net/)
-- Malwarebytes                 > [Link](https://www.malwarebytes.com/mwb-download/thankyou)
-- webroot                      > [Link](https://anywhere.webrootcloudav.com/zerol/wsainstall.exe)
-- ESET                         > [Link](https://proxy.eset.com/li-handler/?transaction_id=odcm_download|esetgwsprod|us|oksgz9g0y9mica4ayzpw5dbixf3p53kaudw5tpwz1pff0un8lw096ozitly6heexp8wid&branch=us&prod=essp)
+- School Cheats > [Link](https://chrome.google.com/webstore/detail/school-cheats/dcecjjjnjecoiehclollekjmfgblkkha)
+- Quizizz Rocks > [Link](https://chrome.google.com/webstore/detail/quizizz-rocks/kmmibboliipddkiknfpkfnhblinocgog)
+- Quizlet Rocks > [Link](https://chrome.google.com/webstore/detail/quizlet-rocks/pgbnfimhfgoibnimmfoeacjehkecgkmk)
+- Anti Testportal > [Link](https://chrome.google.com/webstore/detail/anti-testportal/dpgfbfopkfdfmlfdpmoanamopdnibhkl)
 
 ### Mail Services
 - tutanota                     > [Link](https://tutanota.com/)
@@ -195,19 +189,19 @@
 - signal                       > [Link](https://signal.org/)
 
 ### Privacy oriented DNS
-- NextDNS                      > [Link](https://nextdns.io)
-- Quad9                        > [Link](https://www.quad9.net)
-- AdGuard                      > [Link](https://adguard.com/en/adguard-dns/overview.html)
-- 1.1.1.1                      > [Link](https://1.1.1.1/)
-- blackbird                    > [Link](https://www.getblackbird.net/)
-- blokada                      > [Link](https://blokada.org/)
-- rethinkdns                   > [Link](https://rethinkdns.com/)
-- orencloud                    > [Link](https://www.orencloud.com/orencloud-dns/)
-- ahadns                       > [Link](https://ahadns.com/#dns-servers)
-- yogadns                      > [Link](https://yogadns.com/)
-- uncensoreddns                > [Link](https://blog.uncensoreddns.org/)
-- constellix                   > [Link](https://constellix.com/)
-- blahdns                      > [Link](https://blahdns.com/)
+- Cloudflair > [Link](https://1.1.1.1/)
+- Quad9 > [Link](https://www.quad9.net)
+- AdGuard > [Link](https://adguard.com/en/adguard-dns/overview.html)
+- NextDNS > [Link](https://nextdns.io)
+- blackbird > [Link](https://www.getblackbird.net/)
+- blokada > [Link](https://blokada.org/)
+- rethinkdns > [Link](https://rethinkdns.com/)
+- orencloud > [Link](https://www.orencloud.com/orencloud-dns/)
+- ahadns > [Link](https://ahadns.com/#dns-servers)
+- yogadns > [Link](https://yogadns.com/)
+- uncensoreddns > [Link](https://blog.uncensoreddns.org/)
+- constellix > [Link](https://constellix.com/)
+- blahdns > [Link](https://blahdns.com/)
 
 ### Recommended search engines
 - SearXNG > [Link](https://serx.ml/)
