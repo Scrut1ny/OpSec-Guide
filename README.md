@@ -156,7 +156,7 @@
 |  | [Link]() |
 |  | [Link]() |
 
-### FF Extentions
+### FF Addons
 |`Name`|`Link`|`Desc.`|
 |-|-|-|
 |uBlock Origin|[Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory.|
