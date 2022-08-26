@@ -165,12 +165,6 @@
 |SponsorBlock|[Link](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)|Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors. You can also report sponsors in videos.|
 |KeePassXC-Browser|[Link](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)|Official browser plugin for the KeePassXC password manager|
 
-### School Extentions
-- School Cheats > [Link](https://chrome.google.com/webstore/detail/school-cheats/dcecjjjnjecoiehclollekjmfgblkkha)
-- Quizizz Rocks > [Link](https://chrome.google.com/webstore/detail/quizizz-rocks/kmmibboliipddkiknfpkfnhblinocgog)
-- Quizlet Rocks > [Link](https://chrome.google.com/webstore/detail/quizlet-rocks/pgbnfimhfgoibnimmfoeacjehkecgkmk)
-- Anti Testportal > [Link](https://chrome.google.com/webstore/detail/anti-testportal/dpgfbfopkfdfmlfdpmoanamopdnibhkl)
-
 ### Mail Services
 - [tutanota](https://tutanota.com/)
 - [Proton](https://proton.me/)
@@ -189,19 +183,19 @@
 - [Status](https://status.im/)
 
 ### Privacy oriented DNS
-- Cloudflair > [Link](https://1.1.1.1/)
-- Quad9 > [Link](https://www.quad9.net)
-- AdGuard > [Link](https://adguard.com/en/adguard-dns/overview.html)
-- NextDNS > [Link](https://nextdns.io)
-- blackbird > [Link](https://www.getblackbird.net/)
-- blokada > [Link](https://blokada.org/)
-- rethinkdns > [Link](https://rethinkdns.com/)
-- orencloud > [Link](https://www.orencloud.com/orencloud-dns/)
-- ahadns > [Link](https://ahadns.com/#dns-servers)
-- yogadns > [Link](https://yogadns.com/)
-- uncensoreddns > [Link](https://blog.uncensoreddns.org/)
-- constellix > [Link](https://constellix.com/)
-- blahdns > [Link](https://blahdns.com/)
+- [Cloudflair](https://1.1.1.1/)
+- [Quad9](https://www.quad9.net)
+- [AdGuard](https://adguard.com/en/adguard-dns/overview.html)
+- [NextDNS](https://nextdns.io)
+- [blackbird](https://www.getblackbird.net/)
+- [blokada](https://blokada.org/)
+- [rethinkdns](https://rethinkdns.com/)
+- [orencloud](https://www.orencloud.com/orencloud-dns/)
+- [ahadns](https://ahadns.com/#dns-servers)
+- [yogadns](https://yogadns.com/)
+- [uncensoreddns](https://blog.uncensoreddns.org/)
+- [constellix](https://constellix.com/)
+- [blahdns](https://blahdns.com/)
 
 ### Recommended Web Browsers
 - [librewolf](https://librewolf.net/) (A fork of Firefox, focused on privacy, security and freedom.)
@@ -209,11 +203,11 @@
 - [Tor](https://www.torproject.org/)
 
 ### Recommended search engines
-- SearXNG > [Link](https://serx.ml/)
+- [SearXNG](https://serx.ml/)
   - [SearXNG Config](https://serx.ml/preferences?preferences=eJx1V7uS6zYM_Zqo0exOklukcpWZtMnMvak1EAlLWJEELx-WtV8f0JItyt4U6zUPQeJ9QCtIOHAgjKcBHQYwjQE3ZBjwhO7t3--NYQWmLBrIiRVbbzDhqSErMp0PfF1OP0LGxmIaWZ_--fv7jybCGSNCUOPp1yaNaPEUqZxsAsZsUuzYdQ7nLkF_-gtMxEYzdbLJ5oLhFBW9jbl_F3w918W0iBUawtQodAlDB4YGZ-X7dgHoCziFutsUr-jPjGHpyHWJklywguTO5CjJrSqwMav9miL0Rs6jG8hJQMBPraUQOHTdmQzGX37_s9xMF2wpdt0WsBuaSHXdLSRFqic31Ptl3a67T1LthTSyoOv_G5r6rCZMIpnKOmkaht0CpdRbulQH2KOTmEWsrl7Q1_pVDobwCQno1FJjGi8ELokz1U1aD63GW7iI3cFrDDyT7jqWBAdZzzSRhgQHGcsf5FET7HJJorscrPntWmk868Dl2rvDZ0NqCrVAQGwjn9MMAVtNAVViSfIar3MgNxHU6RhokMxCTLXOQeoB-u2QYo09hmFbDsyDwdYbWFrwPu7G1DuWL4R16gbPWktldjZHUgKM0AcoH9u9ZHW_x4EcVIfJyVfiHL_G7ld-UBx5v2OS2ECsDDQkKsPSFkcjfbHB51axG6TV6lo0UouXQ-YM9zHhe4ib7fBplkCqMsXSVRnOekcc4vES5-123C0AuzEWJEd4D0up4ICeK2s9iF8DxXsX-JGTUEZnwZcVBeGtHpbqgLCFFPBdfPG0ff05S03XNt2A125c4Zd2jOgJVkap0ewx5PjwYBUoVdSWj0cpgoUSd3yIieNCFW1UIxuQ00J00oZY9krj-cKpla2Jp0Ucl5RP4HZnhSVJS81LC6cqaNlFKcw41kQAI3N940z9oektBGE7sfKQN2H8Kzgdjmhp8J55is-gMLlg5XMDfmZO-CwVOQf1ghbqorS8wLw8xUKTSp_sjljW6PZuiPjpwB7c4w_E6VCScClp24GQ-2VAe69zjxhS7rHKti38JSom6fd5xr7aCtnKzKiAma80sZNabOPi2C0WK_s-_Luf3ZEyrXDrYVgEsbAGPKYytdYS_BJ-reZ685AdKce9p9eMjPnWZQ26p_lXDgsx5Gtb7LzzQLjSpS7cXgpFgfU7DRTpjfOfZuDBFJm9MQY815dpxM-aQTXLKAytvAU29VpmY_kb-FgHd_Q1FJgWy078qBIhJ6lmVVmn0icr-1Pa9a2Efxgc6wh40bPhBxc37IVVNvwLGhg3fTfln28ba-89XrgSZOSVQRuxdP9-9r4nXCgzE7aBfdyPSaZnEhp9cKkutb4LyWGp9xpZmfHgl-jXJFUTWRGY9tYgaz1JLRxngvCamlh67mx4vtdQnHKfXcrb-sZSRw0L56cufCCP2gAyktriZiV2IYtcNyRNReIWxEfbsVm52Y_Vu8RKr1p5SLQpgItGJkz1uPnt27c_rnsaZg7a0bTt729Hb7I0TzyV1ru-b6v3kWMSYkJ54ApBr3R_EBAu79SIanrZEXc6mX0TLvHRoP-jpDD_uni5haFb39dzkGfvy_ZGLhJHtf4eWOQRbeRZ9YWkOctr-syvLgQordrJU1P02JLxRsaXVNzpPy0vr64=&save=1)
-- Startpage > [Link](https://www.startpage.com/)
-- Brave Search > [Link](https://search.brave.com/)
-- DuckDuckGo > [Link](https://duckduckgo.com/)
+- [Startpage](https://www.startpage.com/)
+- [Brave Search](https://search.brave.com/)
+- [DuckDuckGo](https://duckduckgo.com/)
 
 ### VPN
 - Mullvad > [Link](https://mullvad.net/) - [Download](https://mullvad.net/download/app/exe/latest/) | [Onion Link](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/) - [Download](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/download/app/exe/latest/)
@@ -222,15 +216,15 @@
 - Courvix > [Link](https://courvix.com/vpn) - [Download](https://cdn.courvix.com/vpn/CourvixVPN.exe)
 
 ### Leaks & Tests
-- dnsleaktest > [Link](https://www.dnsleaktest.com/)
-- Do I leak? > [do-i-leak](https://www.top10vpn.com/tools/do-i-leak/)
-- ipleak > [Link](https://ipleak.net/)
-- browserleaks > [Link](https://browserleaks.com)
-- coveryourtracks.eff > [Link](https://coveryourtracks.eff.org/)
-- privacytests > [Link](https://privacytests.org)
-- deviceinfo > [Link](https://www.deviceinfo.me/)
-- adblock > [Link](https://d3ward.github.io/toolz/adblock.html)
-- canyoublockit > [Link](https://canyoublockit.com/)
+- [dnsleaktest](https://www.dnsleaktest.com/)
+- [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/)
+- [ipleak](https://ipleak.net/)
+- [browserleaks](https://browserleaks.com)
+- [coveryourtracks.eff](https://coveryourtracks.eff.org/)
+- [privacytests](https://privacytests.org)
+- [deviceinfo](https://www.deviceinfo.me/)
+- [adblock](https://d3ward.github.io/toolz/adblock.html)
+- [canyoublockit](https://canyoublockit.com/)
 
 ### Hacking
 - [hackers-arise](https://www.hackers-arise.com/)
@@ -239,16 +233,16 @@
 - [maltronics](https://maltronics.com/)
 - [usbkill](https://usbkill.com/)
 
-### Spoofing
-- Windows-Spoofer              > [Link](https://github.com/Scrut1ny/Windows-Spoofer/releases/latest)
-- Windows-MAC-Address-Spoofer  > [Link](https://github.com/Scrut1ny/Windows-MAC-Address-Spoofer/releases/latest)
-- TMAC                         > [Link](https://download.technitium.com/tmac/TMACv6.0.7_Setup.zip)
-- VolumeID v2.1                > [Link](https://download.sysinternals.com/files/VolumeId.zip)
+### Windows Spoofing
+- [Windows-Spoofer](https://github.com/Scrut1ny/Windows-Spoofer/releases/latest)
+- [Windows-MAC-Address-Spoofer](https://github.com/Scrut1ny/Windows-MAC-Address-Spoofer/releases/latest)
+- [TMAC](https://download.technitium.com/tmac/TMACv6.0.7_Setup.zip)
+- [VolumeID v2.1](https://download.sysinternals.com/files/VolumeId.zip)
 
 ### EXIF Tool
-- exiftool                     > [Link](https://exiftool.org/)
-- exifcleaner                  > [Link](https://github.com/szTheory/exifcleaner/releases/latest)
-- Exif Pilot                   > [Link](https://www.colorpilot.com/exif.html)
+- [exiftool](https://exiftool.org/)
+- [exifcleaner](https://github.com/szTheory/exifcleaner/releases/latest)
+- [Exif Pilot](https://www.colorpilot.com/exif.html)
 
 # 6 - Tor Settings / Sites
 
