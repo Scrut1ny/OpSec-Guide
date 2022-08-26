@@ -166,8 +166,8 @@
 |KeePassXC-Browser|[Link](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)|Official browser plugin for the KeePassXC password manager|
 
 ### Mail Services
-- [tutanota](https://tutanota.com/)
-- [Proton](https://proton.me/)
+- [tutanota](https://tutanota.com/) 🔥
+- [Proton](https://proton.me/) 🔥
 - [startmail](https://www.startmail.com/)
 - [mailbox](https://mailbox.org/)
 - [Disroot (invite only)](https://cloud.disroot.org/login)
@@ -175,18 +175,18 @@
 - [RiseUp (invite only)](https://riseup.net/)
 
 ### Recommended Instant Messengers
-- [XMPP](https://xmpp.org/)
-- [Session](https://getsession.org/)
-- [Signal](https://signal.org/)
-- [Briar](https://briarproject.org/)
+- [XMPP](https://xmpp.org/) 🔥
+- [Session](https://getsession.org/) 🔥
+- [Signal](https://signal.org/) 🔥
+- [Briar](https://briarproject.org/) 🔥
 - [Jami](https://jami.net/)
 - [Status](https://status.im/)
 
 ### Privacy oriented DNS
-- [Cloudflair](https://1.1.1.1/)
-- [Quad9](https://www.quad9.net)
-- [AdGuard](https://adguard.com/en/adguard-dns/overview.html)
-- [NextDNS](https://nextdns.io)
+- [Cloudflair](https://1.1.1.1/) 🔥
+- [Quad9](https://www.quad9.net) 🔥
+- [AdGuard](https://adguard.com/en/adguard-dns/overview.html) 🔥
+- [NextDNS](https://nextdns.io) 🔥
 - [blackbird](https://www.getblackbird.net/)
 - [blokada](https://blokada.org/)
 - [rethinkdns](https://rethinkdns.com/)
@@ -198,22 +198,24 @@
 - [blahdns](https://blahdns.com/)
 
 ### Recommended Web Browsers
-- [librewolf](https://librewolf.net/) (A fork of Firefox, focused on privacy, security and freedom.)
+- [librewolf](https://librewolf.net/) 🔥
+- [Tor](https://www.torproject.org/) 🔥
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Brave](https://brave.com/)
-- [Tor](https://www.torproject.org/)
 
 ### Recommended search engines
-- [SearXNG](https://serx.ml/)
+- [SearXNG](https://serx.ml/) 🔥
   - [SearXNG Config](https://serx.ml/preferences?preferences=eJx1V7uS6zYM_Zqo0exOklukcpWZtMnMvak1EAlLWJEELx-WtV8f0JItyt4U6zUPQeJ9QCtIOHAgjKcBHQYwjQE3ZBjwhO7t3--NYQWmLBrIiRVbbzDhqSErMp0PfF1OP0LGxmIaWZ_--fv7jybCGSNCUOPp1yaNaPEUqZxsAsZsUuzYdQ7nLkF_-gtMxEYzdbLJ5oLhFBW9jbl_F3w918W0iBUawtQodAlDB4YGZ-X7dgHoCziFutsUr-jPjGHpyHWJklywguTO5CjJrSqwMav9miL0Rs6jG8hJQMBPraUQOHTdmQzGX37_s9xMF2wpdt0WsBuaSHXdLSRFqic31Ptl3a67T1LthTSyoOv_G5r6rCZMIpnKOmkaht0CpdRbulQH2KOTmEWsrl7Q1_pVDobwCQno1FJjGi8ELokz1U1aD63GW7iI3cFrDDyT7jqWBAdZzzSRhgQHGcsf5FET7HJJorscrPntWmk868Dl2rvDZ0NqCrVAQGwjn9MMAVtNAVViSfIar3MgNxHU6RhokMxCTLXOQeoB-u2QYo09hmFbDsyDwdYbWFrwPu7G1DuWL4R16gbPWktldjZHUgKM0AcoH9u9ZHW_x4EcVIfJyVfiHL_G7ld-UBx5v2OS2ECsDDQkKsPSFkcjfbHB51axG6TV6lo0UouXQ-YM9zHhe4ib7fBplkCqMsXSVRnOekcc4vES5-123C0AuzEWJEd4D0up4ICeK2s9iF8DxXsX-JGTUEZnwZcVBeGtHpbqgLCFFPBdfPG0ff05S03XNt2A125c4Zd2jOgJVkap0ewx5PjwYBUoVdSWj0cpgoUSd3yIieNCFW1UIxuQ00J00oZY9krj-cKpla2Jp0Ucl5RP4HZnhSVJS81LC6cqaNlFKcw41kQAI3N940z9oektBGE7sfKQN2H8Kzgdjmhp8J55is-gMLlg5XMDfmZO-CwVOQf1ghbqorS8wLw8xUKTSp_sjljW6PZuiPjpwB7c4w_E6VCScClp24GQ-2VAe69zjxhS7rHKti38JSom6fd5xr7aCtnKzKiAma80sZNabOPi2C0WK_s-_Luf3ZEyrXDrYVgEsbAGPKYytdYS_BJ-reZ685AdKce9p9eMjPnWZQ26p_lXDgsx5Gtb7LzzQLjSpS7cXgpFgfU7DRTpjfOfZuDBFJm9MQY815dpxM-aQTXLKAytvAU29VpmY_kb-FgHd_Q1FJgWy078qBIhJ6lmVVmn0icr-1Pa9a2Efxgc6wh40bPhBxc37IVVNvwLGhg3fTfln28ba-89XrgSZOSVQRuxdP9-9r4nXCgzE7aBfdyPSaZnEhp9cKkutb4LyWGp9xpZmfHgl-jXJFUTWRGY9tYgaz1JLRxngvCamlh67mx4vtdQnHKfXcrb-sZSRw0L56cufCCP2gAyktriZiV2IYtcNyRNReIWxEfbsVm52Y_Vu8RKr1p5SLQpgItGJkz1uPnt27c_rnsaZg7a0bTt729Hb7I0TzyV1ru-b6v3kWMSYkJ54ApBr3R_EBAu79SIanrZEXc6mX0TLvHRoP-jpDD_uni5haFb39dzkGfvy_ZGLhJHtf4eWOQRbeRZ9YWkOctr-syvLgQordrJU1P02JLxRsaXVNzpPy0vr64=&save=1)
 - [Startpage](https://www.startpage.com/)
 - [Brave Search](https://search.brave.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
 
 ### VPN
-- [Mullvad](https://mullvad.net/) - | [Onion Link](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/)
-- [IVPN](https://www.ivpn.net/)
-- [OpenVPN](https://openvpn.net/vpn-client/) - [Download](https://openvpn.net/downloads/openvpn-connect-v3-windows.msi)
-- [Courvix](https://courvix.com/vpn) - [Download](https://cdn.courvix.com/vpn/CourvixVPN.exe)
+- [Mullvad](https://mullvad.net/) 🔥
+  - [Onion Link](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/)
+- [IVPN](https://www.ivpn.net/) 🔥
+- [OpenVPN](https://openvpn.net/vpn-client/)
+- [Courvix](https://courvix.com/vpn)
 
 ### Leaks & Tests
 - [dnsleaktest](https://www.dnsleaktest.com/)
