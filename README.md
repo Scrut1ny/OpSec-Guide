@@ -232,6 +232,13 @@
 - adblock > [Link](https://d3ward.github.io/toolz/adblock.html)
 - canyoublockit > [Link](https://canyoublockit.com/)
 
+### Hacking
+- [hackers-arise](https://www.hackers-arise.com/)
+- [revshells](https://www.revshells.com/)
+- [hak5](https://hak5.org/)
+- [maltronics](https://maltronics.com/)
+- [usbkill](https://usbkill.com/)
+
 ### Spoofing
 - Windows-Spoofer              > [Link](https://github.com/Scrut1ny/Windows-Spoofer/releases/latest)
 - Windows-MAC-Address-Spoofer  > [Link](https://github.com/Scrut1ny/Windows-MAC-Address-Spoofer/releases/latest)
