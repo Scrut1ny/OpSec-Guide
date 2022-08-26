@@ -172,21 +172,21 @@
 - Anti Testportal > [Link](https://chrome.google.com/webstore/detail/anti-testportal/dpgfbfopkfdfmlfdpmoanamopdnibhkl)
 
 ### Mail Services
-- tutanota                     > [Link](https://tutanota.com/)
-- Disroot (invite only)        > [Link](https://cloud.disroot.org/login)
-- ProtonMail                   > [Link](https://protonmail.com/)
-- mailbox.org                  > [Link](https://mailbox.org/)
-- StartMail                    > [Link](https://www.startmail.com/)
-- Cock.li (invite only)        > [Link](https://cock.li/)
-- RiseUp (invite only)         > [Link](https://riseup.net/)
+- [tutanota](https://tutanota.com/)
+- [Proton](https://proton.me/)
+- [startmail](https://www.startmail.com/)
+- [mailbox](https://mailbox.org/)
+- [Disroot (invite only)](https://cloud.disroot.org/login)
+- [Cock (invite only)](https://cock.li/)
+- [RiseUp (invite only)](https://riseup.net/)
 
 ### Recommended Instant Messengers
-- XMPP                         > [Link](https://xmpp.org/)
-- Session                      > [Link](https://getsession.org/)
-- Status                       > [Link](https://status.im/)
-- Briar                        > [Link](https://briarproject.org/)
-- Jami                         > [Link](https://jami.net/)
-- signal                       > [Link](https://signal.org/)
+- [XMPP](https://xmpp.org/)
+- [Session](https://getsession.org/)
+- [Signal](https://signal.org/)
+- [Briar](https://briarproject.org/)
+- [Jami](https://jami.net/)
+- [Status](https://status.im/)
 
 ### Privacy oriented DNS
 - Cloudflair > [Link](https://1.1.1.1/)
