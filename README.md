@@ -210,7 +210,7 @@
 - [DuckDuckGo](https://duckduckgo.com/)
 
 ### VPN
-- [Mullvad](https://mullvad.net/) - [Download](https://mullvad.net/download/app/exe/latest/) | [Onion Link](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/) - [Download](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/download/app/exe/latest/)
+- [Mullvad](https://mullvad.net/) - | [Onion Link](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/)
 - [IVPN](https://www.ivpn.net/)
 - [OpenVPN](https://openvpn.net/vpn-client/) - [Download](https://openvpn.net/downloads/openvpn-connect-v3-windows.msi)
 - [Courvix](https://courvix.com/vpn) - [Download](https://cdn.courvix.com/vpn/CourvixVPN.exe)
