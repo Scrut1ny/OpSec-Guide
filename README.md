@@ -33,6 +33,7 @@
 >- inteltechniques > [Link](https://inteltechniques.com/)
 >- privacytools > [Link](https://www.privacytools.io/)
 >- CHEF-KOCH > [Link](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/)
+>- illegal-services > [Link](https://illegal-services.github.io/Illegal_Services/IS.bookmarks.html)
 >- sizeof.cat > [Link](https://sizeof.cat/links)
 >- privacyspy > [Link](https://privacyspy.org)
 >- exodus-privacy > [Link](https://reports.exodus-privacy.eu.org/en/)
