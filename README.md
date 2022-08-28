@@ -231,11 +231,17 @@
 - [canyoublockit](https://canyoublockit.com/)
 
 ### Hacking
-- [hackers-arise](https://www.hackers-arise.com/)
-- [revshells](https://www.revshells.com/)
-- [hak5](https://hak5.org/)
-- [maltronics](https://maltronics.com/)
-- [usbkill](https://usbkill.com/)
+- Websites / Products
+  - [hackers-arise](https://www.hackers-arise.com/)
+  - [revshells](https://www.revshells.com/)
+  - [hak5](https://hak5.org/)
+  - [maltronics](https://maltronics.com/)
+  - [usbkill](https://usbkill.com/)
+- Websites / Software
+  - [3u](https://www.3u.com/)
+  - [safing](https://safing.io/portmaster/)
+  - [DoxToolV2](https://archive.org/download/DoxToolV2) - Latest+Old+Broken
+  - [Cain & Abel](https://web.archive.org/web/20190603235413/http://www.oxid.it/cain.html) - Latest+Old
 
 ### Windows Spoofing
 - [Windows-Spoofer](https://github.com/Scrut1ny/Windows-Spoofer/releases/latest)
