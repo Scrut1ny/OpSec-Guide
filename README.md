@@ -168,8 +168,8 @@
 |KeePassXC-Browser|[Link](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)|Official browser plugin for the KeePassXC password manager|
 
 ### Mail Services
-- [tutanota](https://tutanota.com/) 🔥
 - [Proton](https://proton.me/) 🔥
+- [tutanota](https://tutanota.com/) 🔥
 - [startmail](https://www.startmail.com/)
 - [mailbox](https://mailbox.org/)
 - [Disroot (invite only)](https://cloud.disroot.org/login)
@@ -178,8 +178,8 @@
 
 ### Instant Messengers
 - [XMPP](https://xmpp.org/) 🔥
-- [Session](https://getsession.org/) 🔥
 - [Signal](https://signal.org/) 🔥
+- [Session](https://getsession.org/) 🔥
 - [Briar](https://briarproject.org/) 🔥
 - [Jami](https://jami.net/)
 - [Status](https://status.im/)
