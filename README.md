@@ -29,7 +29,7 @@
 >- thinklikeacop > [Link](http://www.thinklikeacop.org/images3/index.html)
 >- thenewoil > [Link](https://thenewoil.org)
 >- ===== Tools =====
->- [alternativeto](https://alternativeto.net/)
+>- alternativeto > [alternativeto](https://alternativeto.net/)
 >- inteltechniques > [Link](https://inteltechniques.com/)
 >- privacytools > [Link](https://www.privacytools.io/)
 >- CHEF-KOCH > [Link](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/)
@@ -38,7 +38,7 @@
 >- exodus-privacy > [Link](https://reports.exodus-privacy.eu.org/en/)
 >- tosdr > [Link](https://tosdr.org/)
 >- haveibeenpwned > [Link](https://haveibeenpwned.com/)
->- VirusTotal > [Link](https://www.virustotal.com/gui/home/upload)
+>- virustotal > [Link](https://www.virustotal.com/gui/home/upload)
 >- ===== Products =====
 >- ryf.fsf > [Link](https://ryf.fsf.org/products)
 
