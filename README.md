@@ -29,6 +29,7 @@
 >- thinklikeacop > [Link](http://www.thinklikeacop.org/images3/index.html)
 >- thenewoil > [Link](https://thenewoil.org)
 >- ===== Tools =====
+>- [alternativeto](https://alternativeto.net/)
 >- inteltechniques > [Link](https://inteltechniques.com/)
 >- privacytools > [Link](https://www.privacytools.io/)
 >- CHEF-KOCH > [Link](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/)
