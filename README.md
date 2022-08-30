@@ -205,7 +205,7 @@
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Brave](https://brave.com/)
 - [ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
-  - Addons [crxextract](https://www.crxextract.com/)
+  - Addons > [crxextract](https://www.crxextract.com/)
 
 ### Search Engines
 - [SearXNG](https://serx.ml/) 🔥
