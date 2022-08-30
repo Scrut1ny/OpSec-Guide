@@ -204,6 +204,7 @@
 - [Tor](https://www.torproject.org/) 🔥
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Brave](https://brave.com/)
+- [ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
 
 ### Search Engines
 - [SearXNG](https://serx.ml/) 🔥
