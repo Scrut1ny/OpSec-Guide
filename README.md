@@ -157,7 +157,7 @@
 | - | - | - |
 | IPv4 Leaks | VPN / SOCKS5 | [IP Test](https://browserleaks.com/ip) |
 | IPv6 Leaks | VPN / SOCKS5 | [IP Test](https://browserleaks.com/ip) |
-| DNS Leaks | 1.1.1.1 & 1.0.0.1 / 2606:4700:4700::1111 & 2606:4700:4700::1001 | [Cloudflair](https://1.1.1.1/) |
+| DNS Leaks | 1.1.1.1 & 1.0.0.1 / 2606:4700:4700::1111 & 2606:4700:4700::1001 | [DNS leak test](https://www.dnsleaktest.com/) |
 | WebRTC Leaks | about:config - media.peerconnection.enabled = false | [WebRTC Test](https://browserleaks.com/webrtc) |
 | HTML5 Geolocation Leaks | about:config - geo.enabled = false | [geo](https://browserleaks.com/geo) |
 | Torrent IP leak | Lock Client to use VPN / SOCKS5 (acts as auto killswitch) | [do-i-leak](https://www.top10vpn.com/tools/do-i-leak/) |
