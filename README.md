@@ -199,7 +199,7 @@
 - [Status](https://status.im/)
 
 ### Privacy oriented DNS
-- [Cloudflair](https://1.1.1.1/) 🔥🔥🔥 (+ bypass ISP cencorship)
+- [Cloudflair](https://1.1.1.1/) 🔥🔥🔥 (+ bypass ISP cencorship & spying)
 - [Quad9](https://www.quad9.net) 🔥
 - [AdGuard](https://adguard.com/en/adguard-dns/overview.html) 🔥
 - [NextDNS](https://nextdns.io) 🔥
