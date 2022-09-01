@@ -199,7 +199,8 @@
 - [Status](https://status.im/)
 
 ### Privacy oriented DNS
-- [Cloudflair](https://1.1.1.1/) 🔥🔥🔥 (+ bypass ISP cencorship & spying)
+- Using a privacy oriented DNS is so important when using the internet, it allows you to bypass your ISP censorship (if any) and block them from seeing what websites you visit! Understanding how DNS works is a essential. The Domain Name System (DNS), the internets phonebook. It translates IP into website.
+- [Cloudflair](https://1.1.1.1/) 🔥🔥🔥
 - [Quad9](https://www.quad9.net) 🔥
 - [AdGuard](https://adguard.com/en/adguard-dns/overview.html) 🔥
 - [NextDNS](https://nextdns.io) 🔥
