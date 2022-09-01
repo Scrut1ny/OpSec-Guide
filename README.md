@@ -138,6 +138,18 @@
 | network.ttr.mode | 2 | DNS-over-HTTPS (DoH) |
 | browser.cache.offline.enable | false | If TRUE, it allows websites to store data on your computer for when you would be offline. |
 
+### Record Sweeper - Opt Out - Suppression - Expunge or seal your criminal record - Etc.
+- File a motion to seal or expunge the court records. Present the order sealing or expunging the record to the website where the content is hosted.
+| `Name + Link` |
+| - |
+| [expeal](https://www.expeal.com/) |
+| [donotcall](https://www.donotcall.gov/) |
+| [intelius](https://www.intelius.com/opt-out/) |
+| [peoplefinders](https://help.peoplefinders.com/hc/en-us) |
+| [beenverified](https://www.beenverified.com/app/optout/search) |
+| [spokeo](https://www.spokeo.com/privacy) |
+| [whitepages](https://www.whitepages.com/suppression-requests) |
+
 ### IP, DNS, WebRTC, HTML5, LEAKING FIX
 | `Type` | Solutions | `Links` |
 | - | - | - |
