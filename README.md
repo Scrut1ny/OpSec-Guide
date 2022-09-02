@@ -134,6 +134,7 @@
   - MAIN DATA HOLDER WEBSITES
     - Use [Temp Mail](https://temp-mail.org/) for email verifcation.
     - [cyberbackgroundchecks](https://www.cyberbackgroundchecks.com/removal)
+      - [CCPA Record Removal Request](https://www.cyberbackgroundchecks.com/ccparemoval)
     - [whitepages](https://www.whitepages.com/suppression-requests)
     - [beenverified](https://www.beenverified.com/app/optout/search)
     - [peoplefinders](https://www.peoplefinders.com/opt-out)
