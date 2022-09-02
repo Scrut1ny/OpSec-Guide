@@ -128,7 +128,7 @@
 ### Record Sweeper - Opt Out - Suppression - Expunge or seal your criminal record - Etc.
 - File a motion to seal or expunge the court records. Present the order sealing or expunging the record to the website where the content is hosted.
 
-- Company + Link
+- Websites & Links
   - Help videos > [Link](https://www.youtube.com/watch?app=desktop&v=2sjqvuHbpLs) & [Link](https://www.youtube.com/watch?app=desktop&v=yv3aBgaMnBU)
     - [Expeal - Erase Your Criminal Record](https://www.expeal.com/)
   - MAIN DATA HOLDER WEBSITES
