@@ -139,6 +139,9 @@
   - [spokeo](https://www.spokeo.com/optout)
   - [whitepages](https://www.whitepages.com/suppression-requests)
   - [cyberbackgroundchecks](https://www.cyberbackgroundchecks.com/removal)
+  
+  - [advancedbackgroundchecks](https://www.advancedbackgroundchecks.com/removal)
+  - [temp-mail](https://temp-mail.org/)
 
 ### Firefox about:config
 | `Option` | `Setting` | `Desc.` |
