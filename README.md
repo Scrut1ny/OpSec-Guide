@@ -131,7 +131,7 @@
 - Company + Link
   - Help videos > [Link](https://www.youtube.com/watch?app=desktop&v=2sjqvuHbpLs) & [Link](https://www.youtube.com/watch?app=desktop&v=yv3aBgaMnBU)
   - [Expeal - Erase Your Criminal Record](https://www.expeal.com/)
-  - [National Do Not Call Registry](https://www.donotcall.gov/)
+  - [National Do Not Call Registry](https://www.donotcall.gov/register.html#step1)
   - [intelius](https://www.intelius.com/opt-out/)
     - [unsubscribe](https://www.intelius.com/unsubscribe) 
   - [peoplefinders](https://www.peoplefinders.com/opt-out)
