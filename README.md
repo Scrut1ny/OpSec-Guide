@@ -138,6 +138,7 @@
   - [beenverified](https://www.beenverified.com/app/optout/search)
   - [spokeo](https://www.spokeo.com/optout)
   - [whitepages](https://www.whitepages.com/suppression-requests)
+  - [cyberbackgroundchecks](https://www.cyberbackgroundchecks.com/removal)
 
 ### Firefox about:config
 | `Option` | `Setting` | `Desc.` |
