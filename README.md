@@ -130,18 +130,18 @@
 
 - Company + Link
   - Help videos > [Link](https://www.youtube.com/watch?app=desktop&v=2sjqvuHbpLs) & [Link](https://www.youtube.com/watch?app=desktop&v=yv3aBgaMnBU)
-  - [Expeal - Erase Your Criminal Record](https://www.expeal.com/)
-  - [National Do Not Call Registry](https://www.donotcall.gov/register.html#step1)
-  - [intelius](https://www.intelius.com/opt-out/)
-    - [unsubscribe](https://www.intelius.com/unsubscribe) 
-  - [peoplefinders](https://www.peoplefinders.com/opt-out)
-  - [beenverified](https://www.beenverified.com/app/optout/search)
-  - [spokeo](https://www.spokeo.com/optout)
-  - [whitepages](https://www.whitepages.com/suppression-requests)
-  - [cyberbackgroundchecks](https://www.cyberbackgroundchecks.com/removal)
-  
-  - [advancedbackgroundchecks](https://www.advancedbackgroundchecks.com/removal)
-  - [temp-mail](https://temp-mail.org/)
+    - [Expeal - Erase Your Criminal Record](https://www.expeal.com/)
+  - MAIN DATA HOLDER WEBSITES
+    - Use [Temp Mail](https://temp-mail.org/) for email verifcation.
+    - [cyberbackgroundchecks](https://www.cyberbackgroundchecks.com/removal)
+    - [whitepages](https://www.whitepages.com/suppression-requests)
+    - [beenverified](https://www.beenverified.com/app/optout/search)
+    - [peoplefinders](https://www.peoplefinders.com/opt-out)
+    - [spokeo](https://www.spokeo.com/optout)
+    - [intelius](https://www.intelius.com/opt-out/)
+      - [unsubscribe](https://www.intelius.com/unsubscribe) 
+    - [advancedbackgroundchecks](https://www.advancedbackgroundchecks.com/removal)
+    - [National Do Not Call Registry](https://www.donotcall.gov/register.html#step1)
 
 ### Firefox about:config
 | `Option` | `Setting` | `Desc.` |
