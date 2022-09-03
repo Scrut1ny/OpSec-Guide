@@ -72,13 +72,13 @@
 
 >First, middle, & last name, Relatives, Neighbors, Residential Address, Past Locations, current age, birth year, Party Affiliation, Registered to Vote In, Registration Date, Voter Status, House District, Senate District, School Board District, etc are ALL linked to your voter registration! This critical info is exposed to the whole world for easy accessibility; because you're registered to vote. Make sure to opt out when asked if you want to vote, if you're already registered use the links below to assist you. Make sure to also expunge your past history with the law and remove all info from sites that display it. - [Voter Registration Records](https://voterrecords.com/)
 
-| `State` | `Authorization to Cancel Registration` | `Expunge Criminal History` |
-| - | - | - |
-| Alabama | [Voter Registration](https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote) - [Link](https://www.sos.alabama.gov/sites/default/files/voter_registration_related_forms/FINAL%20-%20Voter%20Request%20to%20Remove%20Name%20from%20Voter%20List%20-%202021-11-23.pdf) | [Link]() |
+| `State` | `Authorization to Cancel Registration` | `USA Voter Registration State Check` | `Expunge Criminal History` |
+| - | - | - | - |
+| Alabama | [Voter Registration](https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote) - [Link](https://www.sos.alabama.gov/sites/default/files/voter_registration_related_forms/FINAL%20-%20Voter%20Request%20to%20Remove%20Name%20from%20Voter%20List%20-%202021-11-23.pdf) | [Link](https://myinfo.alabamavotes.gov/voterview) | [Link]() |
 | Alaska | [Voter Registration](https://www.elections.alaska.gov/Core/AKvoterinformation.php) - [Link](https://www.elections.alaska.gov/Core/cancelyouralaskavoterregistration.php)| [Link]() |
-| Arizona | [Voter Registration](https://azsos.gov/elections/voting-election/register-vote-or-update-current-voter-information) - []() | [Link]() |
-| Arkansas | [Voter Registration](https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information) - [Link]() | [Link]() |
-| California | [Voter Registration](https://www.sos.ca.gov/elections) - [Link](https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form.pdf) | [Link]() |
+| Arizona | [Voter Registration](https://azsos.gov/elections/voting-election/register-vote-or-update-current-voter-information) - []() | [Link]() | [Link]() |
+| Arkansas | [Voter Registration](https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information) - [Link]() | [Link]() | [Link]() |
+| California | [Voter Registration](https://www.sos.ca.gov/elections) - [Link](https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form.pdf) | [Link]() | [Link]() |
 | Colorado | [Voter Registration](https://www.coloradosos.gov/pubs/elections/main.html) - [Link](https://www.sos.state.co.us/pubs/elections/vote/withdrawVoterRegEnglish.pdf) | [Link]() |
 | Connecticut | [Voter Registration]() - []() | [Link]() |
 | Delaware  | [Voter Registration]() - [Link](https://elections.delaware.gov/pubs/pdfs/cancelreg_registrant.pdf) | [Link]() |
