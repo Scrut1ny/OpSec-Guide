@@ -142,6 +142,7 @@
       - [intelius](https://www.intelius.com/opt-out/)
         - [unsubscribe](https://www.intelius.com/unsubscribe)
       - [mylife](https://www.mylife.com/ccpa/index.pubview)
+      - [xlek](https://www.xlek.com/optout.php)
       - [advancedbackgroundchecks](https://www.advancedbackgroundchecks.com/removal)
       - [National Do Not Call Registry](https://www.donotcall.gov/register.html#step1)
 
