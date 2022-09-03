@@ -133,17 +133,17 @@
     - [Expeal - Erase Your Criminal Record](https://www.expeal.com/)
   - Main online database websites
     - Use [Temp Mail](https://temp-mail.org/) for email verifcation.
-    - [cyberbackgroundchecks](https://www.cyberbackgroundchecks.com/removal)
-      - [CCPA Record Removal Request](https://www.cyberbackgroundchecks.com/ccparemoval)
-    - [whitepages](https://www.whitepages.com/suppression-requests)
-    - [beenverified](https://www.beenverified.com/app/optout/search)
-    - [peoplefinders](https://www.peoplefinders.com/opt-out)
-    - [spokeo](https://www.spokeo.com/optout)
-    - [intelius](https://www.intelius.com/opt-out/)
-      - [unsubscribe](https://www.intelius.com/unsubscribe)
-    - [mylife](https://www.mylife.com/ccpa/index.pubview)
-    - [advancedbackgroundchecks](https://www.advancedbackgroundchecks.com/removal)
-    - [National Do Not Call Registry](https://www.donotcall.gov/register.html#step1)
+      - [cyberbackgroundchecks](https://www.cyberbackgroundchecks.com/removal)
+        - [CCPA Record Removal Request](https://www.cyberbackgroundchecks.com/ccparemoval)
+      - [whitepages](https://www.whitepages.com/suppression-requests)
+      - [beenverified](https://www.beenverified.com/app/optout/search)
+      - [peoplefinders](https://www.peoplefinders.com/opt-out)
+      - [spokeo](https://www.spokeo.com/optout)
+      - [intelius](https://www.intelius.com/opt-out/)
+        - [unsubscribe](https://www.intelius.com/unsubscribe)
+      - [mylife](https://www.mylife.com/ccpa/index.pubview)
+      - [advancedbackgroundchecks](https://www.advancedbackgroundchecks.com/removal)
+      - [National Do Not Call Registry](https://www.donotcall.gov/register.html#step1)
 
 ### Firefox about:config
 | `Option` | `Setting` | `Desc.` |
