@@ -131,7 +131,7 @@
 - Websites & Links
   - Help videos > [Link](https://www.youtube.com/watch?app=desktop&v=2sjqvuHbpLs) & [Link](https://www.youtube.com/watch?app=desktop&v=yv3aBgaMnBU)
     - [Expeal - Erase Your Criminal Record](https://www.expeal.com/)
-  - MAIN DATA HOLDER WEBSITES
+  - Main online database websites
     - Use [Temp Mail](https://temp-mail.org/) for email verifcation.
     - [cyberbackgroundchecks](https://www.cyberbackgroundchecks.com/removal)
       - [CCPA Record Removal Request](https://www.cyberbackgroundchecks.com/ccparemoval)
