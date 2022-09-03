@@ -75,13 +75,13 @@
 | `State` | `Authorization to Cancel Registration` | `USA Voter Registration State Check` | `Expunge Criminal History` |
 | - | - | - | - |
 | Alabama | [Voter Registration](https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote) - [Link](https://www.sos.alabama.gov/sites/default/files/voter_registration_related_forms/FINAL%20-%20Voter%20Request%20to%20Remove%20Name%20from%20Voter%20List%20-%202021-11-23.pdf) | [Link](https://myinfo.alabamavotes.gov/voterview) | [Link]() |
-| Alaska | [Voter Registration](https://www.elections.alaska.gov/Core/AKvoterinformation.php) - [Link](https://www.elections.alaska.gov/Core/cancelyouralaskavoterregistration.php)| [Link]() |
-| Arizona | [Voter Registration](https://azsos.gov/elections/voting-election/register-vote-or-update-current-voter-information) - []() | [Link]() | [Link]() |
-| Arkansas | [Voter Registration](https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information) - [Link]() | [Link]() | [Link]() |
-| California | [Voter Registration](https://www.sos.ca.gov/elections) - [Link](https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form.pdf) | [Link]() | [Link]() |
-| Colorado | [Voter Registration](https://www.coloradosos.gov/pubs/elections/main.html) - [Link](https://www.sos.state.co.us/pubs/elections/vote/withdrawVoterRegEnglish.pdf) | [Link]() |
-| Connecticut | [Voter Registration]() - []() | [Link]() |
-| Delaware  | [Voter Registration]() - [Link](https://elections.delaware.gov/pubs/pdfs/cancelreg_registrant.pdf) | [Link]() |
+| Alaska | [Voter Registration](https://www.elections.alaska.gov/Core/AKvoterinformation.php) - [Link](https://www.elections.alaska.gov/Core/cancelyouralaskavoterregistration.php)| [Link](https://myvoterinformation.alaska.gov/) | [Link]() |
+| Arizona | [Voter Registration](https://azsos.gov/elections/voting-election/register-vote-or-update-current-voter-information) - []() | [Link](https://my.arizona.vote/WhereToVote.aspx?s=individual) | [Link]() |
+| Arkansas | [Voter Registration](https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information) - [Link]() | [Link](https://www.voterview.ar-nova.org/VoterView) | [Link]() |
+| California | [Voter Registration](https://www.sos.ca.gov/elections) - [Link](https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form.pdf) | [Link](https://voterstatus.sos.ca.gov/) | [Link]() |
+| Colorado | [Voter Registration](https://www.coloradosos.gov/pubs/elections/main.html) - [Link](https://www.sos.state.co.us/pubs/elections/vote/withdrawVoterRegEnglish.pdf) | [Link](https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml) | [Link]() |
+| Connecticut | [Voter Registration]() - []() | [Link](https://portaldir.ct.gov/sots/lookup.aspx) | [Link]() |
+| Delaware  | [Voter Registration]() - [Link](https://elections.delaware.gov/pubs/pdfs/cancelreg_registrant.pdf) | [Link](https://ivote.de.gov/VoterView) | [Link]() |
 | Florida | [Voter Registration]() - []() | [Link]() |
 | Georgia | [Voter Registration]() - []() | [Link]() |
 | Hawaii | [Voter Registration]() - []() | [Link]() |
