@@ -140,7 +140,8 @@
     - [peoplefinders](https://www.peoplefinders.com/opt-out)
     - [spokeo](https://www.spokeo.com/optout)
     - [intelius](https://www.intelius.com/opt-out/)
-      - [unsubscribe](https://www.intelius.com/unsubscribe) 
+      - [unsubscribe](https://www.intelius.com/unsubscribe)
+    - [mylife](https://www.mylife.com/ccpa/index.pubview)
     - [advancedbackgroundchecks](https://www.advancedbackgroundchecks.com/removal)
     - [National Do Not Call Registry](https://www.donotcall.gov/register.html#step1)
 
