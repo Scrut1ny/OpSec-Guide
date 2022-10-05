@@ -48,6 +48,10 @@
     - Extreme Privacy: What It Takes to Disappear [Amazon](https://www.amazon.com/dp/B09W78GW2T) - [z-lib](https://b-ok.cc/book/21837549/1d1353)
     - Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information [Amazon](https://www.amazon.com/dp/B09PHL6Q4G) - [z-lib](https://b-ok.cc/book/21083950/e31b72)
 
+Ripping Blu-ray / DVD / CD Media
+- MakeMKV - [Website](https://www.makemkv.com/)
+- HandBrake - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
+
 ### Fake Info
 | `Fake Info` | `Links` |
 |-|-|
