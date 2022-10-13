@@ -277,7 +277,9 @@ Ripping Blu-ray / DVD / CD Media
   - [maltronics](https://maltronics.com/)
   - [usbkill](https://usbkill.com/)
   - [Flipper Zero](https://flipperzero.one/)
-    - [GitHub](https://github.com/flipperdevices)
+    - [GitHub ](https://github.com/flipperdevices)
+        - [firmware](https://github.com/flipperdevices/flipperzero-firmware)
+        - [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
 - Websites / Software
   - [3u](https://www.3u.com/)
   - [safing](https://safing.io/portmaster/)
