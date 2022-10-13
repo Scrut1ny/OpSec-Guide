@@ -12,6 +12,7 @@
 - [best-free-proxies-websites](https://github.com/Scrut1ny/Ultimate-OpSec-Guide#best-free-proxies-websites)
 - [ff-extentions](https://github.com/Scrut1ny/Ultimate-OpSec-Guide#ff-extentions)
 - [tor-settings--sites](https://github.com/Scrut1ny/Ultimate-OpSec-Guide#6---tor-settings--sites)
+- [Purchasing Firearms](https://github.com/Scrut1ny/Ultimate-OpSec-Guide#firearms)
 
 ### Privacy solutions
 >- ===== Blogs =====
