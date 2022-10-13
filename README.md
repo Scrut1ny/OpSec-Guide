@@ -342,7 +342,7 @@ Ripping Blu-ray / DVD / CD Media
 ### Firearms
 - Buy from private sellers NOT FFL so the ATF & FBI won't know.
 - Need to be 18+ to buy from private sellers. Remember, private sellers can pick what age they want to sell to. Pay all in cash.
-- [Gun Listings](https://gunlistings.org/)
+- [Gun Listings](https://gunlistings.org)
 
 ![wp4184508-edward-snowden-wallpapers](https://user-images.githubusercontent.com/53458032/174272844-25118573-af2a-4d6d-a140-621ebeb6e750.jpg)
 ![wp4184517-edward-snowden-wallpapers](https://user-images.githubusercontent.com/53458032/174272871-864beb01-fab1-439d-b7da-d660dab0fa1e.jpg)
