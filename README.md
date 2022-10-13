@@ -49,10 +49,14 @@
     - Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information [Amazon](https://www.amazon.com/dp/B09PHL6Q4G) - [z-lib](https://b-ok.cc/book/21083950/e31b72)
 
 Ripping Blu-ray / DVD / CD Media
-- MakeMKV - [Website](https://www.makemkv.com/)
-    - Key: `T-atm47dTZbMqXw1QucuIdgpDYCIq2HIsT5mQeOONtu_7oY9TJNJeiMEiuB07SC8YTiJ`
-    - SDFtool Flasher - [Link](https://forum.makemkv.com/forum/viewtopic.php?p=94848)
-- HandBrake - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
+- Software
+    - MakeMKV - [Website](https://www.makemkv.com/)
+        - Key: `T-atm47dTZbMqXw1QucuIdgpDYCIq2HIsT5mQeOONtu_7oY9TJNJeiMEiuB07SC8YTiJ`
+        - SDFtool Flasher - [Link](https://forum.makemkv.com/forum/viewtopic.php?p=94848)
+    - HandBrake - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
+- Hardware
+    - [#1 - ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)
+    - [#2 - ASUS BW-16D1X-U](https://www.amazon.com/dp/B071VP89X1)
 
 ### Fake Info
 | `Fake Info` | `Links` |
