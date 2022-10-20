@@ -44,7 +44,7 @@
 >- ===== Products =====
 >- ryf.fsf > [Link](https://ryf.fsf.org/products)
 
-### Best Privacy/Security YouTubers ("Controversial" ones included)
+### Best Tech/Privacy/Security YouTubers ("Controversial" ones included)
 - "Noncontroversial"
     - [Techlore](https://www.youtube.com/c/Techlore)
     - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips)
