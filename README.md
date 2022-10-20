@@ -44,6 +44,25 @@
 >- ===== Products =====
 >- ryf.fsf > [Link](https://ryf.fsf.org/products)
 
+### Best Privacy/Security YouTubers ("Controversial" ones included)
+- "Noncontroversial"
+    - [Techlore](https://www.youtube.com/c/Techlore)
+    - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips)
+    - [Surveillance Report](https://www.youtube.com/c/SurveillanceReport)
+    - [Hak5](https://www.youtube.com/c/hak5)
+    - [Seytonic](https://www.youtube.com/c/Seytonic)
+    - [David Bombal](https://www.youtube.com/c/DavidBombal)
+    - [SomeOrdinaryGamers](https://www.youtube.com/c/SomeOrdinaryGamers)
+    - [Sir Sudo](https://www.youtube.com/c/SirSudo)
+    - [ThioJoe](https://www.youtube.com/c/ThioJoe)
+    - [spacehuhn](https://www.youtube.com/c/spacehuhn)
+    - [SecurityFWD](https://www.youtube.com/c/SecurityFWD)
+- "Controversial" - (Best ones in my opinion.)
+    - [The Hated One](https://www.youtube.com/c/TheHatedOne)
+    - [Mental Outlaw](https://www.youtube.com/c/MentalOutlaw)
+    - [Luke Smith](https://www.youtube.com/c/LukeSmithxyz)
+    - [Rob Braxman Tech](https://www.youtube.com/c/BraxMe)
+
 ### Books / Media
 - Michael Bazzell
     - Extreme Privacy: What It Takes to Disappear [Amazon](https://www.amazon.com/dp/B09W78GW2T) - [z-lib](https://b-ok.cc/book/21837549/1d1353)
