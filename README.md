@@ -56,6 +56,7 @@
     - [Sir Sudo](https://www.youtube.com/c/SirSudo)
     - [ThioJoe](https://www.youtube.com/c/ThioJoe)
     - [spacehuhn](https://www.youtube.com/c/spacehuhn)
+    - [John Hammond](https://www.youtube.com/c/JohnHammond010)
     - [SecurityFWD](https://www.youtube.com/c/SecurityFWD)
 - "Controversial" - (Best ones in my opinion.)
     - [The Hated One](https://www.youtube.com/c/TheHatedOne)
