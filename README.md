@@ -65,6 +65,9 @@
     - [Rob Braxman Tech](https://www.youtube.com/c/BraxMe)
 
 ### Books / Media
+
+- [libgen](https://libgen.is/)
+
 - Michael Bazzell
     - Extreme Privacy: What It Takes to Disappear [Amazon](https://www.amazon.com/dp/B09W78GW2T) - [z-lib](https://b-ok.cc/book/21837549/1d1353)
     - Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information [Amazon](https://www.amazon.com/dp/B09PHL6Q4G) - [z-lib](https://b-ok.cc/book/21083950/e31b72)
