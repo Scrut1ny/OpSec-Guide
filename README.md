@@ -67,6 +67,7 @@
 ### Books / Media
 
 - [libgen](https://libgen.is/)
+- [Anna’s Archive](https://annas-archive.org/)
 
 - Michael Bazzell
     - Extreme Privacy: What It Takes to Disappear [Amazon](https://www.amazon.com/dp/B09W78GW2T) - [z-lib](https://b-ok.cc/book/21837549/1d1353)
