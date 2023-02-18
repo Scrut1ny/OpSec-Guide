@@ -108,83 +108,12 @@ Ripping Blu-ray / DVD / CD Media
 | Police can check celltower ping at time of crime | [Link](https://www.youtube.com/watch?v=ASYm-3NJ-GA&t=40s) |
 | Police are tracking you and your license plates | [Link](https://www.youtube.com/watch?v=DH7edXaZS0A) |
 
-### Cancel state voter registration record. ~ Opt-Out
-
->First, middle, & last name, Relatives, Neighbors, Residential Address, Past Locations, current age, birth year, Party Affiliation, Registered to Vote In, Registration Date, Voter Status, House District, Senate District, School Board District, etc are ALL linked to your voter registration! This critical info is exposed to the whole world for easy accessibility; because you're registered to vote. Make sure to opt out when asked if you want to vote, if you're already registered use the links below to assist you. Make sure to also expunge your past history with the law and remove all info from sites that display it. - [Voter Registration Records](https://voterrecords.com/)
-
-| `State` | `Authorization to Cancel Registration` | `USA Voter Registration State Check` | `Expunge Criminal History` |
-| - | - | - | - |
-| Alabama | [Voter Registration](https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote) - [Link](https://www.sos.alabama.gov/sites/default/files/voter_registration_related_forms/FINAL%20-%20Voter%20Request%20to%20Remove%20Name%20from%20Voter%20List%20-%202021-11-23.pdf) | [Link](https://myinfo.alabamavotes.gov/voterview) | [Link]() |
-| Alaska | [Voter Registration](https://www.elections.alaska.gov/Core/AKvoterinformation.php) - [Link](https://www.elections.alaska.gov/Core/cancelyouralaskavoterregistration.php)| [Link](https://myvoterinformation.alaska.gov/) | [Link]() |
-| Arizona | [Voter Registration](https://azsos.gov/elections/voting-election/register-vote-or-update-current-voter-information) - []() | [Link](https://my.arizona.vote/WhereToVote.aspx?s=individual) | [Link]() |
-| Arkansas | [Voter Registration](https://www.sos.arkansas.gov/elections/voter-information/voter-registration-information) - [Link]() | [Link](https://www.voterview.ar-nova.org/VoterView) | [Link]() |
-| California | [Voter Registration](https://www.sos.ca.gov/elections) - [Link](https://elections.cdn.sos.ca.gov/pdfs/cancellation-request-form.pdf) | [Link](https://voterstatus.sos.ca.gov/) | [Link]() |
-| Colorado | [Voter Registration](https://www.coloradosos.gov/pubs/elections/main.html) - [Link](https://www.sos.state.co.us/pubs/elections/vote/withdrawVoterRegEnglish.pdf) | [Link](https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml) | [Link]() |
-| Connecticut | [Voter Registration]() - []() | [Link](https://portaldir.ct.gov/sots/lookup.aspx) | [Link]() |
-| Delaware  | [Voter Registration]() - [Link](https://elections.delaware.gov/pubs/pdfs/cancelreg_registrant.pdf) | [Link](https://ivote.de.gov/VoterView) | [Link]() |
-| Florida | [Voter Registration]() - []() | [Link]() |
-| Georgia | [Voter Registration]() - []() | [Link]() |
-| Hawaii | [Voter Registration]() - []() | [Link]() |
-| Idaho | [Voter Registration]() - []() | [Link]() |
-| Illinois | [Voter Registration]() - []() | [Link]() |
-| Indiana | [Voter Registration](https://www.in.gov/sos/elections/voter-information/register-to-vote/) - [Link](https://www.indy.gov/activity/cancel-voter-registration) | [Link](https://www.in.gov/isp/criminal-history-services/expunge-criminal-history/) |
-| Iowa | [Voter Registration]() - []() | [Link]() |
-| Kansas | [Voter Registration]() - []() | [Link]() |
-| Kentucky | [Voter Registration]() - []() | [Link]() |
-| Louisiana | [Voter Registration]() - [Link](https://www.sos.la.gov/ElectionsAndVoting/PublishedDocuments/CancelVoterRegistrationForm.pdf) | [Link]() |
-| Maine | [Voter Registration]() - []() | [Link]() |
-| Maryland | [Voter Registration]() - []() | [Link]() |
-| Massachusetts | [Voter Registration]() - []() | [Link]() |
-| Michigan | [Voter Registration]() - []() | [Link]() |
-| Minnesota | [Voter Registration]() - []() | [Link]() |
-| Mississippi | [Voter Registration]() - [Link](https://www.sos.ms.gov/sites/default/files/yall_vote_icons/yall_vote_pdfs/Voter_Registration_Cancellation_Form.pdf) | [Link]() |
-| Missouri | [Voter Registration]() - []() | [Link]() |
-| Montana | [Voter Registration]() - []() | [Link]() |
-| Nebraska | [Voter Registration]() - [Link](https://sos.nebraska.gov/sites/sos.nebraska.gov/files/doc/elections/vr-cancellation-fillable.pdf) | [Link]() |
-| Nevada | [Voter Registration]() - [Link](https://www.nvsos.gov/SOSVoterServices/Cancel/CancelStep0.aspx) | [Link]() |
-| New Hampshire | [Voter Registration]() - []() | [Link]() |
-| New Jersey | [Voter Registration]() - []() | [Link]() |
-| New Mexico | [Voter Registration](https://www.sos.state.nm.us/voting-and-elections/voter-information-portal/county-clerk-information/) - [Link](https://api.realfile.rtsclients.com/PublicFiles/ee3072ab0d43456cb15a51f7d82c77a2/541eb935-25d1-491d-b1b1-fa0d140e3631/voter_registration_cancellation_form_fillable.pdf) | [Link]() |
-| New York | [Voter Registration]() - []() | [Link]() |
-| North Carolina | [Voter Registration]() - [Link](https://s3.amazonaws.com/dl.ncsbe.gov/sboe/forms/Cancellation%20of%20Voter%20Notice.pdf) | [Link]() |
-| North Dakota | [Voter Registration]() - []() | [Link]() |
-| Ohio | [Voter Registration]() - [Link](https://www.ohiosos.gov/globalassets/elections/forms/10-a_english.pdf) | [Link]() |
-| Oklahoma | [Voter Registration]() - [Link](https://oklahoma.gov/content/dam/ok/en/elections/forms/vr-cancel.pdf) | [Link]() |
-| Oregon | [Voter Registration]() - []() | [Link]() |
-| Pennsylvania | [Voter Registration]() - [Link](https://www.vote.pa.gov/Resources/Documents/Voter%20Request%20to%20Cancel%20Registration_English.pdf) | [Link]() |
-| Rhode Island | [Voter Registration]() - []() | [Link]() |
-| South Carolina | [Voter Registration]() - []() | [Link]() |
-| South Dakota | [Voter Registration]() - []() | [Link]() |
-| Tennessee | [Voter Registration]() - []() | [Link]() |
-| Texas | [Voter Registration](https://www.sos.state.tx.us/elections/vr/index.shtml) - [Link](https://www.sos.state.tx.us/elections/forms/bw5-3.pdf) | [Link]() |
-| Utah | [Voter Registration](https://secure.utah.gov/voterreg/index.html) - [Link](https://elections.utah.gov/Media/Default/Documents/Utah%20Withholding%20Form.pdf) | [Link]() |
-| Vermont | [Voter Registration]() - []() | [Link]() |
-| Virginia | [Voter Registration]() - [Link](https://www.elections.virginia.gov/media/formswarehouse/veris-voter-registration/cancellation/ELECT-427A.pdf) | [Link]() |
-| Washington | [Voter Registration]() - [Link](https://www.sos.wa.gov/_assets/elections/vr_cancellation_form_en.pdf) | [Link]() |
-| West Virginia | [Voter Registration]() - []() | [Link]() |
-| Wisconsin | [Voter Registration]() - []() | [Link]() |
-| Wyoming | [Voter Registration]() - []() | [Link]() |
-
 ### Record Sweeper - Opt Out - Suppression - Expunge or seal your criminal record - Etc.
 - File a motion to seal or expunge the court records. Present the order sealing or expunging the record to the website where the content is hosted.
 
 - Websites & Links
   - Help videos > [Link](https://www.youtube.com/watch?app=desktop&v=2sjqvuHbpLs) & [Link](https://www.youtube.com/watch?app=desktop&v=yv3aBgaMnBU)
     - [Expeal - Erase Your Criminal Record](https://www.expeal.com/)
-  - Main online database websites
-    - Use [Temp Mail](https://temp-mail.org/) for email verifcation.
-      - [cyberbackgroundchecks](https://www.cyberbackgroundchecks.com/removal)
-        - [CCPA Record Removal Request](https://www.cyberbackgroundchecks.com/ccparemoval)
-      - [whitepages](https://www.whitepages.com/suppression-requests)
-      - [beenverified](https://www.beenverified.com/app/optout/search)
-      - [peoplefinders](https://www.peoplefinders.com/opt-out)
-      - [spokeo](https://www.spokeo.com/optout)
-      - [intelius](https://www.intelius.com/opt-out/)
-        - [unsubscribe](https://www.intelius.com/unsubscribe)
-      - [mylife](https://www.mylife.com/ccpa/index.pubview)
-      - [xlek](https://www.xlek.com/optout.php)
-      - [advancedbackgroundchecks](https://www.advancedbackgroundchecks.com/removal)
-      - [National Do Not Call Registry](https://www.donotcall.gov/register.html#step1)
 
 ### Firefox about:config
 | `Option` | `Setting` | `Desc.` |
