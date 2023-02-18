@@ -75,7 +75,7 @@
 
 Ripping Blu-ray / DVD / CD Media
 - Software
-    - MakeMKV - [Website](https://www.makemkv.com/)
+    - MakeMKV - [Website](https://makemkv.com/)
         - Key: `T-atm47dTZbMqXw1QucuIdgpDYCIq2HIsT5mQeOONtu_7oY9TJNJeiMEiuB07SC8YTiJ`
         - SDFtool Flasher - [Link](https://forum.makemkv.com/forum/viewtopic.php?p=94848)
     - HandBrake - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
