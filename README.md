@@ -290,8 +290,6 @@ Ripping Blu-ray / DVD / CD Media
 | Mullvad | o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion |
 | The Pirate Bay | piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion |
 | Proton Mail | protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion |
-| Gun store (might be real) | gunsiqvaicyzyq7xqm2c3xshl6pjegtxjf3m3ldms2fo52lqvrmvbyyd.onion |
-| z-lib | loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion |
 
 ### Firearms
 - Buy from private sellers NOT FFL so the ATF & FBI won't know.
