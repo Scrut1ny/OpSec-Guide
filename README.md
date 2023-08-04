@@ -65,27 +65,27 @@
     - [Rob Braxman Tech](https://www.youtube.com/c/BraxMe)
 
 ### Books / Media
-  - Library Genesis – [Link](https://libgen.is/)
-  - Wikibooks – [Link](https://www.wikibooks.org/)
-  - PDF Drive – [Link](https://www.pdfdrive.com/)
-  - Project Gutenberg – [Link](https://www.gutenberg.org/)
-  - Anna's Archive – [Link](https://www.annas-archive.org/)
-  - FreeBookSpot – [Link](https://www.freebookspot.club/)
-  - Internet Archive – [Link](https://archive.org/details/texts?tab=collection)
+  - [Library Genesis](https://libgen.is/)
+  - [Wikibooks](https://www.wikibooks.org/)
+  - [PDF Drive](https://www.pdfdrive.com/)
+  - [Project Gutenberg](https://www.gutenberg.org/)
+  - [Anna's Archive](https://www.annas-archive.org/)
+  - [FreeBookSpot](https://www.freebookspot.club/)
+  - [Internet Archive](https://archive.org/details/texts?tab=collection)
 
-- Michael Bazzell
+  - Michael Bazzell
     - Extreme Privacy: What It Takes to Disappear [Amazon](https://www.amazon.com/dp/B09W78GW2T) - [Anna’s Archive](https://www.annas-archive.org/md5/3bca9891bf832a50e0f8d7aee7555eb3)
     - OSINT Techniques: Resources for Uncovering Online Information [Amazon](https://www.amazon.com/dp/B0BRDLYX75) - [Anna’s Archive](https://www.annas-archive.org/md5/14597c8090f6d0eed2f9d8d2480f0b24)
 
-Ripping Blu-ray / DVD / CD Media
-- Software
-    - MakeMKV - [Website](https://makemkv.com/)
-        - Key: `T-atm47dTZbMqXw1QucuIdgpDYCIq2HIsT5mQeOONtu_7oY9TJNJeiMEiuB07SC8YTiJ`
-        - SDFtool Flasher - [Link](https://forum.makemkv.com/forum/viewtopic.php?p=94848)
+  - Ripping Blu-ray / DVD / CD Media
+    - Software
+        - MakeMKV - [Website](https://makemkv.com/)
+            - Key: `T-atm47dTZbMqXw1QucuIdgpDYCIq2HIsT5mQeOONtu_7oY9TJNJeiMEiuB07SC8YTiJ`
+            - SDFtool Flasher - [Link](https://forum.makemkv.com/forum/viewtopic.php?p=94848)
     - HandBrake - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
-- Hardware
-    - [#1 - ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)
-    - [#2 - ASUS BW-16D1X-U](https://www.amazon.com/dp/B071VP89X1)
+    - Hardware
+        - [#1 - ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)
+        - [#2 - ASUS BW-16D1X-U](https://www.amazon.com/dp/B071VP89X1)
 
 ### Fake Info
 | `Fake Info` | `Links` |
