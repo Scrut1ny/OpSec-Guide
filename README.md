@@ -65,13 +65,13 @@
     - [Rob Braxman Tech](https://www.youtube.com/c/BraxMe)
 
 ### Books / Media
-    - Library Genesis – [Link](https://libgen.is/)
-    - Wikibooks – [Link](https://www.wikibooks.org/)
-    - PDF Drive – [Link](https://www.pdfdrive.com/)
-    - Project Gutenberg – [Link](https://www.gutenberg.org/)
-    - Anna's Archive – [Link](https://www.annas-archive.org/)
-    - FreeBookSpot – [Link](https://www.freebookspot.club/)
-    - Internet Archive – [Link](https://archive.org/details/texts?tab=collection)
+  - Library Genesis – [Link](https://libgen.is/)
+  - Wikibooks – [Link](https://www.wikibooks.org/)
+  - PDF Drive – [Link](https://www.pdfdrive.com/)
+  - Project Gutenberg – [Link](https://www.gutenberg.org/)
+  - Anna's Archive – [Link](https://www.annas-archive.org/)
+  - FreeBookSpot – [Link](https://www.freebookspot.club/)
+  - Internet Archive – [Link](https://archive.org/details/texts?tab=collection)
 
 - Michael Bazzell
     - Extreme Privacy: What It Takes to Disappear [Amazon](https://www.amazon.com/dp/B09W78GW2T) - [Anna’s Archive](https://www.annas-archive.org/md5/3bca9891bf832a50e0f8d7aee7555eb3)
