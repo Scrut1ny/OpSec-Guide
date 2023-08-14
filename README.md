@@ -272,18 +272,6 @@
 | network.ttr.mode | 2 | DNS-over-HTTPS (DoH) |
 | browser.cache.offline.enable | false | If TRUE, it allows websites to store data on your computer for when you would be offline. |
 
-| Name | Link |
-| - | - |
-| Dread | dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion |
-| Raddle | c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion |
-| Darknetlive | darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion |
-| BreachedForums | breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion |
-| Pornhub | pornhubvybmsymdol4iibwgwtkpwmeyd6luq2gxajgjzfjvotyt5zhyd.onion |
-| elfqrin | elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion |
-| Mullvad | o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion |
-| The Pirate Bay | piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion |
-| Proton Mail | protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion |
-
 ### Firearms
 - Buy from private sellers at local gun shows, not FFL.
 - [Gun Listings](https://www.gunlistings.org/)
