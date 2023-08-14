@@ -156,15 +156,17 @@
 ### FF Addons
 |`Name`|`Link`|`Desc.`|
 |-|-|-|
-|uBlock Origin|[Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory.|
+|uBlock Origin|[Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory.| 🔥
 |User-Agent Switcher and Manager|[Link](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)|Spoof websites trying to gather information about your web navigation—like your browser type and operating system—to deliver distinct content you may not want.|
 |Tampermonkey|[Link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)|Tampermonkey is the world's most popular userscript manager.|
 |SponsorBlock|[Link](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)|Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors. You can also report sponsors in videos.|
 |KeePassXC-Browser|[Link](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)|Official browser plugin for the KeePassXC password manager|
 
 ### Mail Services
-- [Proton](https://proton.me/)
+- [Proton](https://proton.me/) 🔥
 - [tutanota](https://tutanota.com/)
+- [DNMX](https://dnmx.org/)
+    - [Tor Link](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/)
 - [startmail](https://www.startmail.com/)
 - [mailbox](https://mailbox.org/)
 - [Disroot (invite only)](https://cloud.disroot.org/login)
@@ -172,16 +174,16 @@
 - [RiseUp (invite only)](https://riseup.net/)
 
 ### Instant Messengers
-- [XMPP](https://xmpp.org/)
-- [Signal](https://signal.org/)
-- [Session](https://getsession.org/)
-- [Briar](https://briarproject.org/)
+- [XMPP](https://xmpp.org/) 🔥
+- [Signal](https://signal.org/) 🔥
+- [Session](https://getsession.org/) 🔥
+- [Briar](https://briarproject.org/) 🔥
 - [Jami](https://jami.net/)
 - [Status](https://status.im/)
 
 ### Privacy oriented DNS
 - Using a privacy respecting oriented DNS is very important when using the internet, it allows you to bypass your ISP censorship (if any) and block them from seeing what websites you visit! Understanding how DNS works is a essential. The Domain Name System (DNS), the internets phonebook. DNS translates domain names to IP addresses so browsers can load Internet resources.
-- [Quad9](https://www.quad9.net)
+- [Quad9](https://www.quad9.net) 🔥
 - [Cloudflair](https://1.1.1.1/)
 - [NextDNS](https://nextdns.io)
 - [AdGuard](https://adguard.com/en/adguard-dns/overview.html)
@@ -196,7 +198,7 @@
 - [blahdns](https://blahdns.com/)
 
 ### Web Browsers
-- [librewolf](https://librewolf.net/)
+- [librewolf](https://librewolf.net/) 🔥
 - [Tor](https://www.torproject.org/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Brave](https://brave.com/)
@@ -211,11 +213,11 @@
 - [DuckDuckGo](https://duckduckgo.com/)
 
 ### VPNs
-- [Mullvad](https://mullvad.net/)
+- [Mullvad](https://mullvad.net/) 🔥
   - [Onion Link](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/)
 - [IVPN](https://www.ivpn.net/)
 - [OpenVPN](https://openvpn.net/vpn-client/)
-- [Courvix](https://courvix.com/vpn)
+- [VPN.XXX](https://www.vpn.xxx/)
 
 ### Leaks & Tests
 - [dnsleaktest](https://www.dnsleaktest.com/)
