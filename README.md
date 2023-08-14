@@ -1,19 +1,5 @@
 # PRIVACY & SECURITY
 
-## QUICK LINKS
-
-- [privacy-solutions](https://github.com/Scrut1ny/Ultimate-OpSec-Guide#privacy-solutions)
-- [Fake Info](https://github.com/Scrut1ny/Ultimate-OpSec-Guide#fake-info)
-- [wlan-ssid-opt-out](https://github.com/Scrut1ny/Ultimate-OpSec-Guide#wlan-ssid-opt-out)
-- [governement--law-enforcement](https://github.com/Scrut1ny/Ultimate-OpSec-Guide#governement--law-enforcement)
-- [cancel-state-voter-registration-record--opt-out](https://github.com/Scrut1ny/Ultimate-OpSec-Guide#cancel-state-voter-registration-record--opt-out)
-- [firefox-aboutconfig](https://github.com/Scrut1ny/Ultimate-OpSec-Guide#firefox-aboutconfig)
-- [ip-leaking-fix](https://github.com/Scrut1ny/Ultimate-OpSec-Guide#ip-dns-webrtc-html5-leaking-fix)
-- [best-free-proxies-websites](https://github.com/Scrut1ny/Ultimate-OpSec-Guide#best-free-proxies-websites)
-- [ff-extentions](https://github.com/Scrut1ny/Ultimate-OpSec-Guide#ff-extentions)
-- [tor-settings--sites](https://github.com/Scrut1ny/Ultimate-OpSec-Guide#6---tor-settings--sites)
-- [Purchasing Firearms](https://github.com/Scrut1ny/Ultimate-OpSec-Guide#firearms)
-
 ### Privacy solutions
 >- ===== Blogs =====
 >- EFF > [Link](https://www.eff.org/)
