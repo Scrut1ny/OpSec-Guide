@@ -45,37 +45,38 @@
 >- ryf.fsf > [Link](https://ryf.fsf.org/products)
 
 ### Best Tech/Privacy/Security YouTubers ("Controversial" ones included)
-- "Noncontroversial"
-    - [Techlore](https://www.youtube.com/c/Techlore)
-    - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips)
-    - [Surveillance Report](https://www.youtube.com/c/SurveillanceReport)
-    - [Hak5](https://www.youtube.com/c/hak5)
-    - [Seytonic](https://www.youtube.com/c/Seytonic)
+- "Non-controversial"
     - [David Bombal](https://www.youtube.com/c/DavidBombal)
-    - [SomeOrdinaryGamers](https://www.youtube.com/c/SomeOrdinaryGamers)
-    - [Sir Sudo](https://www.youtube.com/c/SirSudo)
-    - [ThioJoe](https://www.youtube.com/c/ThioJoe)
-    - [spacehuhn](https://www.youtube.com/c/spacehuhn)
+    - [Hak5](https://www.youtube.com/c/hak5)
     - [John Hammond](https://www.youtube.com/c/JohnHammond010)
+    - [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips)
+    - [Naomi Brockwell: NBTV](https://www.youtube.com/@NaomiBrockwellTV)
     - [SecurityFWD](https://www.youtube.com/c/SecurityFWD)
-- "Controversial" - (Best ones in my opinion.)
-    - [The Hated One](https://www.youtube.com/c/TheHatedOne)
-    - [Mental Outlaw](https://www.youtube.com/c/MentalOutlaw)
+    - [Seytonic](https://www.youtube.com/c/Seytonic)
+    - [Sir Sudo](https://www.youtube.com/c/SirSudo)
+    - [SomeOrdinaryGamers](https://www.youtube.com/c/SomeOrdinaryGamers)
+    - [spacehuhn](https://www.youtube.com/c/spacehuhn)
+    - [Surveillance Report](https://www.youtube.com/c/SurveillanceReport)
+    - [Techlore](https://www.youtube.com/c/Techlore)
+    - [ThioJoe](https://www.youtube.com/c/ThioJoe)
+- "Controversial"
     - [Luke Smith](https://www.youtube.com/c/LukeSmithxyz)
+    - [Mental Outlaw](https://www.youtube.com/c/MentalOutlaw)
     - [Rob Braxman Tech](https://www.youtube.com/c/BraxMe)
+    - [The Hated One](https://www.youtube.com/c/TheHatedOne)
 
 ### Books / Media
-  - [Library Genesis](https://libgen.is/)
-  - [Wikibooks](https://www.wikibooks.org/)
-  - [PDF Drive](https://www.pdfdrive.com/)
-  - [Project Gutenberg](https://www.gutenberg.org/)
-  - [Anna's Archive](https://www.annas-archive.org/)
-  - [FreeBookSpot](https://www.freebookspot.club/)
-  - [Internet Archive](https://archive.org/details/texts?tab=collection)
+    - [Anna's Archive](https://www.annas-archive.org/)
+    - [FreeBookSpot](https://www.freebookspot.club/)
+    - [Internet Archive](https://archive.org/details/texts?tab=collection)
+    - [Library Genesis](https://libgen.is/)
+    - [PDF Drive](https://www.pdfdrive.com/)
+    - [Project Gutenberg](https://www.gutenberg.org/)
+    - [Wikibooks](https://www.wikibooks.org/)
 
-  - Michael Bazzell
-    - Extreme Privacy: What It Takes to Disappear [Amazon](https://www.amazon.com/dp/B09W78GW2T) - [Anna’s Archive](https://www.annas-archive.org/md5/3bca9891bf832a50e0f8d7aee7555eb3)
-    - OSINT Techniques: Resources for Uncovering Online Information [Amazon](https://www.amazon.com/dp/B0BRDLYX75) - [Anna’s Archive](https://www.annas-archive.org/md5/14597c8090f6d0eed2f9d8d2480f0b24)
+    - Michael Bazzell
+        - Extreme Privacy: What It Takes to Disappear [Amazon](https://www.amazon.com/dp/B09W78GW2T) - [Anna’s Archive](https://www.annas-archive.org/md5/3bca9891bf832a50e0f8d7aee7555eb3)
+        - OSINT Techniques: Resources for Uncovering Online Information [Amazon](https://www.amazon.com/dp/B0BRDLYX75) - [Anna’s Archive](https://www.annas-archive.org/md5/14597c8090f6d0eed2f9d8d2480f0b24)
 
   - Ripping Blu-ray / DVD / CD Media
     - Software
