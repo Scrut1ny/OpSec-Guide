@@ -30,7 +30,7 @@
 >- ===== Products =====
 >- ryf.fsf > [Link](https://ryf.fsf.org/products)
 
-### Best Tech/Privacy/Security YouTubers ("Controversial" ones included)
+### Great Tech/Privacy/Security YouTubers
 - "Non-controversial"
     - [David Bombal](https://www.youtube.com/c/DavidBombal)
     - [Hak5](https://www.youtube.com/c/hak5)
