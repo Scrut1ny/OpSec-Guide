@@ -31,7 +31,6 @@
 >- ryf.fsf > [Link](https://ryf.fsf.org/products)
 
 ### Great Tech/Privacy/Security YouTubers
-- "Non-controversial"
     - [David Bombal](https://www.youtube.com/c/DavidBombal)
     - [Hak5](https://www.youtube.com/c/hak5)
     - [John Hammond](https://www.youtube.com/c/JohnHammond010)
@@ -45,7 +44,6 @@
     - [Surveillance Report](https://www.youtube.com/c/SurveillanceReport)
     - [Techlore](https://www.youtube.com/c/Techlore)
     - [ThioJoe](https://www.youtube.com/c/ThioJoe)
-- "Controversial"
     - [Luke Smith](https://www.youtube.com/c/LukeSmithxyz)
     - [Mental Outlaw](https://www.youtube.com/c/MentalOutlaw)
     - [Rob Braxman Tech](https://www.youtube.com/c/BraxMe)
