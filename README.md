@@ -6,9 +6,9 @@
 | [techlore](https://techlore.tech) | [privacytools](https://www.privacytools.io/) | [maltronics](https://maltronics.com/) |
 | [techcrunch](https://techcrunch.com/) | [CHEF-KOCH](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) | [usbkill](https://usbkill.com/) |
 | [surveillancereport](https://surveillancereport.tech/) | [illegal-services](https://illegal-services.github.io/Illegal_Services/IS.bookmarks.html) | [Flipper Zero](https://flipperzero.one/) |
-| [spyware.neocities](https://spyware.neocities.org/articles/index.html) | [sizeof.cat](https://sizeof.cat/links) |  |
-| [nomoregoogle](https://nomoregoogle.com/) | [privacyspy](https://privacyspy.org) |  |
-| [stallman](https://stallman.org/) | [exodus-privacy](https://reports.exodus-privacy.eu.org/en/) |  |
+| [spyware.neocities](https://spyware.neocities.org/articles/index.html) | [sizeof.cat](https://sizeof.cat/links) | [HackRF One](https://greatscottgadgets.com/hackrf/one/) |
+| [nomoregoogle](https://nomoregoogle.com/) | [privacyspy](https://privacyspy.org) | [Hacker Warehouse](https://hackerwarehouse.com/) |
+| [stallman](https://stallman.org/) | [exodus-privacy](https://reports.exodus-privacy.eu.org/en/) | [bladeRF](https://www.nuand.com/) |
 | [madaidans-insecurities](https://madaidans-insecurities.github.io) | [tosdr](https://tosdr.org/) |  |
 | [cybersector7](https://cybersector7.com/) | [haveibeenpwned](https://haveibeenpwned.com/) |  |
 | [lukesmith](https://lukesmith.xyz/) | [virustotal](https://www.virustotal.com/gui/home/upload) |  |
