@@ -1,34 +1,19 @@
-# PRIVACY & SECURITY
-
 ### Privacy solutions
->- ===== Blogs =====
->- EFF > [Link](https://www.eff.org/)
->- ssd.eff > [Link](https://ssd.eff.org)
->- techlore > [Link](https://techlore.tech)
->- techcrunch > [Link](https://techcrunch.com/)
->- surveillancereport > [Link](https://surveillancereport.tech/)
->- spyware.neocities > [Link](https://spyware.neocities.org/articles/index.html)
->- nomoregoogle > [Link](https://nomoregoogle.com/)
->- stallman > [Link](https://stallman.org/)
->- madaidans-insecurities > [Link](https://madaidans-insecurities.github.io)
->- cybersector7 > [Link](https://cybersector7.com/)
->- lukesmith > [Link](https://lukesmith.xyz/)
->- thinklikeacop > [Link](http://www.thinklikeacop.org/images3/index.html)
->- thenewoil > [Link](https://thenewoil.org)
->- ===== Tools =====
->- alternativeto > [Link](https://alternativeto.net/)
->- inteltechniques > [Link](https://inteltechniques.com/)
->- privacytools > [Link](https://www.privacytools.io/)
->- CHEF-KOCH > [Link](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/)
->- illegal-services > [Link](https://illegal-services.github.io/Illegal_Services/IS.bookmarks.html)
->- sizeof.cat > [Link](https://sizeof.cat/links)
->- privacyspy > [Link](https://privacyspy.org)
->- exodus-privacy > [Link](https://reports.exodus-privacy.eu.org/en/)
->- tosdr > [Link](https://tosdr.org/)
->- haveibeenpwned > [Link](https://haveibeenpwned.com/)
->- virustotal > [Link](https://www.virustotal.com/gui/home/upload)
->- ===== Products =====
->- ryf.fsf > [Link](https://ryf.fsf.org/products)
+| Blogs | Tools | Products |
+| - | - | - |
+| [EFF](https://www.eff.org/) | [alternativeto](https://alternativeto.net/) | [ryf.fsf](https://ryf.fsf.org/products) |
+| [ssd.eff](https://ssd.eff.org) | [inteltechniques](https://inteltechniques.com/) |  |
+| [techlore](https://techlore.tech) | [privacytools](https://www.privacytools.io/) |  |
+| [techcrunch](https://techcrunch.com/) | [CHEF-KOCH](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) |  |
+| [surveillancereport](https://surveillancereport.tech/) | [illegal-services](https://illegal-services.github.io/Illegal_Services/IS.bookmarks.html) |  |
+| [spyware.neocities](https://spyware.neocities.org/articles/index.html) | [sizeof.cat](https://sizeof.cat/links) |  |
+| [nomoregoogle](https://nomoregoogle.com/) | [privacyspy](https://privacyspy.org) |  |
+| [stallman](https://stallman.org/) | [exodus-privacy](https://reports.exodus-privacy.eu.org/en/) |  |
+| [madaidans-insecurities](https://madaidans-insecurities.github.io) | [tosdr](https://tosdr.org/) |  |
+| [cybersector7](https://cybersector7.com/) | [haveibeenpwned](https://haveibeenpwned.com/) |  |
+| [lukesmith](https://lukesmith.xyz/) | [virustotal](https://www.virustotal.com/gui/home/upload) |  |
+| [thinklikeacop](http://www.thinklikeacop.org/images3/index.html) |  |  |
+| [thenewoil](https://thenewoil.org) |  |  |
 
 ### ProtonMail 10 aliases for various important categories
 ```
