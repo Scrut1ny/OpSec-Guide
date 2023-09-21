@@ -15,8 +15,6 @@
 | [thinklikeacop](http://www.thinklikeacop.org/images3/index.html) | [revshells](https://www.revshells.com/) |  |
 | [thenewoil](https://thenewoil.org) | [3u](https://www.3u.com/) |  |
 | [hackers-arise](https://www.hackers-arise.com/) | [safing](https://safing.io/portmaster/) |  |
-|  | Old Broken Tools |  |
-| - | - | - |
 |  | [DoxToolV2](https://archive.org/download/DoxToolV2) - Latest+Old+Broken |  |
 |  | [Cain & Abel](https://web.archive.org/web/20190603235413/http://www.oxid.it/cain.html) - Latest+Old |  |
 
