@@ -31,18 +31,22 @@
 >- ryf.fsf > [Link](https://ryf.fsf.org/products)
 
 ### ProtonMail 10 aliases for various important categories
+```
+- Never give out your personal email.
+- XXXX = 4 Random digits 0-9.
+```
 | Categories | Aliases |
 | - | - |
-| Personal | personal@pm.me |
-| Work/Job | work@pm.me |
-| Finance | finance@pm.me |
-| Online Shopping | shopping@pm.me |
-| Travel | travel@pm.me |
-| Health | health@pm.me |
-| Gaming | gaming@pm.me |
-| Hobbies/Clubs | hobbies@pm.me |
-| Utilities | utilities@pm.me |
-| Education | education@pm.me |
+| Personal | personalXXXX@pm.me |
+| Work/Job | workXXXX@pm.me |
+| Finance | financeXXXX@pm.me |
+| Online Shopping | shoppingXXXX@pm.me |
+| Travel | travelXXXX@pm.me |
+| Health | healthXXXX@pm.me |
+| Gaming | gamingXXXX@pm.me |
+| Hobbies/Clubs | hobbiesXXXX@pm.me |
+| Utilities | utilitiesXXXX@pm.me |
+| Education | educationXXXX@pm.me |
 
 ### Great Tech/Privacy/Security YouTubers
 - [David Bombal](https://www.youtube.com/c/DavidBombal)
