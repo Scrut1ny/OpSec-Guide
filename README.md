@@ -35,18 +35,18 @@
 - Never give out your personal email.
 - XXXX = 4 Random digits 0-9.
 ```
-| Categories | Aliases |
-| - | - |
-| Personal | personalXXXX@pm.me |
-| Work/Job | workXXXX@pm.me |
-| Finance | financeXXXX@pm.me |
-| Online Shopping | shoppingXXXX@pm.me |
-| Travel | travelXXXX@pm.me |
-| Health | healthXXXX@pm.me |
-| Gaming | gamingXXXX@pm.me |
-| Hobbies/Clubs | hobbiesXXXX@pm.me |
-| Utilities | utilitiesXXXX@pm.me |
-| Education | educationXXXX@pm.me |
+| Categories | Aliases | Purpose |
+| - | - | - |
+| Personal | personalXXXX@pm.me | Personal emails, communication with friends and family, and other non-work-related matters. |
+| Work/Job | workXXXX@pm.me | Job applications, professional networking, and correspondence with colleagues or clients. |
+| Finance | financeXXXX@pm.me | Banking, online shopping, bills, and financial statements. |
+| Online Shopping | shoppingXXXX@pm.me | Shopping accounts, receipts, and e-commerce related emails. |
+| Travel | travelXXXX@pm.me | Travel bookings, confirmations, and related communication. |
+| Health | healthXXXX@pm.me | Appointment confirmations, prescription orders, and medical records. |
+| Gaming | gamingXXXX@pm.me | Video games, gaming communities, game subscriptions, and any other gaming-related content. |
+| Hobbies/Clubs | hobbiesXXXX@pm.me | Clubs, groups, or have specific hobbies |
+| Utilities | utilitiesXXXX@pm.me | Electricity, gas, water, and internet service providers. |
+| Education | educationXXXX@pm.me | High School, Collage, School-related. |
 
 ### Great Tech/Privacy/Security YouTubers
 - [David Bombal](https://www.youtube.com/c/DavidBombal)
