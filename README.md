@@ -2,18 +2,23 @@
 | Blogs | Tools | Products |
 | - | - | - |
 | [EFF](https://www.eff.org/) | [alternativeto](https://alternativeto.net/) | [ryf.fsf](https://ryf.fsf.org/products) |
-| [ssd.eff](https://ssd.eff.org) | [inteltechniques](https://inteltechniques.com/) |  |
-| [techlore](https://techlore.tech) | [privacytools](https://www.privacytools.io/) |  |
-| [techcrunch](https://techcrunch.com/) | [CHEF-KOCH](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) |  |
-| [surveillancereport](https://surveillancereport.tech/) | [illegal-services](https://illegal-services.github.io/Illegal_Services/IS.bookmarks.html) |  |
+| [ssd.eff](https://ssd.eff.org) | [inteltechniques](https://inteltechniques.com/) | [hak5](https://hak5.org/) |
+| [techlore](https://techlore.tech) | [privacytools](https://www.privacytools.io/) | [maltronics](https://maltronics.com/) |
+| [techcrunch](https://techcrunch.com/) | [CHEF-KOCH](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) | [usbkill](https://usbkill.com/) |
+| [surveillancereport](https://surveillancereport.tech/) | [illegal-services](https://illegal-services.github.io/Illegal_Services/IS.bookmarks.html) | [Flipper Zero](https://flipperzero.one/) |
 | [spyware.neocities](https://spyware.neocities.org/articles/index.html) | [sizeof.cat](https://sizeof.cat/links) |  |
 | [nomoregoogle](https://nomoregoogle.com/) | [privacyspy](https://privacyspy.org) |  |
 | [stallman](https://stallman.org/) | [exodus-privacy](https://reports.exodus-privacy.eu.org/en/) |  |
 | [madaidans-insecurities](https://madaidans-insecurities.github.io) | [tosdr](https://tosdr.org/) |  |
 | [cybersector7](https://cybersector7.com/) | [haveibeenpwned](https://haveibeenpwned.com/) |  |
 | [lukesmith](https://lukesmith.xyz/) | [virustotal](https://www.virustotal.com/gui/home/upload) |  |
-| [thinklikeacop](http://www.thinklikeacop.org/images3/index.html) |  |  |
-| [thenewoil](https://thenewoil.org) |  |  |
+| [thinklikeacop](http://www.thinklikeacop.org/images3/index.html) | [revshells](https://www.revshells.com/) |  |
+| [thenewoil](https://thenewoil.org) | [3u](https://www.3u.com/) |  |
+| [hackers-arise](https://www.hackers-arise.com/) | [safing](https://safing.io/portmaster/) |  |
+|  | Old Broken Tools |  |
+| - | - | - |
+|  | [DoxToolV2](https://archive.org/download/DoxToolV2) - Latest+Old+Broken |  |
+|  | [Cain & Abel](https://web.archive.org/web/20190603235413/http://www.oxid.it/cain.html) - Latest+Old |  |
 
 ### ProtonMail 10 aliases for various important categories
 ```
@@ -216,29 +221,6 @@
 - [deviceinfo](https://www.deviceinfo.me/)
 - [adblock](https://d3ward.github.io/toolz/adblock.html)
 - [canyoublockit](https://canyoublockit.com/)
-
-### Hacking
-- Websites / Products
-  - [hackers-arise](https://www.hackers-arise.com/)
-  - [revshells](https://www.revshells.com/)
-  - [hak5](https://hak5.org/)
-  - [maltronics](https://maltronics.com/)
-  - [usbkill](https://usbkill.com/)
-  - [Flipper Zero](https://flipperzero.one/)
-    - [GitHub ](https://github.com/flipperdevices)
-        - [firmware](https://github.com/flipperdevices/flipperzero-firmware)
-        - [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
-- Websites / Software
-  - [3u](https://www.3u.com/)
-  - [safing](https://safing.io/portmaster/)
-  - [DoxToolV2](https://archive.org/download/DoxToolV2) - Latest+Old+Broken
-  - [Cain & Abel](https://web.archive.org/web/20190603235413/http://www.oxid.it/cain.html) - Latest+Old
-
-### Windows Spoofing
-- [Windows-Spoofer](https://github.com/Scrut1ny/Windows-Spoofer/releases/latest)
-- [Windows-MAC-Address-Spoofer](https://github.com/Scrut1ny/Windows-MAC-Address-Spoofer/releases/latest)
-- [TMAC](https://download.technitium.com/tmac/TMACv6.0.7_Setup.zip)
-- [VolumeID v2.1](https://download.sysinternals.com/files/VolumeId.zip)
 
 ### EXIF Tool
 - [exiftool](https://exiftool.org/)
