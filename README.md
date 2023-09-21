@@ -30,6 +30,20 @@
 >- ===== Products =====
 >- ryf.fsf > [Link](https://ryf.fsf.org/products)
 
+### ProtonMail 10 aliases for various important categories
+| Categories | Aliases |
+| - | - |
+| Personal | personal@pm.me |
+| Work/Job | work@pm.me |
+| Finance | finance@pm.me |
+| Online Shopping | shopping@pm.me |
+| Travel | travel@pm.me |
+| Health | health@pm.me |
+| Gaming | gaming@pm.me |
+| Hobbies/Clubs | hobbies@pm.me |
+| Utilities | utilities@pm.me |
+| Education | education@pm.me |
+
 ### Great Tech/Privacy/Security YouTubers
 - [David Bombal](https://www.youtube.com/c/DavidBombal)
 - [Hak5](https://www.youtube.com/c/hak5)
