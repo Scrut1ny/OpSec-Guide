@@ -781,22 +781,22 @@
 		<Change></Change>
 		<Add>
 			<Item type="File">
-				<Path>C:\Users\Null\Downloads\librewolf-117.0.1-1-windows-x86_64-setup.exe</Path>
+				<Path>%USERPROFILE%\Downloads\librewolf-117.0.1-1-windows-x86_64-setup.exe</Path>
 				<Params></Params>
 				<Index>0</Index>
 			</Item>
 			<Item type="File">
-				<Path>C:\Users\Null\Downloads\7z2301-x64.exe</Path>
+				<Path>%USERPROFILE%\Downloads\7z2301-x64.exe</Path>
 				<Params></Params>
 				<Index>1</Index>
 			</Item>
 			<Item type="File">
-				<Path>C:\Users\Null\Downloads\debloat.bat</Path>
+				<Path>%USERPROFILE%\Downloads\debloat.bat</Path>
 				<Params></Params>
 				<Index>2</Index>
 			</Item>
 			<Item type="File">
-				<Path>C:\Users\Null\Downloads\Windows-MAC-Address-Spoofer.bat</Path>
+				<Path>%USERPROFILE%\Downloads\Windows-MAC-Address-Spoofer.bat</Path>
 				<Params></Params>
 				<Index>3</Index>
 			</Item>
