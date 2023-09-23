@@ -769,7 +769,7 @@
 			<Task>imageFormatWim</Task>
 			<Task>imageOptionsCreateIso</Task>
 		</ImageTasks>
-		<AutoIsoFile>C:\Users\Null\Downloads\Win10Debloated.iso</AutoIsoFile>
+		<AutoIsoFile>%USERPROFILE%\Downloads\Win10Debloated.iso</AutoIsoFile>
 		<AutoIsoLabel>Win10Debloated</AutoIsoLabel>
 		<AutoSplitSize>4000</AutoSplitSize>
 		<CleanHotfixedLeftovers>0</CleanHotfixedLeftovers>
