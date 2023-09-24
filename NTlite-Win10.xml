@@ -769,7 +769,7 @@
 			<Task>imageFormatWim</Task>
 			<Task>imageOptionsCreateIso</Task>
 		</ImageTasks>
-		<AutoIsoFile>%USERPROFILE%\Downloads\Win10Debloated.iso</AutoIsoFile>
+		<AutoIsoFile>C:\Users\Null\Downloads\Win10Debloated.iso</AutoIsoFile>
 		<AutoIsoLabel>Win10Debloated</AutoIsoLabel>
 		<AutoSplitSize>4000</AutoSplitSize>
 		<CleanHotfixedLeftovers>0</CleanHotfixedLeftovers>
@@ -781,22 +781,22 @@
 		<Change></Change>
 		<Add>
 			<Item type="File">
-				<Path>%USERPROFILE%\Downloads\librewolf-117.0.1-1-windows-x86_64-setup.exe</Path>
+				<Path>C:\Users\Null\Downloads\librewolf-117.0.1-1-windows-x86_64-setup.exe</Path>
 				<Params></Params>
 				<Index>0</Index>
 			</Item>
 			<Item type="File">
-				<Path>%USERPROFILE%\Downloads\7z2301-x64.exe</Path>
+				<Path>C:\Users\Null\Downloads\7z2301-x64.exe</Path>
 				<Params></Params>
 				<Index>1</Index>
 			</Item>
 			<Item type="File">
-				<Path>%USERPROFILE%\Downloads\debloat.bat</Path>
+				<Path>C:\Users\Null\Downloads\debloat.bat</Path>
 				<Params></Params>
 				<Index>2</Index>
 			</Item>
 			<Item type="File">
-				<Path>%USERPROFILE%\Downloads\Windows-MAC-Address-Spoofer.bat</Path>
+				<Path>C:\Users\Null\Downloads\Windows-MAC-Address-Spoofer.bat</Path>
 				<Params></Params>
 				<Index>3</Index>
 			</Item>
