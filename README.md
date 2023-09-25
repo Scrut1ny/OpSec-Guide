@@ -253,12 +253,6 @@
 | network.ttr.mode | 2 | DNS-over-HTTPS (DoH) |
 | browser.cache.offline.enable | false | If TRUE, it allows websites to store data on your computer for when you would be offline. |
 
-### Firearms
-- Buy from private sellers at local gun shows, not FFL.
-- [Gun Listings](https://www.gunlistings.org/)
-### Magazines / Equipment
-- [https://themagshack.com/](https://themagshack.com/)
-
 ![wp4184508-edward-snowden-wallpapers](https://user-images.githubusercontent.com/53458032/174272844-25118573-af2a-4d6d-a140-621ebeb6e750.jpg)
 ![wp4184517-edward-snowden-wallpapers](https://user-images.githubusercontent.com/53458032/174272871-864beb01-fab1-439d-b7da-d660dab0fa1e.jpg)
 
