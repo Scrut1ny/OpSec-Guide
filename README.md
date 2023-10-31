@@ -41,7 +41,6 @@
 |-|-|-|
 | [voip.ms](https://voip.ms/residential) | [FreePBX](https://www.freepbx.org/) - [⬇️](https://downloads.freepbxdistro.org/ISO/SNG7-PBX16-64bit-2204-1.iso) | [linphone](https://linphone.org/) - [⬇️](https://linphone.org/)|
 |  |  | [zoiper5](https://www.zoiper.com/) - [⬇️](https://www.zoiper.com/en/voip-softphone/download/current) |
-|  |  | [linphone](https://linphone.org/) |
 
 
 ### Great Tech/Privacy/Security YouTubers
