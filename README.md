@@ -36,6 +36,10 @@
 | Utilities | utilitiesXXXX@pm.me | Electricity, gas, water, and internet service providers. |
 | Education | educationXXXX@pm.me | High School, Collage, School-related. |
 
+### Quick Anonymity Solutions
+- [Redact](https://redact.dev/)
+- [Incogni](https://incogni.com/)
+
 ### VoIP | SIP | Caller ID | Spoofing
 | Website | OS | Software |
 |-|-|-|
