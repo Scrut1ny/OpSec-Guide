@@ -3,7 +3,7 @@
 | - | - | - |
 | [EFF](https://www.eff.org/) | [alternativeto](https://alternativeto.net/) | [ryf.fsf](https://ryf.fsf.org/products) |
 | [ssd.eff](https://ssd.eff.org) | [inteltechniques](https://inteltechniques.com/) | [hak5](https://hak5.org/) |
-| [techlore](https://techlore.tech) | [privacytools](https://www.privacytools.io/) | [maltronics](https://maltronics.com/) |
+| [techlore](https://techlore.tech) | [Privacy Guides](https://www.privacyguides.org/) | [maltronics](https://maltronics.com/) |
 | [techcrunch](https://techcrunch.com/) | [CHEF-KOCH](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) | [usbkill](https://usbkill.com/) |
 | [surveillancereport](https://surveillancereport.tech/) | [illegal-services](https://illegal-services.github.io/Illegal_Services/IS.bookmarks.html) | [Flipper Zero](https://flipperzero.one/) |
 | [spyware.neocities](https://spyware.neocities.org/articles/index.html) | [sizeof.cat](https://sizeof.cat/links) | [HackRF One](https://greatscottgadgets.com/hackrf/one/) |
