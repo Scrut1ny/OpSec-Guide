@@ -215,7 +215,8 @@
 - [OpenVPN](https://openvpn.net/vpn-client/)
 - [VPN.XXX](https://www.vpn.xxx/)
 
-### Leaks & Tests
+### Browser, DNS, VPN, & Breach Leak Tests
+- [have i been pwned?](https://haveibeenpwned.com/)
 - [dnsleaktest](https://www.dnsleaktest.com/)
 - [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/)
 - [ipleak](https://ipleak.net/)
