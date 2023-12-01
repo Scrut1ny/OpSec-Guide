@@ -167,14 +167,11 @@
 ### Mail Services
 - [Proton](https://proton.me/) 🔥
 - [Skiff](https://skiff.com/)
-- [tutanota](https://tutanota.com/)
+- [tuta](https://tuta.com/)
 - [startmail](https://www.startmail.com/)
 - [mailbox](https://mailbox.org/)
-- [Disroot (invite only)](https://cloud.disroot.org/login)
-- [Cock (invite only)](https://cock.li/)
-- [RiseUp (invite only)](https://riseup.net/)
 - [DNMX](https://dnmx.org/)
-    - [Tor Link](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/)
+    - [Onion V3](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/)
 
 ### Instant Messengers
 - [XMPP](https://xmpp.org/) 🔥
@@ -190,31 +187,25 @@
 - [Cloudflare](https://1.1.1.1/)
 - [NextDNS](https://nextdns.io)
 - [AdGuard](https://adguard.com/en/adguard-dns/overview.html)
-- [blackbird](https://www.getblackbird.net/)
-- [blokada](https://blokada.org/)
-- [rethinkdns](https://rethinkdns.com/)
-- [orencloud](https://www.orencloud.com/orencloud-dns/)
-- [ahadns](https://ahadns.com/#dns-servers)
-- [yogadns](https://yogadns.com/)
-- [uncensoreddns](https://blog.uncensoreddns.org/)
-- [constellix](https://constellix.com/)
-- [blahdns](https://blahdns.com/)
 
 ### Web Browsers
-- [librewolf](https://librewolf.net/) 🔥
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-- [Brave](https://brave.com/)
-- [ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
-    - Addons > [crxextract](https://www.crxextract.com/)
-- [Tor](https://www.torproject.org/)
-- [Mullvad Browser](https://mullvad.net/browser)
+- Gecko Engine
+    - [librewolf](https://librewolf.net/) 🔥
+    - [Firefox](https://www.mozilla.org/firefox/new/)
+    - [Tor](https://www.torproject.org/)
+    - [Mullvad Browser](https://mullvad.net/browser)
+- Chromium
+    - [Brave](https://brave.com/)
+    - [ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
+        - Addons > [crxextract](https://www.crxextract.com/)
 
 ### Search Engines
+- [DuckDuckGo](https://duckduckgo.com/)
 - [SearXNG](https://serx.ml/)
   - [SearXNG Config](https://searx.work/preferences?preferences=eJx1V02T2zYM_TX1RZOdtjl0evCpM722M0nPGoiEJaxIguGHZe2vL2jJFmVtDlFMAAQB8OGBqyBhz4Ewnnt0GMCcDLg-Q49ndF_--3YyrMCUxQlyYsXWG0x4PpEVm9YHvs3n7yHjyWIaWJ___efb91OEC0aEoIbzr6c0oMVzpLLzFDBmk2LLrnU4tQm6899gIp40UytKNlcM56joy5C7N5Ev-9qYZolCQxhPCl3C0IKh3ln5vToAfQWnULfrwYv0R8Ywt-TaREkcLEJyF3KUxKsKbMwSv6YInZH96HpyUpA_e-jbNrIiMI1FTfDL73-BHxtLIXBo2wsZjHeZRNjIt4mJA1YKiYOu2FBs27W8d2ki1bb3Aharjlxf68u6WbQvVs2VNLJIl__v0tRlNWISy1TWSVPfbxEopb6ka7WBPTqpcMTK9Yy-Pl_lYAhfJAGdmmuZxiuBS5JM5UnrvtF4Ly6x22WNgSfSbcsChyDriUbSkGDnU1Ip_3puJoRiuNkvRbbgxat8i0fL7-TLvWxWSW5u3sX-262K76IDlyAe5bkYUmOoDQJiE_mSJgjYaAqo5ErntbqXQG4kqC-vp15QAzHVZ_aCNejWTYo1dhj6ddkz95KINzAXyMQtmFpj-UpYX3TvWetSD5sjKREM0AUon9UvWd1tdSAH1WZy8pM4x89lD5fvFAfefIxSG4hVgIbkyDA3JdFInyj40ih2vbRxjVwjyL3u7tlwFxO-hbjGDh9mDqSqUIRMQHlwq4GlmzKc9WbgvF11bgbYQrEgN4SPohS0B_RcxepBsuopPjrGD5yEjFZMeQrCiB3M1QbhIQH7w3z2tP78MQn-67TugmPnLuJD60b0BAtX1dLsMeT4zGAxKBhqyucJRLBQqo5PM0lcaKWJamADslsoVFoWi640qS9sXcWaeJwlcbnwsVT5kazwL2lBvLR7qoqWJkqFc1_ZMLsocI1DTSYwMNcnTdTtiMNCEH6V6HeQkBlzA6fDXlpIomMe46tQZofIyncV_Mic8NUqcg7qIC30R2k-iHl-qZEmlT7Y7WVZo9t6JOKHA7tLj98Rx1ri4FpKtwlC7uYe7QP9HjGk3GGFgnt95YhRWGCasKtUIVuZUpVg4huN7ASjTZwdu9liFd-7f_OT29OuFX7eDZwgEdYCL91nHtD8VHxEuaBxa-il8ENOG-k9HZ3Q7efs3Z-QRL41JboHJ4QbXWsYdwIPBdZvHFCsV_5_mZ47eMiMjzHgpXamET9qNtUsQzQ08uZYj99G0U8G1KEAmGbLTvKoyi87qWZYWadSiqUolLbzFvLfDZFlHBzOWeW7FFfZgWNW-SekMKznPWkSZNaVeRyxNP5m-NAJDcqwhHWu7_UxydhMwqBPGtUFzpuRbBZI15KFFHdJyPma0oFjBEty8Xv2F0pTI0tbXQxPD8DEMXfZpbyu70S0P2Hm_NJoT8kTCEBG7rGkWZldySLXPUdjsYDyMnh2FpuFlv1QPUistKOVF0STArhoZLhUb6Dfvn7947ax7MRBOxorlymFN3p07_ZC9SZL68Rz6cXb27p6GzgmISOUZ7SQ8kL9OwPJopVpN-Icn034E1eF05fFwQtDu7zVpyBP6IN6pQ0pn1r-tpjlQW7kGfWJpbnIy_zCB40MoFYNqMajJkBp1FaeqBKBLRA4ySgTCJ7_ByOW1Rc=&save=1)
 - [Startpage](https://www.startpage.com/)
 - [Brave Search](https://search.brave.com/)
-- [DuckDuckGo](https://duckduckgo.com/)
+- [Mojeek](https://www.mojeek.com/)
 
 ### VPNs
 - [Mullvad](https://mullvad.net/) 🔥
@@ -233,6 +224,13 @@
 - [deviceinfo](https://www.deviceinfo.me/)
 - [adblock](https://d3ward.github.io/toolz/adblock.html)
 - [canyoublockit](https://canyoublockit.com/)
+
+### Password Manager
+- KeePass
+    - [KeePassXC](https://keepassxc.org/)
+    - [KeePassDX](https://www.keepassdx.com/)
+- [Bitwarden](https://bitwarden.com/)
+- [Proton Pass](https://proton.me/pass)
 
 ### EXIF Tool
 - [exiftool](https://exiftool.org/)
