@@ -39,6 +39,8 @@
 ### Quick Anonymity Solutions
 - [Redact](https://redact.dev/)
 - [Incogni](https://incogni.com/)
+- [DeleteMe](https://joindeleteme.com/)
+- [JustDeleteMe](https://justdeleteme.xyz/)
 
 ### VoIP | SIP | Caller ID | Spoofing
 | Website | OS | Software |
