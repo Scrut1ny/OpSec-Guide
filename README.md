@@ -182,7 +182,8 @@
 - [Status](https://status.im/)
 
 ### Privacy oriented DNS
-- Using a privacy respecting oriented DNS is very important when using the internet, it allows you to bypass your ISP censorship (if any) and block them from seeing what websites you visit! Understanding how DNS works is a essential. The Domain Name System (DNS), the internets phonebook. DNS translates domain names to IP addresses so browsers can load Internet resources.
+> [!IMPORTANT]
+> Utilizing a privacy-focused DNS is crucial for internet usage, enabling you to bypass potential ISP censorship and preventing them from monitoring your website visits. Understanding DNS, the internet's phonebook, is essential as it translates domain names to IP addresses for loading internet resources.
 - [Quad9](https://www.quad9.net) 🔥
 - [Cloudflare](https://1.1.1.1/)
 - [NextDNS](https://nextdns.io)
