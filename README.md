@@ -195,7 +195,7 @@
     - [Firefox](https://www.mozilla.org/firefox/new/)
     - [Tor](https://www.torproject.org/)
     - [Mullvad Browser](https://mullvad.net/browser)
-- Chromium
+- Chromium Engine
     - [Brave](https://brave.com/)
     - [ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
         - Addons > [crxextract](https://www.crxextract.com/)
