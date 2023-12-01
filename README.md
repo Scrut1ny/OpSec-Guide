@@ -166,14 +166,15 @@
 
 ### Mail Services
 - [Proton](https://proton.me/) 🔥
+- [Skiff](https://skiff.com/)
 - [tutanota](https://tutanota.com/)
-- [DNMX](https://dnmx.org/)
-    - [Tor Link](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/)
 - [startmail](https://www.startmail.com/)
 - [mailbox](https://mailbox.org/)
 - [Disroot (invite only)](https://cloud.disroot.org/login)
 - [Cock (invite only)](https://cock.li/)
 - [RiseUp (invite only)](https://riseup.net/)
+- [DNMX](https://dnmx.org/)
+    - [Tor Link](http://dnmxjaitaiafwmss2lx7tbs5bv66l7vjdmb5mtb3yqpxqhk3it5zivad.onion/)
 
 ### Instant Messengers
 - [XMPP](https://xmpp.org/) 🔥
@@ -201,11 +202,12 @@
 
 ### Web Browsers
 - [librewolf](https://librewolf.net/) 🔥
-- [Tor](https://www.torproject.org/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Brave](https://brave.com/)
 - [ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
-  - Addons > [crxextract](https://www.crxextract.com/)
+    - Addons > [crxextract](https://www.crxextract.com/)
+- [Tor](https://www.torproject.org/)
+- [Mullvad Browser](https://mullvad.net/browser)
 
 ### Search Engines
 - [SearXNG](https://serx.ml/)
