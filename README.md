@@ -82,6 +82,7 @@
         - OSINT Techniques: Resources for Uncovering Online Information [Amazon](https://www.amazon.com/dp/B0BRDLYX75) - [Anna’s Archive](https://www.annas-archive.org/md5/14597c8090f6d0eed2f9d8d2480f0b24)
 
   - Ripping Blu-ray / DVD / CD Media
+    - Great YT Tutorial - [Link](https://youtu.be/S2yze4DUCT0) 
     - Software
         - MakeMKV - [Website](https://makemkv.com/) - [Download ⬇️](https://makemkv.com/download/Setup_MakeMKV_v1.17.5.exe)
             - Current Beta Key: `T-YIPPz6Z8MFlFJkPA4YTnwcNGX5IU1AqAJdQi8akyG8m2AXqWm9sfuqXmFYScGcfDw8`
