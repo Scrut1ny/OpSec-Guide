@@ -84,7 +84,7 @@
   - Ripping Blu-ray / DVD / CD Media
     - Software
         - MakeMKV - [Website](https://makemkv.com/) - [Download ⬇️](https://makemkv.com/download/Setup_MakeMKV_v1.17.5.exe)
-            - Key: `T-atm47dTZbMqXw1QucuIdgpDYCIq2HIsT5mQeOONtu_7oY9TJNJeiMEiuB07SC8YTiJ`
+            - Current Beta Key: `T-YIPPz6Z8MFlFJkPA4YTnwcNGX5IU1AqAJdQi8akyG8m2AXqWm9sfuqXmFYScGcfDw8`
         - SDFtool Flasher (v1.3.5) - [Download ⬇️](https://www.mediafire.com/file/rak1mk0p0qlqa0t/SDFtool+Flasher+%28v1.3.5%29.zip/file)
         - HandBrake - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
     - Hardware
