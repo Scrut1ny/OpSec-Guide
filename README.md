@@ -126,19 +126,6 @@
   - Help videos > [Link](https://www.youtube.com/watch?app=desktop&v=2sjqvuHbpLs) & [Link](https://www.youtube.com/watch?app=desktop&v=yv3aBgaMnBU)
     - [Expeal - Erase Your Criminal Record](https://www.expeal.com/)
 
-### Firefox about:config
-| `Option` | `Setting` | `Desc.` |
-| - | - | - |
-| media.peerconnection.enabled | false | WebRTC |
-| media.navigator.enabled | false | Prevent websites from knowing if a microphone or a video camera is available on your device. |
-| privacy.resistFingerprinting | true | More resistant to fingerprinting |
-| geo.enabled | false | Disable geolocation tracking. |
-| dom.battery.enabled | false | It prevents websites from knowing whether you are using your laptop on battery or AC power. |
-| webgl.disabled | true | prevent your device to be fingerprinted and any potential security risks from using WebGL. |
-| dom.event.clipboardevents.enabled | false | With this option disabled, websites won't know if you copy/paste something from their web page and which part of the page had been selected. |
-| network.ttr.mode | 2 | DNS-over-HTTPS (DoH) |
-| browser.cache.offline.enable | false | If TRUE, it allows websites to store data on your computer for when you would be offline. |
-
 ### IP, DNS, WebRTC, HTML5, LEAKING FIX
 | `Type` | Solutions | `Links` |
 | - | - | - |
@@ -224,6 +211,7 @@
 - [have i been pwned?](https://haveibeenpwned.com/)
 - [dnsleaktest](https://www.dnsleaktest.com/)
 - [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/)
+- [cloudflare test](https://www.cloudflare.com/ssl/encrypted-sni/)
 - [ipleak](https://ipleak.net/)
 - [browserleaks](https://browserleaks.com)
 - [coveryourtracks.eff](https://coveryourtracks.eff.org/)
