@@ -48,7 +48,6 @@
 | [voip.ms](https://voip.ms/residential) - [twilio](https://www.twilio.com/) - [gotrunk](https://gotrunk.com/) | [FreePBX](https://www.freepbx.org/) - [⬇️](https://downloads.freepbxdistro.org/ISO/SNG7-PBX16-64bit-2302-1.iso) | [linphone](https://linphone.org/) - [⬇️](https://linphone.org/) - [zoiper5](https://www.zoiper.com/) - [⬇️](https://www.zoiper.com/en/voip-softphone/download/current)|
 - [YT Guide](https://www.youtube.com/watch?v=DZ0czppbamo)
 
-
 ### Great Tech/Privacy/Security YouTubers
 - [David Bombal](https://www.youtube.com/c/DavidBombal)
 - [Hak5](https://www.youtube.com/c/hak5)
@@ -136,16 +135,6 @@
 | HTML5 Geolocation Leaks | about:config - geo.enabled = false | [geo](https://browserleaks.com/geo) |
 | Torrent IP leak | Lock Client to use VPN / SOCKS5 (acts as auto killswitch) | [do-i-leak](https://www.top10vpn.com/tools/do-i-leak/) |
 
-### Best Free Proxies Websites
-| `Option` | `Link` |
-| - | - |
-| geonode.com | [Link](https://geonode.com/free-proxy-list/) |
-|  | [Link]() |
-|  | [Link]() |
-|  | [Link]() |
-|  | [Link]() |
-|  | [Link]() |
-
 ### FF Addons
 |`Name`|`Link`|`Desc.`|
 |-|-|-|
@@ -231,34 +220,6 @@
 - [exiftool](https://exiftool.org/)
 - [exifcleaner](https://github.com/szTheory/exifcleaner/releases/latest)
 - [Exif Pilot](https://www.colorpilot.com/exif.html)
-
-# 6 - Tor Settings / Sites
-
-#### about:preferences#privacy
-✅ `Prioritize .onion sites when known.` - `Always`
-
-✅ `Security Level` - `Safest`
-
-#### about:preferences#tor
-✅ `Always connect automatically`
-
-✅ `Use a bridge` - `Select a built-in bridge` (`obfs4` - Prevents your ISP from seeing Tor traffic.)
-
-[Info](http://dsbqrprgkqqifztta6h3w7i2htjhnq7d3qkh3c7gvc35e66rrcv66did.onion/bridges/index.html)
-
-
-## about:config
-|`Name`|`Setting`|`Desc.`|
-|-|-|-|
-| javascript.enabled | false | Javascript |
-| media.peerconnection.enabled | false | WebRTC |
-| privacy.resistFingerprinting | true | More resistant to fingerprinting |
-| geo.enabled | false | Disable geolocation tracking. |
-| dom.battery.enabled | false | It prevents websites from knowing whether you are using your laptop on battery or AC power. |
-| webgl.disabled | true | prevent your device to be fingerprinted and any potential security risks from using WebGL. |
-| dom.event.clipboardevents.enabled | false | With this option disabled, websites won't know if you copy/paste something from their web page and which part of the page had been selected. |
-| network.ttr.mode | 2 | DNS-over-HTTPS (DoH) |
-| browser.cache.offline.enable | false | If TRUE, it allows websites to store data on your computer for when you would be offline. |
 
 ![wp4184508-edward-snowden-wallpapers](https://user-images.githubusercontent.com/53458032/174272844-25118573-af2a-4d6d-a140-621ebeb6e750.jpg)
 ![wp4184517-edward-snowden-wallpapers](https://user-images.githubusercontent.com/53458032/174272871-864beb01-fab1-439d-b7da-d660dab0fa1e.jpg)
