@@ -37,10 +37,10 @@
 | Education | educationXXXX@pm.me | High School, Collage, School-related. |
 
 ### Quick Anonymity Solutions
-- [Redact](https://redact.dev/)
-- [Incogni](https://incogni.com/)
-- [DeleteMe](https://joindeleteme.com/)
-- [JustDeleteMe](https://justdeleteme.xyz/)
+* [Redact](https://redact.dev/)
+* [Incogni](https://incogni.com/)
+* [DeleteMe](https://joindeleteme.com/)
+* [JustDeleteMe](https://justdeleteme.xyz/)
 
 ### VoIP | SIP | Caller ID | Spoofing
 | Website | OS | Software |
@@ -49,49 +49,49 @@
 - [YT Guide](https://www.youtube.com/watch?v=DZ0czppbamo)
 
 ### Great Tech/Privacy/Security YouTubers
-- [David Bombal](https://www.youtube.com/c/DavidBombal)
-- [Hak5](https://www.youtube.com/c/hak5)
-- [John Hammond](https://www.youtube.com/c/JohnHammond010)
-- [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips)
-- [Naomi Brockwell: NBTV](https://www.youtube.com/@NaomiBrockwellTV)
-- [SecurityFWD](https://www.youtube.com/c/SecurityFWD)
-- [Seytonic](https://www.youtube.com/c/Seytonic)
-- [Sir Sudo](https://www.youtube.com/c/SirSudo)
-- [SomeOrdinaryGamers](https://www.youtube.com/c/SomeOrdinaryGamers)
-- [spacehuhn](https://www.youtube.com/c/spacehuhn)
-- [Surveillance Report](https://www.youtube.com/c/SurveillanceReport)
-- [Techlore](https://www.youtube.com/c/Techlore)
-- [ThioJoe](https://www.youtube.com/c/ThioJoe)
-- [Luke Smith](https://www.youtube.com/c/LukeSmithxyz)
-- [Mental Outlaw](https://www.youtube.com/c/MentalOutlaw)
-- [Rob Braxman Tech](https://www.youtube.com/c/BraxMe)
-- [The Hated One](https://www.youtube.com/c/TheHatedOne)
+* [David Bombal](https://www.youtube.com/c/DavidBombal)
+* [Hak5](https://www.youtube.com/c/hak5)
+* [John Hammond](https://www.youtube.com/c/JohnHammond010)
+* [Linus Tech Tips](https://www.youtube.com/c/LinusTechTips)
+* [Naomi Brockwell: NBTV](https://www.youtube.com/@NaomiBrockwellTV)
+* [SecurityFWD](https://www.youtube.com/c/SecurityFWD)
+* [Seytonic](https://www.youtube.com/c/Seytonic)
+* [Sir Sudo](https://www.youtube.com/c/SirSudo)
+* [SomeOrdinaryGamers](https://www.youtube.com/c/SomeOrdinaryGamers)
+* [spacehuhn](https://www.youtube.com/c/spacehuhn)
+* [Surveillance Report](https://www.youtube.com/c/SurveillanceReport)
+* [Techlore](https://www.youtube.com/c/Techlore)
+* [ThioJoe](https://www.youtube.com/c/ThioJoe)
+* [Luke Smith](https://www.youtube.com/c/LukeSmithxyz)
+* [Mental Outlaw](https://www.youtube.com/c/MentalOutlaw)
+* [Rob Braxman Tech](https://www.youtube.com/c/BraxMe)
+* [The Hated One](https://www.youtube.com/c/TheHatedOne)
 
 ### Books / Media
-- [Anna's Archive](https://www.annas-archive.org/)
-- [FreeBookSpot](https://www.freebookspot.club/)
-- [Internet Archive](https://archive.org/details/texts?tab=collection)
-- [Library Genesis](https://libgen.is/)
-- [PDF Drive](https://www.pdfdrive.com/)
-- [Project Gutenberg](https://www.gutenberg.org/)
-- [Wikibooks](https://www.wikibooks.org/)
+* [Anna's Archive](https://www.annas-archive.org/)
+* [FreeBookSpot](https://www.freebookspot.club/)
+* [Internet Archive](https://archive.org/details/texts?tab=collection)
+* [Library Genesis](https://libgen.is/)
+* [PDF Drive](https://www.pdfdrive.com/)
+* [Project Gutenberg](https://www.gutenberg.org/)
+* [Wikibooks](https://www.wikibooks.org/)
 
-    - Michael Bazzell
-        - Extreme Privacy: What It Takes to Disappear [Amazon](https://www.amazon.com/dp/B09W78GW2T) - [Anna’s Archive](https://www.annas-archive.org/md5/3bca9891bf832a50e0f8d7aee7555eb3)
-        - OSINT Techniques: Resources for Uncovering Online Information [Amazon](https://www.amazon.com/dp/B0BRDLYX75) - [Anna’s Archive](https://www.annas-archive.org/md5/14597c8090f6d0eed2f9d8d2480f0b24)
+* Michael Bazzell
+  * Extreme Privacy: What It Takes to Disappear [Amazon](https://www.amazon.com/dp/B09W78GW2T) - [Anna’s Archive](https://www.annas-archive.org/md5/3bca9891bf832a50e0f8d7aee7555eb3)
+  * OSINT Techniques: Resources for Uncovering Online Information [Amazon](https://www.amazon.com/dp/B0BRDLYX75) - [Anna’s Archive](https://www.annas-archive.org/md5/14597c8090f6d0eed2f9d8d2480f0b24)
 
-  - Ripping Blu-ray / DVD / CD Media
-    - Great YT Tutorial - [Link](https://youtu.be/S2yze4DUCT0) 
-    - Software
-        - MakeMKV (v1.17.5) - [Website](https://makemkv.com/) - [Download ⬇️](https://makemkv.com/download/Setup_MakeMKV_v1.17.5.exe)
-            - Current Beta Key: `T-YIPPz6Z8MFlFJkPA4YTnwcNGX5IU1AqAJdQi8akyG8m2AXqWm9sfuqXmFYScGcfDw8`
-        - SDFtool Flasher (v1.3.5) - [Download ⬇️](https://www.mediafire.com/file/rak1mk0p0qlqa0t/SDFtool+Flasher+%28v1.3.5%29.zip/file)
-            - "All You Need Firmware Pack" - [Download ⬇️](https://www.mediafire.com/file/ph1ap2egi441epk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
-        - HandBrake (1.7.2) - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
-    - Hardware
-      - [#1 - LG WH16NS40](https://www.amazon.com/dp/B00E7B08MS)
-      - [#2 - ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)
-      - [#3 - ASUS BW-16D1X-U](https://www.amazon.com/dp/B071VP89X1)
+* Ripping Blu-ray / DVD / CD Media
+    * Great YT Tutorial - [Link](https://youtu.be/S2yze4DUCT0) 
+    * Software
+        * MakeMKV (v1.17.5) - [Website](https://makemkv.com/) - [Download ⬇️](https://makemkv.com/download/Setup_MakeMKV_v1.17.5.exe)
+            * Current Beta Key: `T-YIPPz6Z8MFlFJkPA4YTnwcNGX5IU1AqAJdQi8akyG8m2AXqWm9sfuqXmFYScGcfDw8`
+        * SDFtool Flasher (v1.3.5) - [Download ⬇️](https://www.mediafire.com/file/rak1mk0p0qlqa0t/SDFtool+Flasher+%28v1.3.5%29.zip/file)
+            * "All You Need Firmware Pack" - [Download ⬇️](https://www.mediafire.com/file/ph1ap2egi441epk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
+        * HandBrake (1.7.2) - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
+    * Hardware
+        * [#1 - LG WH16NS40](https://www.amazon.com/dp/B00E7B08MS)
+        * [#2 - ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)
+        * [#3 - ASUS BW-16D1X-U](https://www.amazon.com/dp/B071VP89X1)
 
 ### Fake Info
 | `Fake Info` | `Links` |
@@ -104,7 +104,6 @@
 | US Car License Plates Registration Tags Generator | [Link](https://www.elfqrin.com/uscarlicenseplates.php) |
 
 ### WLAN-SSID: Opt-Out
-
 >Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of [global maps](https://wigle.net/).
 >
 >[Mozilla Location Services and How to Opt-Out.](https://location.services.mozilla.com/optout)
