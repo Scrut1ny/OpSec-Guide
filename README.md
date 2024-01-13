@@ -132,7 +132,7 @@
 | DNS Leaks | 1.1.1.1 & 1.0.0.1 / 2606:4700:4700::1111 & 2606:4700:4700::1001 | [DNS leak test](https://www.dnsleaktest.com/) |
 | WebRTC Leaks | about:config - media.peerconnection.enabled = false | [WebRTC Test](https://browserleaks.com/webrtc) |
 | HTML5 Geolocation Leaks | about:config - geo.enabled = false | [geo](https://browserleaks.com/geo) |
-| Torrent IP leak | Lock Client to use VPN / SOCKS5 (acts as auto killswitch) | [do-i-leak](https://www.top10vpn.com/tools/do-i-leak/) |
+| Torrent IP leak | Lock Client to use VPN / SOCKS5 (acts as auto killswitch) | [bash.ws](https://bash.ws/torrent-leak-test) |
 
 ### FF Addons
 |`Name`|`Link`|`Desc.`|
