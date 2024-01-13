@@ -90,8 +90,9 @@
         * HandBrake (1.7.2) - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
     * Hardware
         * [#1 - LG WH16NS40](https://www.amazon.com/dp/B00E7B08MS)
-        * [#2 - ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)
-        * [#3 - ASUS BW-16D1X-U](https://www.amazon.com/dp/B071VP89X1)
+        * [#2 - LG WH14NS40](https://www.amazon.com/dp/B007VPGL5U)
+        * [#3 - ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)
+        * [#4 - ASUS BW-16D1X-U](https://www.amazon.com/dp/B071VP89X1)
 
 ### Fake Info
 | `Fake Info` | `Links` |
