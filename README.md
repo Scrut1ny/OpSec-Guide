@@ -146,7 +146,6 @@
 
 ### Mail Services
 - [Proton](https://proton.me/) 🔥
-- [Skiff](https://skiff.com/)
 - [tuta](https://tuta.com/)
 - [startmail](https://www.startmail.com/)
 - [mailbox](https://mailbox.org/)
