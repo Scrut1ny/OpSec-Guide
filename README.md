@@ -48,7 +48,7 @@
 | [voip.ms](https://voip.ms/residential) - [twilio](https://www.twilio.com/) - [gotrunk](https://gotrunk.com/) | [FreePBX](https://www.freepbx.org/) - [⬇️](https://downloads.freepbxdistro.org/ISO/SNG7-PBX16-64bit-2302-1.iso) | [linphone](https://linphone.org/) - [⬇️](https://linphone.org/) - [zoiper5](https://www.zoiper.com/) - [⬇️](https://www.zoiper.com/en/voip-softphone/download/current)|
 - [YT Guide](https://www.youtube.com/watch?v=DZ0czppbamo)
 
-### Great Tech/Privacy/Security YouTubers
+## Great Tech/Privacy/Security YouTubers
 * [David Bombal](https://www.youtube.com/c/DavidBombal)
 * [Hak5](https://www.youtube.com/c/hak5)
 * [John Hammond](https://www.youtube.com/c/JohnHammond010)
@@ -67,7 +67,7 @@
 * [Rob Braxman Tech](https://www.youtube.com/c/BraxMe)
 * [The Hated One](https://www.youtube.com/c/TheHatedOne)
 
-### Books / Media
+## Books / Media
 * [Anna's Archive](https://www.annas-archive.org/)
 * [FreeBookSpot](https://www.freebookspot.club/)
 * [Internet Archive](https://archive.org/details/texts?tab=collection)
@@ -94,22 +94,22 @@
         * [#3 - ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)
         * [#4 - ASUS BW-16D1X-U](https://www.amazon.com/dp/B071VP89X1)
 
-### Fake Info
+## Fake Info
 | `Fake Info` | `Links` |
 |-|-|
 | thispersondoesnotexist | [Link](https://thispersondoesnotexist.com/) |
 | Fake ID | [Link](https://businer.com/fakeid.php) |
-| Credit Card Generator | [Link](https://businer.com/discard_credit_card_generator.php) |
-| Credit Card BINs generator and validator | [Link](https://businer.com/credit_card_bin_generator.php) |
-| US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator | [Link](https://businer.com/usssndriverlicenseidgen.php) |
-| US Car License Plates Registration Tags Generator | [Link](https://businer.com/uscarlicenseplates.php) |
+| Credit Card Generator | [Link](https://www.businer.com/discard_credit_card_generator.php?mode=generate) |
+| Credit Card BINs generator and validator | [Link](https://www.businer.com/credit_card_bin_generator.php) |
+| US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator | [Link](https://www.businer.com/usssndriverlicenseidgen.php) |
+| US Car License Plates Registration Tags Generator | [Link](https://www.businer.com/uscarlicenseplates.php) |
 
-### WLAN-SSID: Opt-Out
+## WLAN-SSID: Opt-Out
 >Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of [global maps](https://wigle.net/).
 >
 >[Mozilla Location Services and How to Opt-Out.](https://location.services.mozilla.com/optout)
 
-### Governement / Law Enforcement 
+## Governement / Law Enforcement 
 | `Desc.` | `Links` |
 |-|-|
 | Police use cellphone data used to solve murder case | [Link](https://www.youtube.com/watch?v=EmWsW_p_ta4) |
