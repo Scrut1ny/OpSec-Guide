@@ -98,11 +98,11 @@
 | `Fake Info` | `Links` |
 |-|-|
 | thispersondoesnotexist | [Link](https://thispersondoesnotexist.com/) |
-| Fake ID | [Link](https://www.elfqrin.com/fakeid.php) |
-| Credit Card Generator | [Link](https://www.elfqrin.com/discard_credit_card_generator.php) |
-| Credit Card BINs generator and validator | [Link](https://www.elfqrin.com/credit_card_bin_generator.php) |
-| US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator | [Link](https://www.elfqrin.com/usssndriverlicenseidgen.php) |
-| US Car License Plates Registration Tags Generator | [Link](https://www.elfqrin.com/uscarlicenseplates.php) |
+| Fake ID | [Link](https://businer.com/fakeid.php) |
+| Credit Card Generator | [Link](https://businer.com/discard_credit_card_generator.php) |
+| Credit Card BINs generator and validator | [Link](https://businer.com/credit_card_bin_generator.php) |
+| US SSN / Driver License (DL) / State ID / Passport / Tax ID Generator | [Link](https://businer.com/usssndriverlicenseidgen.php) |
+| US Car License Plates Registration Tags Generator | [Link](https://businer.com/uscarlicenseplates.php) |
 
 ### WLAN-SSID: Opt-Out
 >Rename your network WiFi SSID to `<SSID>_optout_nomap` to opt-out of [global maps](https://wigle.net/).
