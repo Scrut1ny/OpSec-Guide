@@ -38,6 +38,7 @@
 | Entertainment | entertainmentXXXX@pm.me | Streaming services, hobbies, etc. |
 | Utilities | utilitiesXXXX@pm.me | Electricity, gas, water, and internet service providers. |
 | Education | educationXXXX@pm.me | High School, College, School-related. |
+| Miscellaneous | miscellaneousXXXX@pm.me | Miscellaneous shit |
 
 ### Quick Anonymity Solutions
 * [Redact](https://redact.dev/)
