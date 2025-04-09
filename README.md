@@ -23,6 +23,9 @@
 - Never give out your personal email.
 - XXXX = 4 Random digits 0-9.
 ```
+
+- WARNING: Once an alias/address has been created, you CANNOT delete it!
+
 | Categories | Aliases | Purpose |
 | - | - | - |
 | Personal | personalXXXX@pm.me | Personal emails, communication with friends and family, and other non-work-related matters. |
