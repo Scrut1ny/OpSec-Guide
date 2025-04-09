@@ -30,7 +30,7 @@
 | - | - | - |
 | Personal | personalXXXX@pm.me | Personal emails, communication with friends and family, and other non-work-related matters. |
 | Work/Job | workXXXX@pm.me | Job applications, professional networking, and correspondence with colleagues or clients. |
-| Finance | financeXXXX@pm.me | Banking, online shopping, bills, and financial statements. |
+| Finance | financeXXXX@pm.me | Banking, bills, and financial statements. |
 | Online Shopping | shoppingXXXX@pm.me | Shopping accounts, receipts, and e-commerce related emails. |
 | Travel | travelXXXX@pm.me | Travel bookings, confirmations, and related communication. |
 | Health | healthXXXX@pm.me | Appointment confirmations, prescription orders, and medical records. |
