@@ -89,9 +89,9 @@
     * Software
         * MakeMKV (v1.18.1) - [Website](https://makemkv.com/) - [Download ⬇️](https://makemkv.com/download/Setup_MakeMKV_v1.18.1.exe)
             * [Current Beta Key](https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053): `T-ojN79AT7nFd1NN90alqBt4Piy8I01A1Z42yZeufFiSz2iC3Tai8e9ZgWq8G1sFacmJ`
-        * SDFtool Flasher (v1.3.5) - [Download ⬇️](https://www.mediafire.com/file/rak1mk0p0qlqa0t/SDFtool+Flasher+%28v1.3.5%29.zip/file)
-            * "All You Need Firmware Pack" - [Download ⬇️](https://www.mediafire.com/file/ph1ap2egi441epk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
-        * HandBrake (1.7.2) - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
+        * SDFtool Flasher (v1.3.6) - [Download ⬇️](https://www.mediafire.com/file_premium/ic1mmyg0fputnnh/SDFtool_Flasher_%2528v1.3.6%2529.zip/file)
+            * "All You Need Firmware Pack" - [Download ⬇️](https://www.mediafire.com/file/bpl3pz2brp9lquk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
+        * HandBrake (1.9.2) - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
     * Hardware
         * [#1 - LG WH16NS40](https://www.amazon.com/dp/B00E7B08MS)
         * [#2 - LG WH14NS40](https://www.amazon.com/dp/B007VPGL5U)
