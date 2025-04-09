@@ -24,7 +24,7 @@
 - XXXX = 4 Random digits 0-9.
 ```
 
-- WARNING: Once an alias/address has been created, you CANNOT delete it!
+- WARNING: Once an alias/address has been created, you can ONLY delete 1/yr!
 
 | Categories | Aliases | Purpose |
 | - | - | - |
