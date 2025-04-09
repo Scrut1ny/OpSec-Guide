@@ -37,7 +37,7 @@
 | Gaming | gamingXXXX@pm.me | Video games, gaming communities, game subscriptions, and any other gaming-related content. |
 | Hobbies/Clubs | hobbiesXXXX@pm.me | Clubs, groups, or have specific hobbies |
 | Utilities | utilitiesXXXX@pm.me | Electricity, gas, water, and internet service providers. |
-| Education | educationXXXX@pm.me | High School, Collage, School-related. |
+| Education | educationXXXX@pm.me | High School, College, School-related. |
 
 ### Quick Anonymity Solutions
 * [Redact](https://redact.dev/)
