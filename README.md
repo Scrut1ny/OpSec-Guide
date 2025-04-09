@@ -35,7 +35,7 @@
 | Travel | travelXXXX@pm.me | Travel bookings, confirmations, and related communication. |
 | Health | healthXXXX@pm.me | Appointment confirmations, prescription orders, and medical records. |
 | Gaming | gamingXXXX@pm.me | Video games, gaming communities, game subscriptions, and any other gaming-related content. |
-| Hobbies/Clubs | hobbiesXXXX@pm.me | Clubs, groups, or have specific hobbies |
+| Entertainment | entertainmentXXXX@pm.me | Streaming services, hobbies, etc. |
 | Utilities | utilitiesXXXX@pm.me | Electricity, gas, water, and internet service providers. |
 | Education | educationXXXX@pm.me | High School, College, School-related. |
 
