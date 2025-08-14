@@ -1,7 +1,3 @@
-# PRIVACY & SECURITY
-
----
-
 <div align="center">
   
   ## Browsers
