@@ -7,8 +7,6 @@
 ---
 
 ### Browser: Engines
-- [PrivacyTests.org](https://privacytests.org/)
-
 - Gecko Engine
   - [librewolf](https://librewolf.net/) 🔥
   - [Firefox](https://www.mozilla.org/firefox/new/)
@@ -27,6 +25,7 @@
 
 ### Browser: Tests
 - Browser privacy:
+  - [PrivacyTests.org](https://privacytests.org/)
   - [coveryourtracks.eff](https://coveryourtracks.eff.org/)
   - [deviceinfo](https://www.deviceinfo.me/)
   - [browserleaks](https://browserleaks.com)
