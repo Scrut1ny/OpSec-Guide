@@ -1,11 +1,13 @@
 # PRIVACY & SECURITY
 
 ---
+
 <div align="center">
   
   ## Browsers
 
 </div>
+
 ---
 
 ### Browser: Engines
