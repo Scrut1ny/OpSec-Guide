@@ -2,7 +2,7 @@
 
 ### Browsers
 
-- https://privacytests.org/
+- [PrivacyTests.org](https://privacytests.org/)
 
 - `Gecko Engine`
  - [librewolf](https://librewolf.net/) 🔥
