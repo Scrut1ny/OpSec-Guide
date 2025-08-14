@@ -2,12 +2,12 @@
 
 ### Browsers
 
-- `Gecko Engine`
+- Gecko Engine
   - [librewolf](https://librewolf.net/) 🔥
   - [Firefox](https://www.mozilla.org/firefox/new/)
   - [Tor](https://www.torproject.org/)
   - [Mullvad Browser](https://mullvad.net/browser)
-- `Chromium Engine`
+- Chromium Engine
   - [Brave](https://brave.com/)
   - [ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
     - Extract CRX and XPI files: [crxextract](https://www.crxextract.com/)
