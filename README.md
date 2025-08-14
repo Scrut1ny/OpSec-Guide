@@ -1,5 +1,3 @@
----
-
 ### Browsers
 
 - Gecko Engine
