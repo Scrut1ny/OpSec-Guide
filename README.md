@@ -5,14 +5,14 @@
 - [PrivacyTests.org](https://privacytests.org/)
 
 - `Gecko Engine`
- - [librewolf](https://librewolf.net/) 🔥
- - [Firefox](https://www.mozilla.org/firefox/new/)
- - [Tor](https://www.torproject.org/)
- - [Mullvad Browser](https://mullvad.net/browser)
+  - [librewolf](https://librewolf.net/) 🔥
+  - [Firefox](https://www.mozilla.org/firefox/new/)
+  - [Tor](https://www.torproject.org/)
+  - [Mullvad Browser](https://mullvad.net/browser)
 - `Chromium Engine`
- - [Brave](https://brave.com/)
- - [ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
-  - Extract CRX and XPI files: [crxextract](https://www.crxextract.com/)
+  - [Brave](https://brave.com/)
+  - [ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
+    - Extract CRX and XPI files: [crxextract](https://www.crxextract.com/)
 
 
 
