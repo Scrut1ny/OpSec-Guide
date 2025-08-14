@@ -34,7 +34,7 @@
   - [SponsorBlock - Skip Sponsorships on YouTube](https://addons.mozilla.org/firefox/addon/sponsorblock/)
 - Chromium Engine
   - [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-    - Note: Visit `chrome://flags`, then ENABLE `Temporarily unexpire M137 flags.` option. Now relaunch browser!
+    - Note: Visit `chrome://flags`, then ENABLE the `Temporarily unexpire M137 flags.` option. Relaunch browser. Visit `chrome://flags` again. Now, ENABLE the `Allow legacy extension manifest versions` option. You should now be able to install the extention!
   - [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
   - [User-Agent Switcher and Manager](https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg)
   - [SponsorBlock - Skip Sponsorships on YouTube](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
