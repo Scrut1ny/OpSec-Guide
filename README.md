@@ -2,8 +2,6 @@
 
 ### Browsers
 
-- [PrivacyTests.org](https://privacytests.org/)
-
 - `Gecko Engine`
   - [librewolf](https://librewolf.net/) 🔥
   - [Firefox](https://www.mozilla.org/firefox/new/)
