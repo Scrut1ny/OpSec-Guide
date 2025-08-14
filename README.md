@@ -8,14 +8,18 @@
 
 ### Browser: Engines
 - Gecko Engine
-  - [librewolf](https://librewolf.net/) 🔥
-  - [Firefox](https://www.mozilla.org/firefox/new/)
-  - [Tor](https://www.torproject.org/)
-  - [Mullvad Browser](https://mullvad.net/browser)
+  - Desktop
+    - [librewolf](https://librewolf.net/) 🔥
+    - [Firefox](https://www.mozilla.org/firefox/new/)
+    - [Tor](https://www.torproject.org/)
+    - [Mullvad Browser](https://mullvad.net/browser)
+  - Mobile
 - Chromium Engine
-  - [Brave](https://brave.com/)
-  - [ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
-    - Extract CRX and XPI files: [crxextract](https://www.crxextract.com/)
+  - Desktop
+    - [Brave](https://brave.com/)
+    - [ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
+      - Extract CRX and XPI files: [crxextract](https://www.crxextract.com/)
+  - Mobile
 
 ### Browser: Search Engines
 - [SearXNG](https://docs.searxng.org/)
