@@ -29,12 +29,12 @@
   - [coveryourtracks.eff](https://coveryourtracks.eff.org/)
   - [deviceinfo](https://www.deviceinfo.me/)
   - [browserleaks](https://browserleaks.com)
-- IP / DNS / SSL
+- IP / DNS / TLS / WebRTC / etc.
   - [ipleak](https://ipleak.net/)
   - [dnsleaktest](https://www.dnsleaktest.com/)
   - [cloudflare test](https://www.cloudflare.com/ssl/encrypted-sni/)
   - [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/)
-- Ads
+- Ads / tracking
   - [adblock](https://d3ward.github.io/toolz/adblock.html)
   - [canyoublockit](https://canyoublockit.com/)
 
