@@ -9,10 +9,9 @@
 ### Browser: Engines
 - Gecko Engine
   - Desktop
-    - [librewolf](https://librewolf.net/) 🔥
-    - [Firefox](https://www.mozilla.org/firefox/new/)
-    - [Tor](https://www.torproject.org/)
+    - [librewolf](https://librewolf.net/)
     - [Mullvad Browser](https://mullvad.net/browser)
+    - [Tor](https://www.torproject.org/)
   - Mobile
 - Chromium Engine
   - Desktop
@@ -27,6 +26,19 @@
 - [Startpage](https://www.startpage.com/)
 - [Brave Search](https://search.brave.com/)
 
+### Browser: Addons / Extentions
+- Gecko Engine
+  - [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/)
+  - [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)
+  - [User-Agent Switcher and Manager](https://addons.mozilla.org/firefox/addon/user-agent-string-switcher/)
+  - [SponsorBlock - Skip Sponsorships on YouTube](https://addons.mozilla.org/firefox/addon/sponsorblock/)
+- Chromium Engine
+  - [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+    - Note: Visit `chrome://flags`, then ENABLE `Temporarily unexpire M137 flags.` option. Now relaunch browser!
+  - [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+  - [User-Agent Switcher and Manager](https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg)
+  - [SponsorBlock - Skip Sponsorships on YouTube](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
+
 ### Browser: Tests
 - Browser privacy:
   - [PrivacyTests.org](https://privacytests.org/)
@@ -35,6 +47,7 @@
   - [browserleaks](https://browserleaks.com)
 - IP / DNS / TLS / WebRTC / etc.
   - [ipleak](https://ipleak.net/)
+  - [bash.ws](https://bash.ws/)
   - [dnsleaktest](https://www.dnsleaktest.com/)
   - [cloudflare test](https://www.cloudflare.com/ssl/encrypted-sni/)
   - [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/)
@@ -106,6 +119,8 @@
 | Utilities | utilitiesXXXX@pm.me | Electricity, gas, water, and internet service providers. |
 | Education | educationXXXX@pm.me | High School, College, School-related. |
 | Miscellaneous | miscellaneousXXXX@pm.me | Miscellaneous shit |
+
+- [Have I Been Pwned](https://haveibeenpwned.com/)
 
 ---
 
@@ -198,16 +213,6 @@
   - Help videos > [Link](https://www.youtube.com/watch?app=desktop&v=2sjqvuHbpLs) & [Link](https://www.youtube.com/watch?app=desktop&v=yv3aBgaMnBU)
     - [Expeal - Erase Your Criminal Record](https://www.expeal.com/)
 
-### IP, DNS, WebRTC, HTML5, LEAKING FIX
-| `Type` | Solutions | `Links` |
-| - | - | - |
-| IPv4 Leaks | VPN / SOCKS5 | [IP Test](https://browserleaks.com/ip) |
-| IPv6 Leaks | VPN / SOCKS5 | [IP Test](https://browserleaks.com/ip) |
-| DNS Leaks | 1.1.1.1 & 1.0.0.1 / 2606:4700:4700::1111 & 2606:4700:4700::1001 | [DNS leak test](https://www.dnsleaktest.com/) |
-| WebRTC Leaks | about:config - media.peerconnection.enabled = false | [WebRTC Test](https://browserleaks.com/webrtc) |
-| HTML5 Geolocation Leaks | about:config - geo.enabled = false | [geo](https://browserleaks.com/geo) |
-| Torrent IP leak | Lock Client to use VPN / SOCKS5 (acts as auto killswitch) | [bash.ws](https://bash.ws/torrent-leak-test) |
-
 ### FF Addons
 |`Name`|`Link`|`Desc.`|
 |-|-|-|
@@ -247,19 +252,6 @@
 - [IVPN](https://www.ivpn.net/)
 - [OpenVPN](https://openvpn.net/vpn-client/)
 - [VPN.XXX](https://www.vpn.xxx/)
-
-### Browser, DNS, VPN, & Breach Leak Tests
-- [have i been pwned?](https://haveibeenpwned.com/)
-- [dnsleaktest](https://www.dnsleaktest.com/)
-- [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/)
-- [cloudflare test](https://www.cloudflare.com/ssl/encrypted-sni/)
-- [ipleak](https://ipleak.net/)
-- [browserleaks](https://browserleaks.com)
-- [coveryourtracks.eff](https://coveryourtracks.eff.org/)
-- [privacytests](https://privacytests.org)
-- [deviceinfo](https://www.deviceinfo.me/)
-- [adblock](https://d3ward.github.io/toolz/adblock.html)
-- [canyoublockit](https://canyoublockit.com/)
 
 ### Password Manager
 - KeePass
