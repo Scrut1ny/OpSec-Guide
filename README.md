@@ -1,3 +1,40 @@
+---
+
+### Browsers
+
+- https://privacytests.org/
+
+- `Gecko Engine`
+ - [librewolf](https://librewolf.net/) 🔥
+ - [Firefox](https://www.mozilla.org/firefox/new/)
+ - [Tor](https://www.torproject.org/)
+ - [Mullvad Browser](https://mullvad.net/browser)
+- `Chromium Engine`
+ - [Brave](https://brave.com/)
+ - [ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
+  - Extract CRX and XPI files: [crxextract](https://www.crxextract.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ### Privacy solutions
 | Blogs | Tools | Products |
 | - | - | - |
@@ -17,6 +54,8 @@
 | [hackers-arise](https://www.hackers-arise.com/) | [safing](https://safing.io/portmaster/) |  |
 |  | [DoxToolV2](https://archive.org/download/DoxToolV2) - Latest+Old+Broken |  |
 |  | [Cain & Abel](https://web.archive.org/web/20190603235413/http://www.oxid.it/cain.html) - Latest+Old |  |
+
+---
 
 ### ProtonMail 10 aliases for various important categories
 ```
@@ -39,6 +78,8 @@
 | Utilities | utilitiesXXXX@pm.me | Electricity, gas, water, and internet service providers. |
 | Education | educationXXXX@pm.me | High School, College, School-related. |
 | Miscellaneous | miscellaneousXXXX@pm.me | Miscellaneous shit |
+
+---
 
 ### Quick Anonymity Solutions
 * [Redact](https://redact.dev/)
