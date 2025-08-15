@@ -213,15 +213,6 @@
   - Help videos > [Link](https://www.youtube.com/watch?app=desktop&v=2sjqvuHbpLs) & [Link](https://www.youtube.com/watch?app=desktop&v=yv3aBgaMnBU)
     - [Expeal - Erase Your Criminal Record](https://www.expeal.com/)
 
-### FF Addons
-|`Name`|`Link`|`Desc.`|
-|-|-|-|
-|uBlock Origin|[Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory.| 🔥
-|User-Agent Switcher and Manager|[Link](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)|Spoof websites trying to gather information about your web navigation—like your browser type and operating system—to deliver distinct content you may not want.|
-|Tampermonkey|[Link](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)|Tampermonkey is the world's most popular userscript manager.|
-|SponsorBlock|[Link](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)|Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors. You can also report sponsors in videos.|
-|KeePassXC-Browser|[Link](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)|Official browser plugin for the KeePassXC password manager|
-
 ### Mail Services
 - [Proton](https://proton.me/) 🔥
 - [tuta](https://tuta.com/)
