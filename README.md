@@ -10,7 +10,7 @@
 - Gecko Engine
   - Desktop
     - [librewolf](https://librewolf.net/)
-    - [Mullvad Browser](https://mullvad.net/browser)
+    - [Mullvad](https://mullvad.net/browser)
     - [Tor](https://www.torproject.org/)
   - Mobile
 - Chromium Engine
