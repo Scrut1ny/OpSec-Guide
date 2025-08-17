@@ -9,7 +9,7 @@
 ### Browser: Engines
 - Gecko Engine
   - Desktop
-    - [librewolf](https://librewolf.net/)
+    - [LibreWolf](https://librewolf.net/)
     - [Waterfox](https://www.waterfox.net/)
     - [Mullvad](https://mullvad.net/browser)
     - [Tor](https://www.torproject.org/)
