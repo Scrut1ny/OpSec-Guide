@@ -157,31 +157,31 @@ https://yourdigitalrights.org/
 * [The Hated One](https://www.youtube.com/c/TheHatedOne)
 
 ## Books / Media
-* [Anna's Archive](https://www.annas-archive.org/)
-* [FreeBookSpot](https://www.freebookspot.club/)
-* [Internet Archive](https://archive.org/details/texts?tab=collection)
-* [Library Genesis](https://libgen.is/)
-* [PDF Drive](https://www.pdfdrive.com/)
-* [Project Gutenberg](https://www.gutenberg.org/)
-* [Wikibooks](https://www.wikibooks.org/)
+- [Anna's Archive](https://www.annas-archive.org/)
+- [FreeBookSpot](https://www.freebookspot.club/)
+- [Internet Archive](https://archive.org/details/texts?tab=collection)
+- [Library Genesis](https://libgen.is/)
+- [PDF Drive](https://www.pdfdrive.com/)
+- [Project Gutenberg](https://www.gutenberg.org/)
+- [Wikibooks](https://www.wikibooks.org/)
 
-* Michael Bazzell
-  * Extreme Privacy: What It Takes to Disappear [Amazon](https://www.amazon.com/dp/B09W78GW2T) - [Anna’s Archive](https://www.annas-archive.org/md5/3bca9891bf832a50e0f8d7aee7555eb3)
-  * OSINT Techniques: Resources for Uncovering Online Information [Amazon](https://www.amazon.com/dp/B0BRDLYX75) - [Anna’s Archive](https://www.annas-archive.org/md5/14597c8090f6d0eed2f9d8d2480f0b24)
+- Michael Bazzell
+  - Extreme Privacy: What It Takes to Disappear [Amazon](https://www.amazon.com/dp/B09W78GW2T) - [Anna’s Archive](https://www.annas-archive.org/md5/3bca9891bf832a50e0f8d7aee7555eb3)
+  - OSINT Techniques: Resources for Uncovering Online Information [Amazon](https://www.amazon.com/dp/B0BRDLYX75) - [Anna’s Archive](https://www.annas-archive.org/md5/14597c8090f6d0eed2f9d8d2480f0b24)
 
-* Ripping Blu-ray / DVD / CD Media
-    * Great YT Tutorial - [Link](https://www.youtube.com/watch?v=XCdqg4DBYiA) 
-    * Software
-        * MakeMKV (v1.18.1) - [Website](https://makemkv.com/) - [Download ⬇️](https://makemkv.com/download/Setup_MakeMKV_v1.18.1.exe)
-            * [Current Beta Key](https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053)
-        * SDFtool Flasher (v1.3.6) - [Download ⬇️](https://www.mediafire.com/file_premium/ic1mmyg0fputnnh/SDFtool_Flasher_%2528v1.3.6%2529.zip/file)
-            * "All You Need Firmware Pack" - [Download ⬇️](https://www.mediafire.com/file/bpl3pz2brp9lquk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
-        * HandBrake (1.9.2) - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
-    * Hardware
-        * [#1 - LG WH16NS40](https://www.amazon.com/dp/B00E7B08MS)
-        * [#2 - LG WH14NS40](https://www.amazon.com/dp/B007VPGL5U)
-        * [#3 - ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)
-        * [#4 - ASUS BW-16D1X-U](https://www.amazon.com/dp/B071VP89X1)
+- Ripping Blu-ray / DVD / CD Media
+  - Great YT Tutorial - [Link](https://www.youtube.com/watch?v=XCdqg4DBYiA) 
+  - Software
+    - MakeMKV - [Downloads Page](https://makemkv.com/download/)
+      - Current Beta Key - [Key Page](https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053)
+      - SDFtool Flasher - [Download ⬇️](https://www.mediafire.com/file_premium/ic1mmyg0fputnnh/SDFtool_Flasher_%2528v1.3.6%2529.zip/file)
+      - "*All You Need Firmware Pack*" - [Download ⬇️](https://www.mediafire.com/file/bpl3pz2brp9lquk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
+    - HandBrake (1.9.2) - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
+  - Hardware
+    - [#1 - LG WH16NS40](https://www.amazon.com/dp/B00E7B08MS)
+    - [#2 - LG WH14NS40](https://www.amazon.com/dp/B007VPGL5U)
+    - [#3 - ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)
+    - [#4 - ASUS BW-16D1X-U](https://www.amazon.com/dp/B071VP89X1)
 
 ## Fake Info
 | `Fake Info` | `Links` |
