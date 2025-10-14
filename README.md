@@ -174,9 +174,9 @@ https://yourdigitalrights.org/
   - Software
     - MakeMKV - [Downloads Page](https://makemkv.com/download/)
       - Current Beta Key - [Key Page](https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053)
-      - SDFtool Flasher - [Download ⬇️](https://www.mediafire.com/file_premium/ic1mmyg0fputnnh/SDFtool_Flasher_%2528v1.3.6%2529.zip/file)
-      - "*All You Need Firmware Pack*" - [Download ⬇️](https://www.mediafire.com/file/bpl3pz2brp9lquk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
-    - HandBrake (1.9.2) - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
+      - SDFtool Flasher - [Download](https://www.mediafire.com/file_premium/ic1mmyg0fputnnh/SDFtool_Flasher_%2528v1.3.6%2529.zip/file)
+      - "*All You Need Firmware Pack*" - [Download](https://www.mediafire.com/file/bpl3pz2brp9lquk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
+    - HandBrake - [Downloads Page](https://handbrake.fr/downloads.php) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
   - Hardware
     - [#1 - LG WH16NS40](https://www.amazon.com/dp/B00E7B08MS)
     - [#2 - LG WH14NS40](https://www.amazon.com/dp/B007VPGL5U)
