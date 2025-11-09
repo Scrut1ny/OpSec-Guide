@@ -4,7 +4,8 @@
 
 </div>
 
----
+<details>
+<summary>Expand for details...</summary>
 
 ### Browser: Engines
 - Gecko Engine
@@ -56,19 +57,12 @@
   - [adblock](https://d3ward.github.io/toolz/adblock.html)
   - [canyoublockit](https://canyoublockit.com/)
 
+</details>
+
+
+
+
 ---
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
