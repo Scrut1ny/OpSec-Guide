@@ -125,6 +125,13 @@ https://yourdigitalrights.org/
 
 ---
 
+### ProtonMail 10 aliases for various important categories
+
+- [Open-source Tax Solver (OTS)](https://opentaxsolver.sourceforge.net/)
+  - [Downloads](https://opentaxsolver.sourceforge.net/download2024.html?button=+Download+OTS+)
+
+---
+
 ### Quick Anonymity Solutions
 * [Redact](https://redact.dev/)
 * [Incogni](https://incogni.com/)
