@@ -158,7 +158,7 @@ https://yourdigitalrights.org/
 * [The Hated One](https://www.youtube.com/c/TheHatedOne)
 
 ## Books / Media
-- [Anna's Archive](https://www.annas-archive.org/)
+- [Anna's Archive](https://annas-archive.li/)
 - [FreeBookSpot](https://www.freebookspot.club/)
 - [Internet Archive](https://archive.org/details/texts?tab=collection)
 - [Library Genesis](https://libgen.is/)
@@ -167,8 +167,8 @@ https://yourdigitalrights.org/
 - [Wikibooks](https://www.wikibooks.org/)
 
 - Michael Bazzell
-  - Extreme Privacy: What It Takes to Disappear [Amazon](https://www.amazon.com/dp/B09W78GW2T) - [Anna’s Archive](https://www.annas-archive.org/md5/3bca9891bf832a50e0f8d7aee7555eb3)
-  - OSINT Techniques: Resources for Uncovering Online Information [Amazon](https://www.amazon.com/dp/B0BRDLYX75) - [Anna’s Archive](https://www.annas-archive.org/md5/14597c8090f6d0eed2f9d8d2480f0b24)
+  - Extreme Privacy: What It Takes to Disappear [Amazon](https://www.amazon.com/dp/B09W78GW2T) - [Anna’s Archive](https://annas-archive.li/md5/3bca9891bf832a50e0f8d7aee7555eb3)
+  - OSINT Techniques: Resources for Uncovering Online Information [Amazon](https://www.amazon.com/dp/B0BRDLYX75) - [Anna’s Archive](https://annas-archive.li/md5/14597c8090f6d0eed2f9d8d2480f0b24)
 
 - Ripping Blu-ray / DVD / CD Media
   - Great YT Tutorial - [Link](https://www.youtube.com/watch?v=XCdqg4DBYiA) 
