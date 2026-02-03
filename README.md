@@ -158,11 +158,10 @@ https://yourdigitalrights.org/
 * [The Hated One](https://www.youtube.com/c/TheHatedOne)
 
 ## Books / Media
-- [Anna's Archive](https://www.annas-archive.org/)
-- [FreeBookSpot](https://www.freebookspot.club/)
+- [Anna's Archive](https://annas-archive.li/)
 - [Internet Archive](https://archive.org/details/texts?tab=collection)
-- [Library Genesis](https://libgen.is/)
-- [PDF Drive](https://www.pdfdrive.com/)
+- [Library Genesis](https://librarygenesis.net/)
+- [PDF Drive](https://pdfdrive.webs.nf/)
 - [Project Gutenberg](https://www.gutenberg.org/)
 - [Wikibooks](https://www.wikibooks.org/)
 
