@@ -214,24 +214,24 @@ https://yourdigitalrights.org/
   - [The Intercept_](https://theintercept.com/)
   - [WikiLeaks](https://wikileaks.org/)
 
-### Membership of Countries in 5, 9, and 14 Eyes Alliances
+### Countries in 5, 9, and 14 Eyes Intelligence Alliances
 
-| Country         | 5 Eyes | 9 Eyes | 14 Eyes |
-|-----------------|--------|--------|---------|
-| Australia       | ✅     | ✅     | ✅      |
-| Canada          | ✅     | ✅     | ✅      |
-| New Zealand     | ✅     | ✅     | ✅      |
-| United Kingdom  | ✅     | ✅     | ✅      |
-| United States   | ✅     | ✅     | ✅      |
-| Denmark         | ❌     | ✅     | ✅      |
-| France          | ❌     | ❌     | ✅      |
-| Netherlands     | ❌     | ❌     | ✅      |
-| Norway          | ❌     | ❌     | ✅      |
-| Germany         | ❌     | ❌     | ✅      |
-| Belgium         | ❌     | ❌     | ✅      |
-| Italy           | ❌     | ❌     | ✅      |
-| Spain           | ❌     | ❌     | ✅      |
-| Sweden          | ❌     | ❌     | ✅      |
+| Country         | 5 Eyes (FVEY) | 9 Eyes (FVEY + partners) | 14 Eyes (SIGINT Seniors Europe) |
+|-----------------|---------------|--------------------------|--------------------------------|
+| Australia       | ✅            | ✅                       | ✅                             |
+| Canada          | ✅            | ✅                       | ✅                             |
+| New Zealand     | ✅            | ✅                       | ✅                             |
+| United Kingdom  | ✅            | ✅                       | ✅                             |
+| United States   | ✅            | ✅                       | ✅                             |
+| Denmark         | ❌            | ✅                       | ✅                             |
+| France          | ❌            | ❌                       | ✅                             |
+| Netherlands     | ❌            | ❌                       | ✅                             |
+| Norway          | ❌            | ❌                       | ✅                             |
+| Germany         | ❌            | ❌                       | ✅                             |
+| Belgium         | ❌            | ❌                       | ✅                             |
+| Italy           | ❌            | ❌                       | ✅                             |
+| Spain           | ❌            | ❌                       | ✅                             |
+| Sweden          | ❌            | ❌                       | ✅                             |
 
 ### Record Sweeper - Opt Out - Suppression - Expunge or seal your criminal record - Etc.
 - File a motion to seal or expunge the court records. Present the order sealing or expunging the record to the website where the content is hosted.
