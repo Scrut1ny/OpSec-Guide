@@ -207,6 +207,32 @@ https://yourdigitalrights.org/
 | Police can check celltower ping at time of crime | [Link](https://www.youtube.com/watch?v=ASYm-3NJ-GA&t=40s) |
 | Police are tracking you and your license plates | [Link](https://www.youtube.com/watch?v=DH7edXaZS0A) |
 
+- Transparency, Leaks & Investigative Journalism
+  - [Cryptome](https://cryptome.org/)
+  - [DDoSecrets](https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets)
+  - [Public Intelligence](https://publicintelligence.net/)
+  - [The Intercept_](https://theintercept.com/)
+  - [WikiLeaks](https://wikileaks.org/)
+
+### Membership of Countries in 5, 9, and 14 Eyes Alliances
+
+| Country         | 5 Eyes | 9 Eyes | 14 Eyes |
+|-----------------|--------|--------|---------|
+| Australia       | ✅     | ✅     | ✅      |
+| Canada          | ✅     | ✅     | ✅      |
+| New Zealand     | ✅     | ✅     | ✅      |
+| United Kingdom  | ✅     | ✅     | ✅      |
+| United States   | ✅     | ✅     | ✅      |
+| Denmark         | ❌     | ✅     | ✅      |
+| France          | ❌     | ❌     | ✅      |
+| Netherlands     | ❌     | ❌     | ✅      |
+| Norway          | ❌     | ❌     | ✅      |
+| Germany         | ❌     | ❌     | ✅      |
+| Belgium         | ❌     | ❌     | ✅      |
+| Italy           | ❌     | ❌     | ✅      |
+| Spain           | ❌     | ❌     | ✅      |
+| Sweden          | ❌     | ❌     | ✅      |
+
 ### Record Sweeper - Opt Out - Suppression - Expunge or seal your criminal record - Etc.
 - File a motion to seal or expunge the court records. Present the order sealing or expunging the record to the website where the content is hosted.
 
