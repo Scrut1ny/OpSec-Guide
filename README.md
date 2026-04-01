@@ -1,8 +1,4 @@
-<div align="center">
-  
-  # Browsers
-
-</div>
+# Browsers
 
 <details>
 <summary>Expand for details...</summary>
@@ -198,7 +194,16 @@ https://yourdigitalrights.org/
 >
 >[Mozilla Location Services and How to Opt-Out.](https://location.services.mozilla.com/optout)
 
-## Governement / Law Enforcement 
+
+
+
+
+
+
+
+---
+
+# Government
 | `Desc.` | `Links` |
 |-|-|
 | Police use cellphone data used to solve murder case | [Link](https://www.youtube.com/watch?v=EmWsW_p_ta4) |
@@ -233,6 +238,17 @@ https://yourdigitalrights.org/
 | Spain           | ❌            | ❌                       | ✅                             |
 | Sweden          | ❌            | ❌                       | ✅                             |
 
+---
+
+
+
+
+
+
+
+
+
+
 ### Record Sweeper - Opt Out - Suppression - Expunge or seal your criminal record - Etc.
 - File a motion to seal or expunge the court records. Present the order sealing or expunging the record to the website where the content is hosted.
 
@@ -265,11 +281,10 @@ https://yourdigitalrights.org/
 - [AdGuard](https://adguard.com/en/adguard-dns/overview.html)
 
 ### VPNs
-- [Mullvad](https://mullvad.net/) 🔥
-  - [Onion Link](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/)
-- [IVPN](https://www.ivpn.net/)
-- [OpenVPN](https://openvpn.net/vpn-client/)
-- [VPN.XXX](https://www.vpn.xxx/)
+- [Mullvad](https://mullvad.net/) | [Onion Link](http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/) | [GitHub](https://github.com/mullvad) 🔥
+- [IVPN](https://www.ivpn.net/) | [GitHub](https://github.com/ivpn)
+- [WireGuard](https://www.wireguard.com/install/) 🔥
+- [OpenVPN](https://openvpn.net/client/)
 
 ### Password Manager
 - KeePass
@@ -277,11 +292,6 @@ https://yourdigitalrights.org/
     - [KeePassDX](https://www.keepassdx.com/)
 - [Bitwarden](https://bitwarden.com/)
 - [Proton Pass](https://proton.me/pass)
-
-### EXIF Tool
-- [exiftool](https://exiftool.org/)
-- [exifcleaner](https://github.com/szTheory/exifcleaner/releases/latest)
-- [Exif Pilot](https://www.colorpilot.com/exif.html)
 
 ![wp4184508-edward-snowden-wallpapers](https://user-images.githubusercontent.com/53458032/174272844-25118573-af2a-4d6d-a140-621ebeb6e750.jpg)
 ![wp4184517-edward-snowden-wallpapers](https://user-images.githubusercontent.com/53458032/174272871-864beb01-fab1-439d-b7da-d660dab0fa1e.jpg)
