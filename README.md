@@ -27,13 +27,13 @@
 ### Browser: Addons / Extentions
 - Gecko Engine
   - [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/)
-  - [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)
+  - [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
   - [User-Agent Switcher and Manager](https://addons.mozilla.org/firefox/addon/user-agent-string-switcher/)
   - [SponsorBlock - Skip Sponsorships on YouTube](https://addons.mozilla.org/firefox/addon/sponsorblock/)
 - Chromium Engine
   - [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
     - Note: Visit `chrome://flags`, then ENABLE the `Temporarily unexpire M137 flags.` option. Relaunch browser. Visit `chrome://flags` again. Now, ENABLE the `Allow legacy extension manifest versions` option. You should now be able to install the extention!
-  - [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+  - [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
   - [User-Agent Switcher and Manager](https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg)
   - [SponsorBlock - Skip Sponsorships on YouTube](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
 
