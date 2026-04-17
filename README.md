@@ -129,6 +129,7 @@ https://yourdigitalrights.org/
 * [Incogni](https://incogni.com/)
 * [DeleteMe](https://joindeleteme.com/)
 * [JustDeleteMe](https://justdeleteme.xyz/)
+* [Cloaked](https://www.cloaked.com/)
 
 ### VoIP | SIP | Caller ID | Spoofing
 | Website | OS | Software |
