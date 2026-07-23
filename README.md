@@ -1,3 +1,5 @@
+<img width="3000" height="500" alt="v78CUA6oEUGUOw0" src="https://github.com/user-attachments/assets/e0e40f58-6904-41e4-89da-51cfce52f570" />
+
 # Browsers
 
 <details>
