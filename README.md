@@ -276,6 +276,7 @@ https://yourdigitalrights.org/
 - [Briar](https://briarproject.org/) 🔥
 - [Jami](https://jami.net/)
 - [Status](https://status.im/)
+- [Zukka](https://zukka.app/us/) ([Google Play](https://play.google.com/store/apps/details?id=com.zukka.app&gl=us))
 
 ### Privacy oriented DNS
 > [!IMPORTANT]
